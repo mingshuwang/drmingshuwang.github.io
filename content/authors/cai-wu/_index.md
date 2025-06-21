@@ -35,10 +35,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Urban Morphology & Urban Activities
-  - Human-perceived Urban Space
-  - AI for Urban Evaluation & Redevelopment
-
+  - Urban Morphology 
 
 user_groups:
   - Alumni
