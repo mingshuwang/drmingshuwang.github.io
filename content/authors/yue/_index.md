@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Yue Li
+title: Yue
 
 # Name pronunciation (optional)
 name_pronunciation:
 
 # Full name (for SEO)
 first_name: Yue
-last_name: Li
+last_name: Yue
 
 # Status emoji
 status:
