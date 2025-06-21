@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yue
+title: Yue Li
 
 # Name pronunciation (optional)
 name_pronunciation:
