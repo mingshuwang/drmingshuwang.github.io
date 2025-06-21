@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Analysis | </title>
-    <link>http://localhost:1313/tags/image-analysis/</link>
-      <atom:link href="http://localhost:1313/tags/image-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/image-analysis/</link>
+      <atom:link href="http://localhost:1315/tags/image-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Image Analysis</title>
-      <link>http://localhost:1313/tags/image-analysis/</link>
+      <link>http://localhost:1315/tags/image-analysis/</link>
     </image>
     
     <item>
-      <title>Image processing and analysis methods (2019)</title>
-      <link>http://localhost:1313/publication/remote-sensing-manual-2019/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/remote-sensing-manual-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/remote-sensing-manual-2019/</guid>
+      <guid>http://localhost:1315/publication_disabled/remote-sensing-manual-2019/</guid>
       <description></description>
     </item>
     

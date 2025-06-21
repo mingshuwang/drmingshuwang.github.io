@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Longitudinal Analysis | </title>
-    <link>http://localhost:1313/tags/longitudinal-analysis/</link>
-      <atom:link href="http://localhost:1313/tags/longitudinal-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/longitudinal-analysis/</link>
+      <atom:link href="http://localhost:1315/tags/longitudinal-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Longitudinal Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Longitudinal Analysis</title>
-      <link>http://localhost:1313/tags/longitudinal-analysis/</link>
+      <link>http://localhost:1315/tags/longitudinal-analysis/</link>
     </image>
     
     <item>
-      <title>Urban morphology and traffic congestion: longitudinal evidence from US cities (2021)</title>
-      <link>http://localhost:1313/publication/urban-morphology-traffic/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/urban-morphology-traffic/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-morphology-traffic/</guid>
+      <guid>http://localhost:1315/publication_disabled/urban-morphology-traffic/</guid>
       <description></description>
     </item>
     

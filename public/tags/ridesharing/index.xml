@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ridesharing | </title>
-    <link>http://localhost:1313/tags/ridesharing/</link>
-      <atom:link href="http://localhost:1313/tags/ridesharing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/ridesharing/</link>
+      <atom:link href="http://localhost:1315/tags/ridesharing/index.xml" rel="self" type="application/rss+xml" />
     <description>Ridesharing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Ridesharing</title>
-      <link>http://localhost:1313/tags/ridesharing/</link>
+      <link>http://localhost:1315/tags/ridesharing/</link>
     </image>
     
     <item>
-      <title>Ridesharing accessibility from the human eye: Spatial modeling of built environment with street-level images (2022)</title>
-      <link>http://localhost:1313/publication/ridesharing-accessibility/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/ridesharing-accessibility/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ridesharing-accessibility/</guid>
+      <guid>http://localhost:1315/publication_disabled/ridesharing-accessibility/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sunda Banda Seascapes | </title>
-    <link>http://localhost:1313/tags/sunda-banda-seascapes/</link>
-      <atom:link href="http://localhost:1313/tags/sunda-banda-seascapes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/sunda-banda-seascapes/</link>
+      <atom:link href="http://localhost:1315/tags/sunda-banda-seascapes/index.xml" rel="self" type="application/rss+xml" />
     <description>Sunda Banda Seascapes</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Sunda Banda Seascapes</title>
-      <link>http://localhost:1313/tags/sunda-banda-seascapes/</link>
+      <link>http://localhost:1315/tags/sunda-banda-seascapes/</link>
     </image>
     
     <item>
-      <title>Modeling projected changes of mangrove biomass in different climatic scenarios in the Sunda Banda Seascapes (2017)</title>
-      <link>http://localhost:1313/publication/mangrove-biomass-modeling-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mangrove-biomass-modeling-2017/</guid>
+      <title>(2017) Modeling projected changes of mangrove biomass in different climatic scenarios in the Sunda Banda Seascapes. International Journal of Digital Earth, 10(4), pp. 457-468</title>
+      <link>http://localhost:1315/publication/mangrove-biomass-climate-scenarios-2017/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/mangrove-biomass-climate-scenarios-2017/</guid>
       <description></description>
     </item>
     

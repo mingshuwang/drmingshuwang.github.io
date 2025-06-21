@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment and Planning B | </title>
+    <link>http://localhost:1315/tags/environment-and-planning-b/</link>
+      <atom:link href="http://localhost:1315/tags/environment-and-planning-b/index.xml" rel="self" type="application/rss+xml" />
+    <description>Environment and Planning B</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Environment and Planning B</title>
+      <link>http://localhost:1315/tags/environment-and-planning-b/</link>
+    </image>
+    
+    <item>
+      <title>(2018) Polycentric urban development in China: a multi-scale analysis. Environment and Planning B: Urban Analytics and City Science, 45(5), pp. 953-972</title>
+      <link>http://localhost:1315/publication/polycentric-urban-development-multiscale-2018/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/polycentric-urban-development-multiscale-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta-Regression | </title>
-    <link>http://localhost:1313/tags/meta-regression/</link>
-      <atom:link href="http://localhost:1313/tags/meta-regression/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/meta-regression/</link>
+      <atom:link href="http://localhost:1315/tags/meta-regression/index.xml" rel="self" type="application/rss+xml" />
     <description>Meta-Regression</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Meta-Regression</title>
-      <link>http://localhost:1313/tags/meta-regression/</link>
+      <link>http://localhost:1315/tags/meta-regression/</link>
     </image>
     
     <item>
-      <title>Urbanization&#39;s effects on the urban-rural income gap in China: a meta-regression analysis (2020)</title>
-      <link>http://localhost:1313/publication/urbanization-income-gap/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/urbanization-income-gap/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urbanization-income-gap/</guid>
+      <guid>http://localhost:1315/publication_disabled/urbanization-income-gap/</guid>
       <description></description>
     </item>
     

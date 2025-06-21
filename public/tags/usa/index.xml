@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>USA | </title>
+    <link>http://localhost:1315/tags/usa/</link>
+      <atom:link href="http://localhost:1315/tags/usa/index.xml" rel="self" type="application/rss+xml" />
+    <description>USA</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>USA</title>
+      <link>http://localhost:1315/tags/usa/</link>
+    </image>
+    
+    <item>
+      <title>(2018) Spatial disparities of Uber accessibility: an exploratory analysis in Atlanta, USA. Computers, Environment and Urban Systems, 67, pp. 169-175</title>
+      <link>http://localhost:1315/publication/spatial-disparities-uber-accessibility-2018/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/spatial-disparities-uber-accessibility-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

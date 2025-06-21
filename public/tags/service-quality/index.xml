@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service Quality | </title>
-    <link>http://localhost:1313/tags/service-quality/</link>
-      <atom:link href="http://localhost:1313/tags/service-quality/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/service-quality/</link>
+      <atom:link href="http://localhost:1315/tags/service-quality/index.xml" rel="self" type="application/rss+xml" />
     <description>Service Quality</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Service Quality</title>
-      <link>http://localhost:1313/tags/service-quality/</link>
+      <link>http://localhost:1315/tags/service-quality/</link>
     </image>
     
     <item>
-      <title>Sleepless nights in hotels? Understanding factors that influence hotel sleep quality (2018)</title>
-      <link>http://localhost:1313/publication/hotel-sleep-quality-2018/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/hotel-sleep-quality-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hotel-sleep-quality-2018/</guid>
+      <guid>http://localhost:1315/publication_disabled/hotel-sleep-quality-2018/</guid>
       <description></description>
     </item>
     

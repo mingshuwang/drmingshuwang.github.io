@@ -2,1431 +2,1395 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/england-cities-growing-2025/</loc>
+    <lastmod>2025-06-21T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/geo-spatial-data/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication_types/article-journal/</loc>
+    <lastmod>2025-06-21T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/geoaggregator/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/building-footprint-data/</loc>
+    <lastmod>2025-06-21T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/england-cities/</loc>
+    <lastmod>2025-06-21T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/explainable-ai/</loc>
+    <lastmod>2025-06-21T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/habitat-international/</loc>
+    <lastmod>2025-06-21T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/spatial-analysis/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication_types/</loc>
+    <lastmod>2025-06-21T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/</loc>
+    <lastmod>2025-06-21T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/transformer-models/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-growth/</loc>
+    <lastmod>2025-06-21T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/land-use-conflict/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/shrinking-cities-china-2025/</loc>
+    <lastmod>2025-06-21T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/china/</loc>
+    <lastmod>2025-06-21T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/biodiversity/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/investment-flows/</loc>
+    <lastmod>2025-06-21T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/building-footprints/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/migration-flows/</loc>
+    <lastmod>2025-06-21T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/built-environment/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/shrinking-cities/</loc>
+    <lastmod>2025-06-21T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/china/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-network/</loc>
+    <lastmod>2025-06-21T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/cities/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/urban-pattern-language-2025/</loc>
+    <lastmod>2025-06-21T06:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/conflict-resolution/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/cities/</loc>
+    <lastmod>2025-06-21T06:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/construction-demolition-england/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/morphological-paradigm/</loc>
+    <lastmod>2025-06-21T06:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/construction-patterns/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/multi-scalar-spatial-structure/</loc>
+    <lastmod>2025-06-21T06:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/demolition-analysis/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-pattern-language/</loc>
+    <lastmod>2025-06-21T06:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/england/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-planning/</loc>
+    <lastmod>2025-06-21T06:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/explainable-ai/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/glasgow-traffic-data-2025/</loc>
+    <lastmod>2025-06-21T05:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/urban-pattern-language/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/glasgow/</loc>
+    <lastmod>2025-06-21T05:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/glasgow/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/high-resolution-data/</loc>
+    <lastmod>2025-06-21T05:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/glasgow-traffic-data/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/traffic-flow/</loc>
+    <lastmod>2025-06-21T05:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/investment-patterns/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/transportation/</loc>
+    <lastmod>2025-06-21T05:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/land-use-conflict/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-traffic-control/</loc>
+    <lastmod>2025-06-21T05:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/land-use-planning/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/solar-radiation-plants-2025/</loc>
+    <lastmod>2025-06-21T04:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/migration-flows/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/built-environment/</loc>
+    <lastmod>2025-06-21T04:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/multi-level-analysis/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/ecology/</loc>
+    <lastmod>2025-06-21T04:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/multi-scalar-analysis/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/plant-species/</loc>
+    <lastmod>2025-06-21T04:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/plant-species-distribution/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/solar-radiation/</loc>
+    <lastmod>2025-06-21T04:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/shrinking-cities/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-areas/</loc>
+    <lastmod>2025-06-21T04:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/shrinking-cities-china/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/construction-demolition-2025/</loc>
+    <lastmod>2025-06-21T03:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/smart-cities/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/building-footprints/</loc>
+    <lastmod>2025-06-21T03:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/solar-radiation/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/construction/</loc>
+    <lastmod>2025-06-21T03:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/solar-radiation-plants/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/demolition/</loc>
+    <lastmod>2025-06-21T03:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/spatial-assessment/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/england/</loc>
+    <lastmod>2025-06-21T03:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/spatial-structure/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-analytics/</loc>
+    <lastmod>2025-06-21T03:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/traffic-flow-data/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/land-use-conflict-2025/</loc>
+    <lastmod>2025-06-21T02:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-development/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/conflict-resolution/</loc>
+    <lastmod>2025-06-21T02:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-ecology/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/land-use-conflict/</loc>
+    <lastmod>2025-06-21T02:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-growth/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/land-use-planning/</loc>
+    <lastmod>2025-06-21T02:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-mobility/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/multi-level-analysis/</loc>
+    <lastmod>2025-06-21T02:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-morphology/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/spatial-assessment/</loc>
+    <lastmod>2025-06-21T02:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-networks/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/geoaggregator-2025/</loc>
+    <lastmod>2025-06-21T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-pattern-language/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/deep-learning/</loc>
+    <lastmod>2025-06-21T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-planning/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/geo-spatial-data/</loc>
+    <lastmod>2025-06-21T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-traffic-control/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/machine-learning/</loc>
+    <lastmod>2025-06-21T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication_types/paper-conference/</loc>
+    <lastmod>2025-06-21T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1315/tags/spatial-analysis/</loc>
+    <lastmod>2025-06-21T01:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/transformer-models/</loc>
+    <lastmod>2025-06-21T01:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/geospatial/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/post/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/publication/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/transformer/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/conference/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/giscience/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/presentation/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/post/2025-06-conference-presentation/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/urban-informatics/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/funding/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/grant/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/post/2025-05-research-grant-awarded/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/research/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/urban-ai/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/phd-student/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/team/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/welcome/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/post/2025-04-new-team-member/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/covid-traffic-glasgow-2024/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/big-data/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/covid-19/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/pandemic-response/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/urban-traffic/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/singapore-polycentricity-2024/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/city-science/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/master-plan/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/singapore/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/urban-polycentricity/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/privacy-subway-travelers-2024/</loc>
+    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/anonymization/</loc>
+    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/privacy-protection/</loc>
+    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/subway-travelers/</loc>
+    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/urban-systems/</loc>
+    <lastmod>2024-12-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/agile-preface-2024/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/agile-conference/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/geographic-information-science/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/preface/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/occupation-prediction-multimodal-2024/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/google-street-view/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/multimodal-learning/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/occupation-prediction/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/twitter/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/spacematrix-singapore-hdb-2024/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/clustering/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/housing-development-board/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/spacematrix/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/urban-morphology/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/transformer-geospatial-egu-2024/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/egu/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/geospatial-data/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/street-pattern-machine-learning-2024/</loc>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/characterisation/</loc>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/street-pattern/</loc>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/mapping-street-patterns-2024/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/geo-information/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/isprs/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/network-science/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/street-patterns/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/chinese-cities/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/gis/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/graph-convolutional-networks/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/street-network-analysis/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/three-dimensional-land-use-2024/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/multi-level-modelling/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/property-prices/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/three-dimensional-land-use/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/agile-conference-edited-2024/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication_types/book-section/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/edited-journal/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/sustainable-future/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/transformer-geospatial-egu-2024/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/conference-paper/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/earth-observation/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/data-representation/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/geoinformation/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/egu-conference/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/spatial-optimization/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/geospatial-data/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-agriculture/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/transformer-model/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/ai-society-culture-cycle-2023/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/agile-conference-edited-2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/ai-ethics/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spacematrix-singapore-hdb-2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/artificial-intelligence/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/agile-conference/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/culture-cycle/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/anonymization/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/eu-ai-master-plan/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/big-data/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/society/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/book-section/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/shanghai-polycentric-sentinel-2023/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/chinese-cities/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/polycentric-urban-development/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/clustering/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/remote-sensing/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/conference-preface/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/sentinel-1-sar/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/covid-19/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/shanghai/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/data-privacy/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/urban-traffic-big-data-gisruk-2023/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/edited-journal/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/gisruk/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/geographic-information-science/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-traffic-flows/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/giscience/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/air-pollutant-industrial-regions-2023/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/google-street-view/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/air-pollutant/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/graph-convolutional-networks/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/continental-level/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/industrial-regions/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hdb-estates/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/spatial-disparities/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/singapore-polycentricity/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/covid-fighting-planning-2023/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/hong-kong/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/street-pattern-machine-learning-2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/mass-gatherings/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/mapping-street-patterns-2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/public-health/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/master-planning/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/social-distancing/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/multi-level-modelling/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/land-use-regulations-transit-2022/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/multimodal-learning/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/commuting-preferences/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/network-analysis/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/land-use-policy/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/network-science/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/land-use-regulations/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/occupation-prediction/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/transit-investment/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/occupation-prediction-multimodal-2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/ridesharing-accessibility-human-eye-2022/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/pandemic-response/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/human-eye/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/agile-preface-2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/ridesharing-accessibility/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/privacy-protection/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/spatial-modeling/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/property-prices/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/street-level-images/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/singapore/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/urban-expansion-income-gap-2022/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/spacematrix/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/empirical-evidence/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/strategic-planning/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-expansion/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/street-network-analysis/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-rural-income-gap/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/street-patterns/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/hierarchical-spatial-unit-partitioning-2022/</loc>
+    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/subway-travelers/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/fine-grained-identification/</loc>
+    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/sustainable-future/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/hierarchical-spatial-unit/</loc>
+    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/three-dimensional-land-use/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/partitioning-approach/</loc>
+    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/three-dimensional-land-use-2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-functional-region/</loc>
+    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/twitter/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/regional-integration-horn-africa-2022/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/privacy-subway-travelers-2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/africa/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/covid-traffic-glasgow/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/applied-geography/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-centers/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/horn-of-africa/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-form/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/inter-city-connectivity/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-polycentricity/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/regional-integration/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-traffic/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/urban-traffic-flows-isprs-2022/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-transportation/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/isprs-congress/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/urban-traffic-big-data-gisruk-2023/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/taxi-ridership-spatial-spillover-2022/</loc>
+    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/gisruk/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/spatial-spillover-effects/</loc>
+    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/traffic-analysis/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/taxi-ridership/</loc>
+    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/transportation-planning/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/temporal-dynamics/</loc>
+    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/accessibility/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/historical-heritage-area-vitality-2022/</loc>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ai-governance/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/historical-heritage-area/</loc>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/air-pollution/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/vitality/</loc>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/air-quality/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/continental-scale/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/culture-cycle/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/air-pollutant-industrial-regions-2023/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/ai-society-culture-cycle-2023/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/environmental-monitoring/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/glasgow-urban-agriculture/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/eu-ai-policy/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/food-security/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/industrial-regions/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/polycentric-development/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/remote-sensing/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/sentinel-1-sar/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/shanghai/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/society/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/spatial-optimization/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/technology-integration/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-agriculture/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-structure/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1315/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:1315/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>http://localhost:1315/home/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/people/</loc>
+    <loc>http://localhost:1315/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>http://localhost:1315/publication/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/traffic-flows-deep-learning-isprs-2022/</loc>
-    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/teaching/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/isprs/</loc>
-    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/measuring-polycentric-urban-development-2021/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/hierarchical-spatial-partitioning-2022/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-centers/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/africa/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/simulating-urban-spatial-structure-2021/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/commuting-preferences/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/computers-environment-urban-systems/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/computer-vision/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/spatial-interaction/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/heritage-vitality-morphology-2022/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-spatial-structure/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/economic-development/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/urban-morphology-traffic-congestion-2021/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/gis/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/traffic-congestion/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/heritage-conservation/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/us-cities/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hierarchical-analysis/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/access-urban-parks-gis-2021/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/historical-heritage/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/spatial-accessibility/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/horn-of-africa/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-parks/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/income-gap/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/inter-city-connectivity/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/land-use-regulations/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/land-use-regulations-transit-2022/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/regional-development/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/regional-integration/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/horn-africa-connectivity-2022/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/ridesharing/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/ridesharing-accessibility/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/spatial-partitioning/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/spatial-spillover/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/street-level-images/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/sustainable-transportation/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/taxi-ridership/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/temporal-dynamics/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/transit-investment/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/transportation/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/transportation-networks/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/transportation-policy/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/taxi-ridership-spillover-2022/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-expansion/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/urban-expansion-income-gap-2022/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-functional-regions/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-vitality/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-rural-disparity/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urbanization/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/urban-parks-access-gis-2021/</loc>
+    <loc>http://localhost:1315/publication/life-between-buildings-street-view-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/accessibility-analysis/</loc>
+    <loc>http://localhost:1315/tags/big-data-analytics/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/big-data-analytics/</loc>
+    <loc>http://localhost:1315/tags/neighbourhood-vitality/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/covid-built-environment/</loc>
+    <loc>http://localhost:1315/tags/street-view-image/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/green-space/</loc>
+    <loc>http://localhost:1315/tags/urban-studies/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/street-view-vitality/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/road-network-ridesharing-accessibility-2020/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/longitudinal-analysis/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/accessibility/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/polycentric-balance-centers/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/ride-sharing/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/methodology/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/road-network/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/neighbourhood-analysis/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/urban-form-shrinking-cities-carbon-2020/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/applied-energy/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/polycentric-urban-amenities-2021/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/carbon-emissions/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/polycentricity/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/urban-form/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/quality-of-life/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/fighting-covid19-2020/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/urban-spatial-structure-simulation/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/environment-and-planning-a/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/spatial-accessibility/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/spatial-interaction/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/street-view-images/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/traffic-congestion/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-amenities/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-health/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-measurement/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/urban-morphology-traffic/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-parks/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-simulation/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-spatial-structure/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/us-cities/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/carbon-emissions/</loc>
+    <loc>http://localhost:1315/publication/urbanization-income-gap-china-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/climate-change/</loc>
+    <loc>http://localhost:1315/tags/income-gap/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/geography/</loc>
+    <loc>http://localhost:1315/tags/meta-regression-analysis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/meta-regression/</loc>
+    <loc>http://localhost:1315/tags/urbanization/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/policy/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/image-processing-remote-sensing-2019/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/public-health/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication_types/chapter/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/residential-energy/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/image-processing/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ride-sharing/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/manual-of-remote-sensing/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/road-network-ridesharing/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/customer-satisfaction-hotel-reviews-2019/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/road-networks/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/customer-satisfaction/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/urban-form-carbon-emissions-2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/hotel-reviews/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/urbanization-income-gap/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/international-journal-of-hospitality-management/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/covid-fighting-planning-2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/text-analysis/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/rfid-noise-mitigation-2019/</loc>
+    <loc>http://localhost:1315/publication/travel-distance-hotel-satisfaction-2019/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/hotel-service/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/travel-distance/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/robust-noise-mitigation-rfid-2019/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/mobile-rfid/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/noise-mitigation/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/sensors/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/bike-sharing-taxi-chicago-2019/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/bike-sharing/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/chicago/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/journal-of-transport-geography/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/taxi/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/tags/travel-mode-choice/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1315/publication/polycentric-urban-development-china-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/bike-sharing/</loc>
+    <loc>http://localhost:1315/tags/economic-productivity/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/bike-sharing-taxi-choice-2019/</loc>
+    <loc>http://localhost:1315/tags/multiscalar-analysis/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/chapter/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/geospatial-applications-iot-2018/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/chicago/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/geospatial-applications/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/customer-satisfaction/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/guest-editors/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/economic-productivity/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/internet-of-things/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hospitality-management/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/iot/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hotel-reviews/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/isprs-international-journal-of-geo-information/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hotel-service/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/spatial-disparities-uber-accessibility-2018/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/image-analysis/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/atlanta/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/image-processing/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/uber-accessibility/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/remote-sensing-manual-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/usa/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/iot/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/spatial-interactions-tourists-locals-2018/</loc>
+    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/manual/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/flickr/</loc>
+    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/mobile-location/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/locals/</loc>
+    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/multiscalar-analysis/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/spatial-interactions/</loc>
+    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/noise-mitigation/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/tourists/</loc>
+    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/photogrammetry/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/collaborative-location-gnss-rfid-2018/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/polycentric-economic-productivity-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/collaborative-location/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/positioning-systems/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/gnss/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/hotel-reviews-satisfaction-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/rfid/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/rfid/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/sleepless-nights-hotels-2018/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/taxi/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/hospitality-management/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/text-mining/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/hotel-sleep-quality/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/tourism/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/polycentric-urban-development-multiscale-2018/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/travel-distance/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/environment-and-planning-b/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/hotel-travel-distance-satisfaction-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/multi-scale-analysis/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/travel-mode-choice/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-economics/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/gnss-rfid-collaboration-2018/</loc>
+    <loc>http://localhost:1315/publication/integrating-scale-remote-sensing-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/tourist-local-interactions-2018/</loc>
+    <loc>http://localhost:1315/tags/book-review/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/atlanta/</loc>
+    <loc>http://localhost:1315/tags/photogrammetric-engineering-and-remote-sensing/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/book-review/</loc>
+    <loc>http://localhost:1315/tags/scale/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/collaborative-location/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/big-data-intrametropolitan-movement-2017/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/environmental-factors/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/human-movement-studies/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/flickr-data/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/international-review-for-spatial-planning-and-sustainable-development/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/geospatial-applications/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/intrametropolitan-movement/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/iot-geospatial-guest-editor-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/mangrove-biomass-climate-scenarios-2017/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/gnss/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/climate-scenarios/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/guest-editor/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/international-journal-of-digital-earth/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/guest-experience/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/mangrove-biomass/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hotel-sleep-quality/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/sunda-banda-seascapes/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/scale-integration-book-review-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/stay-to-play-travel-planning-2017/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/internet-of-things/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/crowdsourcing/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/multi-scale-analysis/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/travel-planning/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/polycentric-china-multiscale-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/user-generated-contents/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/scale-integration/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/co2-emission-data-china-comparison-2017/</loc>
+    <lastmod>2017-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/service-quality/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/co2-emission-data/</loc>
+    <lastmod>2017-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/hotel-sleep-quality-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/gridded-data-sources/</loc>
+    <lastmod>2017-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/social-media/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/journal-of-cleaner-production/</loc>
+    <lastmod>2017-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/spatial-disparities/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/bike-sharing-congestion-us-cities-2017/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/uber-accessibility-atlanta-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/bike-sharing-systems/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/special-issue/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/congestion/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/tourist-local-interactions/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/transportation-equity/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/uber/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-tourism/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/co2-emission-data-comparison-2017/</loc>
+    <loc>http://localhost:1315/publication/urban-forms-co2-emissions-china-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/big-data-human-movement-2017/</loc>
+    <loc>http://localhost:1315/tags/co2-emissions/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/bikesharing-congestion/</loc>
+    <loc>http://localhost:1315/tags/journal-of-urban-planning-and-development/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/carbon-accounting/</loc>
+    <loc>http://localhost:1315/tags/urban-forms/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/co2-emissions/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/university-students-transit-destinations-2016/</loc>
+    <lastmod>2016-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/conservation/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/regional-studies-regional-science/</loc>
+    <lastmod>2016-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/crowdsourcing/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/transit-destinations/</loc>
+    <lastmod>2016-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/data-comparison/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/university-students/</loc>
+    <lastmod>2016-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ecosystem-management/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/visualizing-pesticide-usage-us-2016/</loc>
+    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/pesticide-usage/</loc>
+    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/travel-planning-crowdsourcing-2017/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/united-states/</loc>
+    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/gridded-data/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/visualization/</loc>
+    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/human-movement/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/bridging-geography-marketing-cybergis-2016/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/intrametropolitan/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/cybergis/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/mangrove-biomass/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/geography/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/modeling/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/marketing/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/mangrove-biomass-modeling-2017/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/geography-matters-hotel-reviews-2016/</loc>
+    <lastmod>2016-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/recommendation-systems/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/isprs-archives/</loc>
+    <lastmod>2016-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/spatial-planning/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/polycentric-urban-china-318-cities-2016/</loc>
+    <lastmod>2016-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/sunda-banda-seascapes/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/318-cities/</loc>
+    <lastmod>2016-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/sustainable-development/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/landscape-and-urban-planning/</loc>
+    <lastmod>2016-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/travel-planning/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/polycentric-urban/</loc>
+    <lastmod>2016-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/urban-forms/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/crowdsourcing-cannabis-landscape-2016/</loc>
+    <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/user-generated-content/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/cannabis/</loc>
+    <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/cybergis-marketing-2016/</loc>
-    <lastmod>2016-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/consumer-behavior/</loc>
-    <lastmod>2016-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/cybergis/</loc>
-    <lastmod>2016-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/marketing/</loc>
-    <lastmod>2016-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/agriculture/</loc>
+    <loc>http://localhost:1315/publication/location-still-everything-book-review-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/cannabis/</loc>
+    <loc>http://localhost:1315/tags/location/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/cannabis-crowdsourcing-2016/</loc>
+    <loc>http://localhost:1315/tags/southeastern-geographer/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/digital-economy/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/delineating-biophysical-environments-sunda-banda-2015/</loc>
+    <lastmod>2015-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/e-commerce/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/biophysical-environments/</loc>
+    <lastmod>2015-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/environmental-analysis/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/indonesia/</loc>
+    <lastmod>2015-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/hotel-reviews-geography-2016/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/international-journal-of-environmental-research-and-public-health/</loc>
+    <lastmod>2015-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hospitality/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/sunda-banda-seascape/</loc>
+    <lastmod>2015-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/polycentric-china-318cities/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/publication/promoting-ecohealth-geography-2015/</loc>
+    <lastmod>2015-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/location/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/ecohealth/</loc>
+    <lastmod>2015-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/location-book-review-2016/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1315/tags/governmental-partnerships/</loc>
+    <lastmod>2015-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/marijuana/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/online-reviews/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/university-transit-trips-2016/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/pesticide-usage/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/spatial-distribution/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/student-mobility/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/temporal-trends/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/transit-trips/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/united-states/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/university-students/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/virtual-commerce/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/visualization/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/pesticide-visualization-2016/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/biophysical-environments/</loc>
+    <loc>http://localhost:1315/publication/global-urban-monitoring-book-review-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sunda-banda-seascape-2015/</loc>
+    <loc>http://localhost:1315/tags/global-urban-monitoring/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/earth-observation/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/ecohealth/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/ecosystem-health/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/environmental-health/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/global-cities/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/urban-monitoring-book-review-2015/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/government-partnerships/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/indonesia/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/marine-ecosystems/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/ecohealth-geography-2015/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/sunda-banda-seascape/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-assessment/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/urban-monitoring/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/dem/</loc>
+    <loc>http://localhost:1315/publication/geomorphological-characteristics-wetlands-georgia-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/geographic-knowledge-discovery/</loc>
+    <loc>http://localhost:1315/tags/annals-of-gis/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/geomorphology/</loc>
+    <loc>http://localhost:1315/tags/dem/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/nlcd/</loc>
+    <loc>http://localhost:1315/tags/geomorphological-characteristics/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/north-georgia/</loc>
+    <loc>http://localhost:1315/tags/nlcd/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/wetlands/</loc>
+    <loc>http://localhost:1315/tags/north-georgia/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/wetlands-geomorphology-2014/</loc>
+    <loc>http://localhost:1315/tags/wetlands/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/cloud-models/</loc>
+    <loc>http://localhost:1315/publication/evaluating-intensive-land-use-cloud-models-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/development-zone/</loc>
+    <loc>http://localhost:1315/tags/cloud-models/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/development-zone-cloud-models-2012/</loc>
+    <loc>http://localhost:1315/tags/development-zone/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/intensive-land-use/</loc>
+    <loc>http://localhost:1315/tags/intensive-land-use/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/land-management/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/land-use-evaluation/</loc>
+    <loc>http://localhost:1315/tags/transactions-of-the-chinese-society-of-agricultural-engineering/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

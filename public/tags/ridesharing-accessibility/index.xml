@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ridesharing Accessibility | </title>
-    <link>http://localhost:1314/tags/ridesharing-accessibility/</link>
-      <atom:link href="http://localhost:1314/tags/ridesharing-accessibility/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/ridesharing-accessibility/</link>
+      <atom:link href="http://localhost:1315/tags/ridesharing-accessibility/index.xml" rel="self" type="application/rss+xml" />
     <description>Ridesharing Accessibility</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1314/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Ridesharing Accessibility</title>
-      <link>http://localhost:1314/tags/ridesharing-accessibility/</link>
+      <link>http://localhost:1315/tags/ridesharing-accessibility/</link>
     </image>
     
     <item>
-      <title>Ridesharing accessibility from the human eye: Spatial modeling of built environment with street-level images</title>
-      <link>http://localhost:1314/publication/ridesharing-street-view-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publication/ridesharing-street-view-2022/</guid>
+      <title>(2022) Ridesharing accessibility from the human eye: Spatial modeling of built environment with street-level images. Computers, Environment and Urban Systems, 97, 101858</title>
+      <link>http://localhost:1315/publication/ridesharing-accessibility-human-eye-2022/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/ridesharing-accessibility-human-eye-2022/</guid>
       <description></description>
     </item>
     

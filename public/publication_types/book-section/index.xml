@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book-Section | </title>
-    <link>http://localhost:1313/publication_types/book-section/</link>
-      <atom:link href="http://localhost:1313/publication_types/book-section/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/publication_types/book-section/</link>
+      <atom:link href="http://localhost:1315/publication_types/book-section/index.xml" rel="self" type="application/rss+xml" />
     <description>Book-Section</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Book-Section</title>
-      <link>http://localhost:1313/publication_types/book-section/</link>
+      <link>http://localhost:1315/publication_types/book-section/</link>
     </image>
     
     <item>
-      <title>27th AGILE Conference on Geographic Information Science &#34;Geographic Information Science for a Sustainable Future&#34; (2024)</title>
-      <link>http://localhost:1313/publication/agile-conference-edited-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/agile-conference-edited-2024/</guid>
+      <title>(2024) 27th AGILE Conference on Geographic Information Science &#34;Geographic Information Science for a Sustainable Future&#34;. AGILE: GIScience Series. 5 [Edited Journal]</title>
+      <link>http://localhost:1315/publication/agile-conference-edited-2024/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/agile-conference-edited-2024/</guid>
       <description></description>
     </item>
     

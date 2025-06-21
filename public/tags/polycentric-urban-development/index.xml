@@ -2,21 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polycentric Urban Development | </title>
-    <link>http://localhost:1314/tags/polycentric-urban-development/</link>
-      <atom:link href="http://localhost:1314/tags/polycentric-urban-development/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/polycentric-urban-development/</link>
+      <atom:link href="http://localhost:1315/tags/polycentric-urban-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Polycentric Urban Development</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1314/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Polycentric Urban Development</title>
-      <link>http://localhost:1314/tags/polycentric-urban-development/</link>
+      <link>http://localhost:1315/tags/polycentric-urban-development/</link>
     </image>
     
     <item>
-      <title>Measuring polycentric urban development with multi-temporal Sentinel-1 SAR imagery: a case study in Shanghai, China</title>
-      <link>http://localhost:1314/publication/polycentric-shanghai-sentinel-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publication/polycentric-shanghai-sentinel-2023/</guid>
+      <title>(2023) Measuring polycentric urban development with multi-temporal Sentinel-1 SAR imagery: a case study in Shanghai, China. International Journal of Applied Earth Observation and Geoinformation, 121, 103340</title>
+      <link>http://localhost:1315/publication/shanghai-polycentric-sentinel-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/shanghai-polycentric-sentinel-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2021) Measuring polycentric urban development: the importance of accurately determining the &#39;balance&#39; between &#39;centers&#39;. Cities, 111, 103009</title>
+      <link>http://localhost:1315/publication/measuring-polycentric-urban-development-2021/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/measuring-polycentric-urban-development-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2019) Polycentric urban development and economic productivity in China: a multiscalar analysis. Environment and Planning A: Economy and Space, 51(8), pp. 1622-1643</title>
+      <link>http://localhost:1315/publication/polycentric-urban-development-china-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/polycentric-urban-development-china-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2018) Polycentric urban development in China: a multi-scale analysis. Environment and Planning B: Urban Analytics and City Science, 45(5), pp. 953-972</title>
+      <link>http://localhost:1315/publication/polycentric-urban-development-multiscale-2018/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/polycentric-urban-development-multiscale-2018/</guid>
       <description></description>
     </item>
     

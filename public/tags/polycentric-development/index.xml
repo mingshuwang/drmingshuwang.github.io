@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polycentric Development | </title>
-    <link>http://localhost:1313/tags/polycentric-development/</link>
-      <atom:link href="http://localhost:1313/tags/polycentric-development/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/polycentric-development/</link>
+      <atom:link href="http://localhost:1315/tags/polycentric-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Polycentric Development</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Polycentric Development</title>
-      <link>http://localhost:1313/tags/polycentric-development/</link>
+      <link>http://localhost:1315/tags/polycentric-development/</link>
     </image>
     
     <item>
-      <title>Measuring polycentric urban development with multi-temporal Sentinel-1 SAR imagery: a case study in Shanghai, China (2023)</title>
-      <link>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/shanghai-polycentric-sentinel-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</guid>
+      <guid>http://localhost:1315/publication_disabled/shanghai-polycentric-sentinel-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Measuring polycentric urban development: the importance of accurately determining the &#39;balance&#39; between &#39;centers&#39; (2021)</title>
-      <link>http://localhost:1313/publication/polycentric-balance-centers/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/journal-article/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-balance-centers/</guid>
+      <guid>http://localhost:1315/publication_disabled/journal-article/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Polycentric urban development and urban amenities: evidence from Chinese cities (2021)</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/polycentric-balance-centers/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <guid>http://localhost:1315/publication_disabled/polycentric-balance-centers/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Polycentric urban development and urban amenities: evidence from Chinese cities (2021)</title>
-      <link>http://localhost:1313/publication/polycentric-urban-amenities-2021/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/polycentric-urban-amenities-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-urban-amenities-2021/</guid>
+      <guid>http://localhost:1315/publication_disabled/polycentric-urban-amenities-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Polycentric urban development and economic productivity in China: a multiscalar analysis (2019)</title>
-      <link>http://localhost:1313/publication/polycentric-economic-productivity-2019/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/polycentric-economic-productivity-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-economic-productivity-2019/</guid>
+      <guid>http://localhost:1315/publication_disabled/polycentric-economic-productivity-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Polycentric urban development in China: a multi-scale analysis (2018)</title>
-      <link>http://localhost:1313/publication/polycentric-china-multiscale-2018/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/polycentric-china-multiscale-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-china-multiscale-2018/</guid>
+      <guid>http://localhost:1315/publication_disabled/polycentric-china-multiscale-2018/</guid>
       <description></description>
     </item>
     

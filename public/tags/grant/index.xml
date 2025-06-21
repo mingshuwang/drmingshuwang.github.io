@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grant | </title>
+    <link>http://localhost:1315/tags/grant/</link>
+      <atom:link href="http://localhost:1315/tags/grant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grant</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Grant</title>
+      <link>http://localhost:1315/tags/grant/</link>
+    </image>
+    
+    <item>
+      <title>Major Research Grant Awarded for Urban AI Project</title>
+      <link>http://localhost:1315/post/2025-05-research-grant-awarded/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/post/2025-05-research-grant-awarded/</guid>
+      <description>&lt;p&gt;We are thrilled to announce that our research group has been awarded a &lt;strong&gt;£500,000 research grant&lt;/strong&gt; from the UK Research and Innovation (UKRI) to support our groundbreaking work on &lt;strong&gt;&amp;ldquo;Explainable AI for Urban Systems: Advancing People-Centric Urban Analytics&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;This three-year project will focus on developing explainable artificial intelligence methods for understanding urban systems from a people-centric perspective. The research will address critical challenges in:&lt;/p&gt;
+&lt;h3 id=&#34;research-objectives&#34;&gt;Research Objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Developing interpretable AI models&lt;/strong&gt; for urban data analysis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Creating people-centric urban analytics&lt;/strong&gt; frameworks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advancing explainable AI&lt;/strong&gt; in geospatial contexts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Building practical tools&lt;/strong&gt; for urban planners and policymakers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;expected-outcomes&#34;&gt;Expected Outcomes&lt;/h3&gt;
+&lt;p&gt;The project is expected to deliver:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Novel AI methodologies&lt;/strong&gt; for urban analysis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Open-source software tools&lt;/strong&gt; for the research community&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policy recommendations&lt;/strong&gt; for urban development&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Training opportunities&lt;/strong&gt; for early-career researchers&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;p&gt;The project will support:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2 PhD students&lt;/strong&gt; working on different aspects of urban AI&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1 Postdoctoral researcher&lt;/strong&gt; focusing on explainable AI methods&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaborative partnerships&lt;/strong&gt; with international institutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;impact-and-applications&#34;&gt;Impact and Applications&lt;/h2&gt;
+&lt;p&gt;This research will have significant implications for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Urban planning&lt;/strong&gt; and smart city development&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policy making&lt;/strong&gt; for sustainable urban growth&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Environmental monitoring&lt;/strong&gt; and management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transportation&lt;/strong&gt; and mobility planning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaboration-opportunities&#34;&gt;Collaboration Opportunities&lt;/h2&gt;
+&lt;p&gt;We welcome collaborations with researchers, practitioners, and organizations interested in urban AI and explainable machine learning. Please get in touch if you would like to explore potential partnerships.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This grant represents a significant milestone for our research group and will enable us to make substantial contributions to the field of urban informatics and AI.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

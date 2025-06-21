@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development Zone | </title>
-    <link>http://localhost:1313/tags/development-zone/</link>
-      <atom:link href="http://localhost:1313/tags/development-zone/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/development-zone/</link>
+      <atom:link href="http://localhost:1315/tags/development-zone/index.xml" rel="self" type="application/rss+xml" />
     <description>Development Zone</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Development Zone</title>
-      <link>http://localhost:1313/tags/development-zone/</link>
+      <link>http://localhost:1315/tags/development-zone/</link>
     </image>
     
     <item>
-      <title>Evaluating intensive land use situation of development zone based on cloud models (2012)</title>
-      <link>http://localhost:1313/publication/development-zone-cloud-models-2012/</link>
+      <title>(2012) Evaluating intensive land use situation of development zone based on cloud models. Nongye Gongcheng Xuebao = Transactions of the Chinese Society of Agricultural Engineering, 28(10), pp. 247-252</title>
+      <link>http://localhost:1315/publication/evaluating-intensive-land-use-cloud-models-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/development-zone-cloud-models-2012/</guid>
+      <guid>http://localhost:1315/publication/evaluating-intensive-land-use-cloud-models-2012/</guid>
       <description></description>
     </item>
     

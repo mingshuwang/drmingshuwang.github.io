@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accessibility Analysis | </title>
-    <link>http://localhost:1313/tags/accessibility-analysis/</link>
-      <atom:link href="http://localhost:1313/tags/accessibility-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/accessibility-analysis/</link>
+      <atom:link href="http://localhost:1315/tags/accessibility-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Accessibility Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Accessibility Analysis</title>
-      <link>http://localhost:1313/tags/accessibility-analysis/</link>
+      <link>http://localhost:1315/tags/accessibility-analysis/</link>
     </image>
     
     <item>
-      <title>Access to urban parks: Comparing spatial accessibility measures using three GIS-based approaches (2021)</title>
-      <link>http://localhost:1313/publication/urban-parks-access-gis-2021/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/urban-parks-access-gis-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-parks-access-gis-2021/</guid>
+      <guid>http://localhost:1315/publication_disabled/urban-parks-access-gis-2021/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Congestion | </title>
+    <link>http://localhost:1315/tags/congestion/</link>
+      <atom:link href="http://localhost:1315/tags/congestion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Congestion</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Congestion</title>
+      <link>http://localhost:1315/tags/congestion/</link>
+    </image>
+    
+    <item>
+      <title>(2017) Bike-sharing systems and congestion: evidence from US cities. Journal of Transport Geography, 65, pp. 147-154</title>
+      <link>http://localhost:1315/publication/bike-sharing-congestion-us-cities-2017/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/bike-sharing-congestion-us-cities-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

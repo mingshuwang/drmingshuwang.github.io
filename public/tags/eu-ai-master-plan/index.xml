@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EU AI Master Plan | </title>
+    <link>http://localhost:1315/tags/eu-ai-master-plan/</link>
+      <atom:link href="http://localhost:1315/tags/eu-ai-master-plan/index.xml" rel="self" type="application/rss+xml" />
+    <description>EU AI Master Plan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>EU AI Master Plan</title>
+      <link>http://localhost:1315/tags/eu-ai-master-plan/</link>
+    </image>
+    
+    <item>
+      <title>(2023) Embedding artificial intelligence in society: looking beyond the EU AI master plan using the culture cycle. AI and Society, 38(4), pp. 1465-1484</title>
+      <link>http://localhost:1315/publication/ai-society-culture-cycle-2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/ai-society-culture-cycle-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

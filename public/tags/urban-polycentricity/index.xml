@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urban Polycentricity | </title>
-    <link>http://localhost:1313/tags/urban-polycentricity/</link>
-      <atom:link href="http://localhost:1313/tags/urban-polycentricity/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/urban-polycentricity/</link>
+      <atom:link href="http://localhost:1315/tags/urban-polycentricity/index.xml" rel="self" type="application/rss+xml" />
     <description>Urban Polycentricity</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Urban Polycentricity</title>
-      <link>http://localhost:1313/tags/urban-polycentricity/</link>
+      <link>http://localhost:1315/tags/urban-polycentricity/</link>
     </image>
     
     <item>
-      <title>Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities (2024)</title>
-      <link>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</guid>
+      <title>(2024) &#34;Local hubs and global gateways&#34;: understanding the impact of Singapore&#39;s master plan on urban polycentricity. Environment and Planning B: Urban Analytics and City Science</title>
+      <link>http://localhost:1315/publication/singapore-polycentricity-2024/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/singapore-polycentricity-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Local hubs and global gateways: understanding the impact of Singapore&#39;s master plan on urban polycentricity (2024)</title>
-      <link>http://localhost:1313/publication/singapore-polycentricity/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/singapore-polycentricity/</guid>
+      <title>(2024) Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities. International Journal of Geographical Information Science</title>
+      <link>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2021) Simulating the urban spatial structure with spatial interaction: A case study of urban polycentricity under different scenarios. Computers, Environment and Urban Systems, 89, 101677</title>
+      <link>http://localhost:1315/publication/simulating-urban-spatial-structure-2021/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/simulating-urban-spatial-structure-2021/</guid>
       <description></description>
     </item>
     

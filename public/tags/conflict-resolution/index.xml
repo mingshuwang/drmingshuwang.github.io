@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conflict Resolution | </title>
-    <link>http://localhost:1313/tags/conflict-resolution/</link>
-      <atom:link href="http://localhost:1313/tags/conflict-resolution/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/conflict-resolution/</link>
+      <atom:link href="http://localhost:1315/tags/conflict-resolution/index.xml" rel="self" type="application/rss+xml" />
     <description>Conflict Resolution</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 02:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Conflict Resolution</title>
-      <link>http://localhost:1313/tags/conflict-resolution/</link>
+      <link>http://localhost:1315/tags/conflict-resolution/</link>
     </image>
     
     <item>
-      <title>A multi-level spatial assessment framework for identifying land use conflict zones (2025)</title>
-      <link>http://localhost:1313/publication/land-use-conflict/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/land-use-conflict/</guid>
+      <title>(2025) A multi-level spatial assessment framework for identifying land use conflict zones. Land Use Policy, 148, 107382</title>
+      <link>http://localhost:1315/publication/land-use-conflict-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 02:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/land-use-conflict-2025/</guid>
       <description></description>
     </item>
     

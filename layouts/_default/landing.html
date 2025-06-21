@@ -1,0 +1,63 @@
+{{- define "main" -}}
+{{- $page := . -}}
+{{- $headless := .Site.GetPage "page" "home" -}}
+{{- if not $headless -}}
+  {{- $headless = .Site.GetPage "page" "." -}}
+{{- end -}}
+
+<div class="universal-wrapper">
+  {{- with .Params.sections -}}
+    {{- range $index, $section := . -}}
+      {{- $bg := $section.design.background -}}
+      {{- $style := "" -}}
+      {{- $style_bg := "" -}}
+
+      {{- if $bg.color -}}
+        {{- $style_bg = printf "background-color: %s;" ($bg.color | default "transparent") -}}
+      {{- end -}}
+
+      {{- if $bg.gradient_start -}}
+        {{- $style_bg = printf "%sbackground-image: linear-gradient(%s, %s);" $style_bg ($bg.gradient_angle | default "90deg") $bg.gradient_start $bg.gradient_end -}}
+      {{- end -}}
+
+      {{- if $bg.image -}}
+        {{- $bg_img := resources.Get (printf "media/%s" $bg.image) -}}
+        {{- if $bg_img -}}
+          {{- $style_bg = printf "%sbackground-image: url('%s');" $style_bg $bg_img.RelPermalink -}}
+          {{- $style_bg = printf "%sbackground-size: %s;" $style_bg ($bg.image_size | default "cover") -}}
+          {{- $style_bg = printf "%sbackground-position: %s;" $style_bg ($bg.image_position | default "center") -}}
+          {{- $style_bg = printf "%sbackground-repeat: no-repeat;" $style_bg -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- $style_pad := "" -}}
+      {{- if $section.design.spacing.padding -}}
+        {{- $style_pad = printf "padding: %s;" (delimit $section.design.spacing.padding " ") -}}
+      {{- end -}}
+
+      {{- $style = printf "%s%s%s" $style_bg $style_pad $style -}}
+
+      <section id="{{- $section.block | urlize -}}-{{- $index -}}" class="home-section wg-{{- $section.block | urlize -}} {{- with $section.design.css_class -}} {{- . -}}{{- end -}}" {{- with $style -}} style="{{- . | safeCSS -}}"{{- end -}}>
+        <div class="home-section-bg {{- if $bg.text_color_light -}} dark{{- end -}}" {{- with $style_bg -}} style="{{- . | safeCSS -}}"{{- end -}}></div>
+        <div class="container">
+
+          {{- $block := $section.block -}}
+          {{- $block_path := printf "partials/blox/%s" $block -}}
+          {{- if templates.Exists $block_path -}}
+            {{- partial $block_path (dict "page_bundle" $page "content" $section.content "design" $section.design) -}}
+          {{- else -}}
+            {{- $block_path := printf "partials/blocks/%s" $block -}}
+            {{- if templates.Exists $block_path -}}
+              {{- partial $block_path (dict "page_bundle" $page "content" $section.content "design" $section.design) -}}
+            {{- else -}}
+              {{- errorf "Block not found: %s" $block -}}
+            {{- end -}}
+          {{- end -}}
+
+        </div>
+      </section>
+    {{- end -}}
+  {{- end -}}
+</div>
+
+{{- end -}}

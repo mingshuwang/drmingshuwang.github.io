@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel Distance | </title>
-    <link>http://localhost:1313/tags/travel-distance/</link>
-      <atom:link href="http://localhost:1313/tags/travel-distance/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/travel-distance/</link>
+      <atom:link href="http://localhost:1315/tags/travel-distance/index.xml" rel="self" type="application/rss+xml" />
     <description>Travel Distance</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Travel Distance</title>
-      <link>http://localhost:1313/tags/travel-distance/</link>
+      <link>http://localhost:1315/tags/travel-distance/</link>
     </image>
     
     <item>
-      <title>Travel distance and hotel service satisfaction: an inverted U-shaped relationship (2019)</title>
-      <link>http://localhost:1313/publication/hotel-travel-distance-satisfaction-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hotel-travel-distance-satisfaction-2019/</guid>
+      <title>(2019) Travel distance and hotel service satisfaction: an inverted U-shaped relationship. International Journal of Hospitality Management, 76(Part A), pp. 261-270</title>
+      <link>http://localhost:1315/publication/travel-distance-hotel-satisfaction-2019/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/travel-distance-hotel-satisfaction-2019/</guid>
       <description></description>
     </item>
     

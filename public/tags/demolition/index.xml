@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demolition | </title>
+    <link>http://localhost:1315/tags/demolition/</link>
+      <atom:link href="http://localhost:1315/tags/demolition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demolition</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 03:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Demolition</title>
+      <link>http://localhost:1315/tags/demolition/</link>
+    </image>
+    
+    <item>
+      <title>(2025) Construction enthusiasts versus demolition giants: insights from building footprint data in England. Environment and Planning B: Urban Analytics and City Science</title>
+      <link>http://localhost:1315/publication/construction-demolition-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 03:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/construction-demolition-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

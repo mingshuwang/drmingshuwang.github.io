@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Media | </title>
-    <link>http://localhost:1313/tags/social-media/</link>
-      <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/social-media/</link>
+      <atom:link href="http://localhost:1315/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Media</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Social Media</title>
-      <link>http://localhost:1313/tags/social-media/</link>
+      <link>http://localhost:1315/tags/social-media/</link>
     </image>
     
     <item>
-      <title>Analyzing and visualizing the spatial interactions between tourists and locals: a Flickr study in ten US cities (2018)</title>
-      <link>http://localhost:1313/publication/tourist-local-interactions-2018/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/tourist-local-interactions-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tourist-local-interactions-2018/</guid>
+      <guid>http://localhost:1315/publication_disabled/tourist-local-interactions-2018/</guid>
       <description></description>
     </item>
     

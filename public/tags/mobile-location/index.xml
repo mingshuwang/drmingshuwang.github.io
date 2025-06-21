@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile Location | </title>
-    <link>http://localhost:1313/tags/mobile-location/</link>
-      <atom:link href="http://localhost:1313/tags/mobile-location/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/mobile-location/</link>
+      <atom:link href="http://localhost:1315/tags/mobile-location/index.xml" rel="self" type="application/rss+xml" />
     <description>Mobile Location</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Mobile Location</title>
-      <link>http://localhost:1313/tags/mobile-location/</link>
+      <link>http://localhost:1315/tags/mobile-location/</link>
     </image>
     
     <item>
-      <title>A robust noise mitigation method for the mobile RFID location in built environment (2019)</title>
-      <link>http://localhost:1313/publication/rfid-noise-mitigation-2019/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/rfid-noise-mitigation-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rfid-noise-mitigation-2019/</guid>
+      <guid>http://localhost:1315/publication_disabled/rfid-noise-mitigation-2019/</guid>
       <description></description>
     </item>
     

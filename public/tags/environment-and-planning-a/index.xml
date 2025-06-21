@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment and Planning A | </title>
+    <link>http://localhost:1315/tags/environment-and-planning-a/</link>
+      <atom:link href="http://localhost:1315/tags/environment-and-planning-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Environment and Planning A</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Environment and Planning A</title>
+      <link>http://localhost:1315/tags/environment-and-planning-a/</link>
+    </image>
+    
+    <item>
+      <title>(2020) Where we are in fighting against COVID-19. Environment and Planning A, 52(8), pp. 1483-1486</title>
+      <link>http://localhost:1315/publication/fighting-covid19-2020/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/fighting-covid19-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2019) Polycentric urban development and economic productivity in China: a multiscalar analysis. Environment and Planning A: Economy and Space, 51(8), pp. 1622-1643</title>
+      <link>http://localhost:1315/publication/polycentric-urban-development-china-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/polycentric-urban-development-china-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2016) Visualizing pesticide usage in the United States from 1992 to 2009. Environment and Planning A, 48(3), pp. 455-457</title>
+      <link>http://localhost:1315/publication/visualizing-pesticide-usage-us-2016/</link>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/visualizing-pesticide-usage-us-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2016) Crowdsourcing the landscape of cannabis (marijuana) of the contiguous United States. Environment and Planning A, 48(8), pp. 1449-1451</title>
+      <link>http://localhost:1315/publication/crowdsourcing-cannabis-landscape-2016/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/crowdsourcing-cannabis-landscape-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

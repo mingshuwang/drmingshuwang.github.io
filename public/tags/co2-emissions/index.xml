@@ -2,29 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CO2 Emissions | </title>
-    <link>http://localhost:1313/tags/co2-emissions/</link>
-      <atom:link href="http://localhost:1313/tags/co2-emissions/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/co2-emissions/</link>
+      <atom:link href="http://localhost:1315/tags/co2-emissions/index.xml" rel="self" type="application/rss+xml" />
     <description>CO2 Emissions</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>CO2 Emissions</title>
-      <link>http://localhost:1313/tags/co2-emissions/</link>
+      <link>http://localhost:1315/tags/co2-emissions/</link>
     </image>
     
     <item>
-      <title>A two-level comparison of CO2 emission data in China: evidence from three gridded data sources (2017)</title>
-      <link>http://localhost:1313/publication/co2-emission-data-comparison-2017/</link>
+      <title>(2017) Exploring the relationship between urban forms and CO2 emissions in 104 Chinese cities. Journal of Urban Planning and Development, 143(4), 04017014</title>
+      <link>http://localhost:1315/publication/urban-forms-co2-emissions-china-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/co2-emission-data-comparison-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the relationship between urban forms and CO2 emissions in 104 Chinese cities (2017)</title>
-      <link>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</guid>
+      <guid>http://localhost:1315/publication/urban-forms-co2-emissions-china-2017/</guid>
       <description></description>
     </item>
     

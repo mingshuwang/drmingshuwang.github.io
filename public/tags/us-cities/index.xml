@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>US Cities | </title>
-    <link>http://localhost:1313/tags/us-cities/</link>
-      <atom:link href="http://localhost:1313/tags/us-cities/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/us-cities/</link>
+      <atom:link href="http://localhost:1315/tags/us-cities/index.xml" rel="self" type="application/rss+xml" />
     <description>US Cities</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>US Cities</title>
-      <link>http://localhost:1313/tags/us-cities/</link>
+      <link>http://localhost:1315/tags/us-cities/</link>
     </image>
     
     <item>
-      <title>Urban morphology and traffic congestion: longitudinal evidence from US cities (2021)</title>
-      <link>http://localhost:1313/publication/urban-morphology-traffic/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-morphology-traffic/</guid>
+      <title>(2021) Urban morphology and traffic congestion: longitudinal evidence from US cities. Computers, Environment and Urban Systems, 89, 101676</title>
+      <link>http://localhost:1315/publication/urban-morphology-traffic-congestion-2021/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/urban-morphology-traffic-congestion-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Analyzing and visualizing the spatial interactions between tourists and locals: a Flickr study in ten US cities (2018)</title>
-      <link>http://localhost:1313/publication/tourist-local-interactions-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tourist-local-interactions-2018/</guid>
+      <title>(2018) Analyzing and visualizing the spatial interactions between tourists and locals: a Flickr study in ten US cities. Cities, 74, pp. 249-258</title>
+      <link>http://localhost:1315/publication/spatial-interactions-tourists-locals-2018/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/spatial-interactions-tourists-locals-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2017) Bike-sharing systems and congestion: evidence from US cities. Journal of Transport Geography, 65, pp. 147-154</title>
+      <link>http://localhost:1315/publication/bike-sharing-congestion-us-cities-2017/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/bike-sharing-congestion-us-cities-2017/</guid>
       <description></description>
     </item>
     

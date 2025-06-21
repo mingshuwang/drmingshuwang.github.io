@@ -2,133 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spatial Analysis | </title>
-    <link>http://localhost:1313/tags/spatial-analysis/</link>
-      <atom:link href="http://localhost:1313/tags/spatial-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/spatial-analysis/</link>
+      <atom:link href="http://localhost:1315/tags/spatial-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Spatial Analysis</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 01:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Spatial Analysis</title>
-      <link>http://localhost:1313/tags/spatial-analysis/</link>
+      <link>http://localhost:1315/tags/spatial-analysis/</link>
     </image>
     
     <item>
-      <title>GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data (2025)</title>
-      <link>http://localhost:1313/publication/geoaggregator/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/geoaggregator/</guid>
+      <title>(2025) GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data. In: 39th Annual AAAI Conference on Artificial Intelligence (AAAI&#39;25), Philadelphia, Pennsylvania, USA, 25 February – 4 March 2025, pp. 11572-11580. ISBN 9781577358978</title>
+      <link>http://localhost:1315/publication/geoaggregator-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/geoaggregator-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mapping street patterns with network science and supervised machine learning</title>
-      <link>http://localhost:1313/publication/mapping-street-patterns-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mapping-street-patterns-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Three-dimensional land-use configuration and property prices: a spatially filtered multi-level modelling perspective (2024)</title>
-      <link>http://localhost:1313/publication/three-dimensional-land-use-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/three-dimensional-land-use-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elucidation of spatial disparities of factors that affect air pollutant concentrations in industrial regions at a continental level (2023)</title>
-      <link>http://localhost:1313/publication/air-pollutant-industrial-regions-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/air-pollutant-industrial-regions-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A hierarchical spatial unit partitioning approach for fine-grained urban functional region identification (2022)</title>
-      <link>http://localhost:1313/publication/hierarchical-spatial-partitioning-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hierarchical-spatial-partitioning-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding taxi ridership with spatial spillover effects and temporal dynamics (2022)</title>
-      <link>http://localhost:1313/publication/taxi-ridership-spillover-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/taxi-ridership-spillover-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Where we are in fighting against COVID-19 (2020)</title>
-      <link>http://localhost:1313/publication/covid-fighting-planning-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/covid-fighting-planning-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel distance and hotel service satisfaction: an inverted U-shaped relationship (2019)</title>
-      <link>http://localhost:1313/publication/hotel-travel-distance-satisfaction-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hotel-travel-distance-satisfaction-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analyzing and visualizing the spatial interactions between tourists and locals: a Flickr study in ten US cities (2018)</title>
-      <link>http://localhost:1313/publication/tourist-local-interactions-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tourist-local-interactions-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrating Scale in Remote Sensing and GIS (2018)</title>
-      <link>http://localhost:1313/publication/scale-integration-book-review-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/scale-integration-book-review-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polycentric urban development in China: a multi-scale analysis (2018)</title>
-      <link>http://localhost:1313/publication/polycentric-china-multiscale-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-china-multiscale-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From stay to play – a travel planning tool based on crowdsourcing user-generated contents (2017)</title>
-      <link>http://localhost:1313/publication/travel-planning-crowdsourcing-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/travel-planning-crowdsourcing-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bridging the Gap Between Geography and Marketing: Opportunities for CyberGIS (2016)</title>
-      <link>http://localhost:1313/publication/cybergis-marketing-2016/</link>
-      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cybergis-marketing-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geography matters in online hotel reviews (2016)</title>
-      <link>http://localhost:1313/publication/hotel-reviews-geography-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hotel-reviews-geography-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How polycentric is urban China and why? A case study of 318 cities (2016)</title>
-      <link>http://localhost:1313/publication/polycentric-china-318cities/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-china-318cities/</guid>
+      <title>(2024) Three-dimensional land-use configuration and property prices: a spatially filtered multi-level modelling perspective. Environment and Planning B: Urban Analytics and City Science, 51(2), pp. 438-455</title>
+      <link>http://localhost:1315/publication/three-dimensional-land-use-2024/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/three-dimensional-land-use-2024/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geo-Information | </title>
+    <link>http://localhost:1315/tags/geo-information/</link>
+      <atom:link href="http://localhost:1315/tags/geo-information/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geo-Information</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Geo-Information</title>
+      <link>http://localhost:1315/tags/geo-information/</link>
+    </image>
+    
+    <item>
+      <title>(2024) Mapping street patterns with network science and supervised machine learning. ISPRS International Journal of Geo-Information, 13(4), 114</title>
+      <link>http://localhost:1315/publication/mapping-street-patterns-2024/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/mapping-street-patterns-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

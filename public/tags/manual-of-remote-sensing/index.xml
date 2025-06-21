@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manual of Remote Sensing | </title>
+    <link>http://localhost:1315/tags/manual-of-remote-sensing/</link>
+      <atom:link href="http://localhost:1315/tags/manual-of-remote-sensing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manual of Remote Sensing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Manual of Remote Sensing</title>
+      <link>http://localhost:1315/tags/manual-of-remote-sensing/</link>
+    </image>
+    
+    <item>
+      <title>(2019) Image processing and analysis methods. In: Manual of Remote Sensing, 4th Edition. American Society for Photogrammetry and Remote Sensing: Bethesda, pp. 631-868</title>
+      <link>http://localhost:1315/publication/image-processing-remote-sensing-2019/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/image-processing-remote-sensing-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

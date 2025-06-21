@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference-Paper | </title>
-    <link>http://localhost:1313/publication_types/conference-paper/</link>
-      <atom:link href="http://localhost:1313/publication_types/conference-paper/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/publication_types/conference-paper/</link>
+      <atom:link href="http://localhost:1315/publication_types/conference-paper/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference-Paper</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Conference-Paper</title>
-      <link>http://localhost:1313/publication_types/conference-paper/</link>
+      <link>http://localhost:1315/publication_types/conference-paper/</link>
     </image>
     
     <item>
-      <title>A Transformer-Based Model for Effective Representation of Geospatial Data and Context (2024)</title>
-      <link>http://localhost:1313/publication/transformer-geospatial-egu-2024/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/transformer-geospatial-egu-2024/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/transformer-geospatial-egu-2024/</guid>
+      <guid>http://localhost:1315/publication_disabled/transformer-geospatial-egu-2024/</guid>
       <description></description>
     </item>
     

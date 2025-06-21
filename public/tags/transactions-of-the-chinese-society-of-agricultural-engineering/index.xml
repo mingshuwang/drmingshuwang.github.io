@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transactions of the Chinese Society of Agricultural Engineering | </title>
+    <link>http://localhost:1315/tags/transactions-of-the-chinese-society-of-agricultural-engineering/</link>
+      <atom:link href="http://localhost:1315/tags/transactions-of-the-chinese-society-of-agricultural-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transactions of the Chinese Society of Agricultural Engineering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Transactions of the Chinese Society of Agricultural Engineering</title>
+      <link>http://localhost:1315/tags/transactions-of-the-chinese-society-of-agricultural-engineering/</link>
+    </image>
+    
+    <item>
+      <title>(2012) Evaluating intensive land use situation of development zone based on cloud models. Nongye Gongcheng Xuebao = Transactions of the Chinese Society of Agricultural Engineering, 28(10), pp. 247-252</title>
+      <link>http://localhost:1315/publication/evaluating-intensive-land-use-cloud-models-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/evaluating-intensive-land-use-cloud-models-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

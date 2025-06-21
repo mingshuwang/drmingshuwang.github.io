@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoinformation | </title>
+    <link>http://localhost:1315/tags/geoinformation/</link>
+      <atom:link href="http://localhost:1315/tags/geoinformation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geoinformation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Geoinformation</title>
+      <link>http://localhost:1315/tags/geoinformation/</link>
+    </image>
+    
+    <item>
+      <title>(2023) Equalizing urban agriculture access in Glasgow: a spatial optimization approach. International Journal of Applied Earth Observation and Geoinformation, 124, 103525</title>
+      <link>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

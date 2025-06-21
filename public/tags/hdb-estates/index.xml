@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HDB Estates | </title>
-    <link>http://localhost:1313/tags/hdb-estates/</link>
-      <atom:link href="http://localhost:1313/tags/hdb-estates/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/hdb-estates/</link>
+      <atom:link href="http://localhost:1315/tags/hdb-estates/index.xml" rel="self" type="application/rss+xml" />
     <description>HDB Estates</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>HDB Estates</title>
-      <link>http://localhost:1313/tags/hdb-estates/</link>
+      <link>http://localhost:1315/tags/hdb-estates/</link>
     </image>
     
     <item>
-      <title>A spacematrix and clustering approach to understanding the morphology of Singapore&#39;s Housing Development Board (HDB) estates (2024)</title>
-      <link>http://localhost:1313/publication/spacematrix-singapore-hdb-2024/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/spacematrix-singapore-hdb-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/spacematrix-singapore-hdb-2024/</guid>
+      <guid>http://localhost:1315/publication_disabled/spacematrix-singapore-hdb-2024/</guid>
       <description></description>
     </item>
     

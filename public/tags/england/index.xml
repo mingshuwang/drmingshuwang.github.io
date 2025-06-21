@@ -2,29 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>England | </title>
-    <link>http://localhost:1313/tags/england/</link>
-      <atom:link href="http://localhost:1313/tags/england/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/england/</link>
+      <atom:link href="http://localhost:1315/tags/england/index.xml" rel="self" type="application/rss+xml" />
     <description>England</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 03:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>England</title>
-      <link>http://localhost:1313/tags/england/</link>
+      <link>http://localhost:1315/tags/england/</link>
     </image>
     
     <item>
-      <title>Construction enthusiasts versus demolition giants: insights from building footprint data in England (2025)</title>
-      <link>http://localhost:1313/publication/construction-demolition-england/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/construction-demolition-england/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Where England&#39;s cities are growing: Evidence from big building footprint data and explainable AI (2025)</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <title>(2025) Construction enthusiasts versus demolition giants: insights from building footprint data in England. Environment and Planning B: Urban Analytics and City Science</title>
+      <link>http://localhost:1315/publication/construction-demolition-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 03:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/construction-demolition-2025/</guid>
       <description></description>
     </item>
     

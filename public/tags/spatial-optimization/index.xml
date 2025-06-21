@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spatial Optimization | </title>
-    <link>http://localhost:1313/tags/spatial-optimization/</link>
-      <atom:link href="http://localhost:1313/tags/spatial-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/spatial-optimization/</link>
+      <atom:link href="http://localhost:1315/tags/spatial-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Spatial Optimization</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Spatial Optimization</title>
-      <link>http://localhost:1313/tags/spatial-optimization/</link>
+      <link>http://localhost:1315/tags/spatial-optimization/</link>
     </image>
     
     <item>
-      <title>Equalizing urban agriculture access in Glasgow: a spatial optimization approach (2023)</title>
-      <link>http://localhost:1313/publication/glasgow-urban-agriculture/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/glasgow-urban-agriculture/</guid>
+      <title>(2023) Equalizing urban agriculture access in Glasgow: a spatial optimization approach. International Journal of Applied Earth Observation and Geoinformation, 124, 103525</title>
+      <link>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</guid>
       <description></description>
     </item>
     

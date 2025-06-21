@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIS | </title>
-    <link>http://localhost:1313/tags/gis/</link>
-      <atom:link href="http://localhost:1313/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/gis/</link>
+      <atom:link href="http://localhost:1315/tags/gis/index.xml" rel="self" type="application/rss+xml" />
     <description>GIS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>GIS</title>
-      <link>http://localhost:1313/tags/gis/</link>
+      <link>http://localhost:1315/tags/gis/</link>
     </image>
     
     <item>
-      <title>A hierarchical spatial unit partitioning approach for fine-grained urban functional region identification (2022)</title>
-      <link>http://localhost:1313/publication/hierarchical-spatial-partitioning-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hierarchical-spatial-partitioning-2022/</guid>
+      <title>(2024) Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities. International Journal of Geographical Information Science</title>
+      <link>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Access to urban parks: Comparing spatial accessibility measures using three GIS-based approaches (2021)</title>
-      <link>http://localhost:1313/publication/urban-parks-access-gis-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-parks-access-gis-2021/</guid>
+      <title>(2022) A hierarchical spatial unit partitioning approach for fine-grained urban functional region identification. Transactions in GIS, 26(6), pp. 2691-2715</title>
+      <link>http://localhost:1315/publication/hierarchical-spatial-unit-partitioning-2022/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/hierarchical-spatial-unit-partitioning-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Integrating Scale in Remote Sensing and GIS (2018)</title>
-      <link>http://localhost:1313/publication/scale-integration-book-review-2018/</link>
+      <title>(2021) Access to urban parks: Comparing spatial accessibility measures using three GIS-based approaches. Computers, Environment and Urban Systems, 90, 101713</title>
+      <link>http://localhost:1315/publication/access-urban-parks-gis-2021/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/access-urban-parks-gis-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2018) Integrating Scale in Remote Sensing and GIS. Photogrammetric Engineering and Remote Sensing, 84(11), p. 673 [Book Review]</title>
+      <link>http://localhost:1315/publication/integrating-scale-remote-sensing-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/scale-integration-book-review-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bridging the Gap Between Geography and Marketing: Opportunities for CyberGIS (2016)</title>
-      <link>http://localhost:1313/publication/cybergis-marketing-2016/</link>
-      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cybergis-marketing-2016/</guid>
+      <guid>http://localhost:1315/publication/integrating-scale-remote-sensing-2018/</guid>
       <description></description>
     </item>
     

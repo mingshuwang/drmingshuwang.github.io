@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Earth Observation | </title>
-    <link>http://localhost:1313/tags/earth-observation/</link>
-      <atom:link href="http://localhost:1313/tags/earth-observation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/earth-observation/</link>
+      <atom:link href="http://localhost:1315/tags/earth-observation/index.xml" rel="self" type="application/rss+xml" />
     <description>Earth Observation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Earth Observation</title>
-      <link>http://localhost:1313/tags/earth-observation/</link>
+      <link>http://localhost:1315/tags/earth-observation/</link>
     </image>
     
     <item>
-      <title>Global Urban Monitoring and Assessment through Earth Observation (2015)</title>
-      <link>http://localhost:1313/publication/urban-monitoring-book-review-2015/</link>
+      <title>(2023) Equalizing urban agriculture access in Glasgow: a spatial optimization approach. International Journal of Applied Earth Observation and Geoinformation, 124, 103525</title>
+      <link>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2023) Elucidation of spatial disparities of factors that affect air pollutant concentrations in industrial regions at a continental level. International Journal of Applied Earth Observation and Geoinformation, 117, 103221</title>
+      <link>http://localhost:1315/publication/air-pollutant-industrial-regions-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/air-pollutant-industrial-regions-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2015) Global Urban Monitoring and Assessment through Earth Observation. Photogrammetric Engineering and Remote Sensing, 81(9), -692 [Book Review]</title>
+      <link>http://localhost:1315/publication/global-urban-monitoring-book-review-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-monitoring-book-review-2015/</guid>
+      <guid>http://localhost:1315/publication/global-urban-monitoring-book-review-2015/</guid>
       <description></description>
     </item>
     

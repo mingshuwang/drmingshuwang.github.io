@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urban Vitality | </title>
-    <link>http://localhost:1313/tags/urban-vitality/</link>
-      <atom:link href="http://localhost:1313/tags/urban-vitality/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/urban-vitality/</link>
+      <atom:link href="http://localhost:1315/tags/urban-vitality/index.xml" rel="self" type="application/rss+xml" />
     <description>Urban Vitality</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Urban Vitality</title>
-      <link>http://localhost:1313/tags/urban-vitality/</link>
+      <link>http://localhost:1315/tags/urban-vitality/</link>
     </image>
     
     <item>
-      <title>Cultivating historical heritage area vitality using urban morphology approach based on big data and machine learning (2022)</title>
-      <link>http://localhost:1313/publication/heritage-vitality-morphology-2022/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/heritage-vitality-morphology-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/heritage-vitality-morphology-2022/</guid>
+      <guid>http://localhost:1315/publication_disabled/heritage-vitality-morphology-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Life between buildings from a street view image: what do big data analytics reveal about neighbourhood organisational vitality? (2021)</title>
-      <link>http://localhost:1313/publication/street-view-vitality/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/street-view-vitality/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/street-view-vitality/</guid>
+      <guid>http://localhost:1315/publication_disabled/street-view-vitality/</guid>
       <description></description>
     </item>
     

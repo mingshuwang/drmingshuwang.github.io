@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ISPRS International Journal of Geo-Information | </title>
+    <link>http://localhost:1315/tags/isprs-international-journal-of-geo-information/</link>
+      <atom:link href="http://localhost:1315/tags/isprs-international-journal-of-geo-information/index.xml" rel="self" type="application/rss+xml" />
+    <description>ISPRS International Journal of Geo-Information</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>ISPRS International Journal of Geo-Information</title>
+      <link>http://localhost:1315/tags/isprs-international-journal-of-geo-information/</link>
+    </image>
+    
+    <item>
+      <title>(2018) Geospatial Applications of the Internet of Things (IoT) [Guest Editors]. ISPRS International Journal of Geo-Information, 7</title>
+      <link>http://localhost:1315/publication/geospatial-applications-iot-2018/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/geospatial-applications-iot-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2018) A low-cost collaborative location scheme with GNSS and RFID for the Internet of Things. ISPRS International Journal of Geo-Information, 7(5), 180</title>
+      <link>http://localhost:1315/publication/collaborative-location-gnss-rfid-2018/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/collaborative-location-gnss-rfid-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

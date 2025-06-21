@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graph Convolutional Networks | </title>
-    <link>http://localhost:1313/tags/graph-convolutional-networks/</link>
-      <atom:link href="http://localhost:1313/tags/graph-convolutional-networks/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/graph-convolutional-networks/</link>
+      <atom:link href="http://localhost:1315/tags/graph-convolutional-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Graph Convolutional Networks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Graph Convolutional Networks</title>
-      <link>http://localhost:1313/tags/graph-convolutional-networks/</link>
+      <link>http://localhost:1315/tags/graph-convolutional-networks/</link>
     </image>
     
     <item>
-      <title>Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities (2024)</title>
-      <link>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</guid>
+      <title>(2024) Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities. International Journal of Geographical Information Science</title>
+      <link>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</guid>
       <description></description>
     </item>
     

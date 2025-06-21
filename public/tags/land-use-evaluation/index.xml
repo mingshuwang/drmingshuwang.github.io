@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Land Use Evaluation | </title>
-    <link>http://localhost:1313/tags/land-use-evaluation/</link>
-      <atom:link href="http://localhost:1313/tags/land-use-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/land-use-evaluation/</link>
+      <atom:link href="http://localhost:1315/tags/land-use-evaluation/index.xml" rel="self" type="application/rss+xml" />
     <description>Land Use Evaluation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Land Use Evaluation</title>
-      <link>http://localhost:1313/tags/land-use-evaluation/</link>
+      <link>http://localhost:1315/tags/land-use-evaluation/</link>
     </image>
     
     <item>
-      <title>Evaluating intensive land use situation of development zone based on cloud models (2012)</title>
-      <link>http://localhost:1313/publication/development-zone-cloud-models-2012/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/development-zone-cloud-models-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/development-zone-cloud-models-2012/</guid>
+      <guid>http://localhost:1315/publication_disabled/development-zone-cloud-models-2012/</guid>
       <description></description>
     </item>
     

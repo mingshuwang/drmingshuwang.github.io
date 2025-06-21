@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spatial Disparities | </title>
-    <link>http://localhost:1313/tags/spatial-disparities/</link>
-      <atom:link href="http://localhost:1313/tags/spatial-disparities/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/spatial-disparities/</link>
+      <atom:link href="http://localhost:1315/tags/spatial-disparities/index.xml" rel="self" type="application/rss+xml" />
     <description>Spatial Disparities</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Spatial Disparities</title>
-      <link>http://localhost:1313/tags/spatial-disparities/</link>
+      <link>http://localhost:1315/tags/spatial-disparities/</link>
     </image>
     
     <item>
-      <title>Spatial disparities of Uber accessibility: an exploratory analysis in Atlanta, USA (2018)</title>
-      <link>http://localhost:1313/publication/uber-accessibility-atlanta-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/uber-accessibility-atlanta-2018/</guid>
+      <title>(2023) Elucidation of spatial disparities of factors that affect air pollutant concentrations in industrial regions at a continental level. International Journal of Applied Earth Observation and Geoinformation, 117, 103221</title>
+      <link>http://localhost:1315/publication/air-pollutant-industrial-regions-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/air-pollutant-industrial-regions-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2018) Spatial disparities of Uber accessibility: an exploratory analysis in Atlanta, USA. Computers, Environment and Urban Systems, 67, pp. 169-175</title>
+      <link>http://localhost:1315/publication/spatial-disparities-uber-accessibility-2018/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/spatial-disparities-uber-accessibility-2018/</guid>
       <description></description>
     </item>
     

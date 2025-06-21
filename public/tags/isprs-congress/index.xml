@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ISPRS Congress | </title>
+    <link>http://localhost:1315/tags/isprs-congress/</link>
+      <atom:link href="http://localhost:1315/tags/isprs-congress/index.xml" rel="self" type="application/rss+xml" />
+    <description>ISPRS Congress</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>ISPRS Congress</title>
+      <link>http://localhost:1315/tags/isprs-congress/</link>
+    </image>
+    
+    <item>
+      <title>(2022) Analysis the Influencing Factors of Urban Traffic Flows by Using New and Emerging Urban Big Data and Deep Learning. In: XXIVth ISPRS Congress, Nice, France, 6-11 June 2022, pp. 537-543</title>
+      <link>http://localhost:1315/publication/urban-traffic-flows-isprs-2022/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/urban-traffic-flows-isprs-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

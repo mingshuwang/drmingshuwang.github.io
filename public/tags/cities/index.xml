@@ -2,21 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cities | </title>
-    <link>http://localhost:1313/tags/cities/</link>
-      <atom:link href="http://localhost:1313/tags/cities/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/cities/</link>
+      <atom:link href="http://localhost:1315/tags/cities/index.xml" rel="self" type="application/rss+xml" />
     <description>Cities</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 06:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Cities</title>
-      <link>http://localhost:1313/tags/cities/</link>
+      <link>http://localhost:1315/tags/cities/</link>
     </image>
     
     <item>
-      <title>Formalising the urban pattern language: a morphological paradigm towards understanding the multi-scalar spatial structure of cities (2025)</title>
-      <link>http://localhost:1313/publication/urban-pattern-language/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-pattern-language/</guid>
+      <title>(2025) Formalising the urban pattern language: a morphological paradigm towards understanding the multi-scalar spatial structure of cities. Cities, 161, 105854</title>
+      <link>http://localhost:1315/publication/urban-pattern-language-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 06:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/urban-pattern-language-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2022) Urban expansion and the urban–rural income gap: empirical evidence from China. Cities, 129, 103831</title>
+      <link>http://localhost:1315/publication/urban-expansion-income-gap-2022/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/urban-expansion-income-gap-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2022) Understanding taxi ridership with spatial spillover effects and temporal dynamics. Cities, 125, 103637</title>
+      <link>http://localhost:1315/publication/taxi-ridership-spatial-spillover-2022/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/taxi-ridership-spatial-spillover-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2021) Measuring polycentric urban development: the importance of accurately determining the &#39;balance&#39; between &#39;centers&#39;. Cities, 111, 103009</title>
+      <link>http://localhost:1315/publication/measuring-polycentric-urban-development-2021/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/measuring-polycentric-urban-development-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2018) Analyzing and visualizing the spatial interactions between tourists and locals: a Flickr study in ten US cities. Cities, 74, pp. 249-258</title>
+      <link>http://localhost:1315/publication/spatial-interactions-tourists-locals-2018/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/spatial-interactions-tourists-locals-2018/</guid>
       <description></description>
     </item>
     

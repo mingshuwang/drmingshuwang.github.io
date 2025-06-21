@@ -2,29 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Income Gap | </title>
-    <link>http://localhost:1313/tags/income-gap/</link>
-      <atom:link href="http://localhost:1313/tags/income-gap/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/income-gap/</link>
+      <atom:link href="http://localhost:1315/tags/income-gap/index.xml" rel="self" type="application/rss+xml" />
     <description>Income Gap</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Income Gap</title>
-      <link>http://localhost:1313/tags/income-gap/</link>
+      <link>http://localhost:1315/tags/income-gap/</link>
     </image>
     
     <item>
-      <title>Urban expansion and the urban–rural income gap: empirical evidence from China (2022)</title>
-      <link>http://localhost:1313/publication/urban-expansion-income-gap-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-expansion-income-gap-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urbanization&#39;s effects on the urban-rural income gap in China: a meta-regression analysis (2020)</title>
-      <link>http://localhost:1313/publication/urbanization-income-gap/</link>
+      <title>(2020) Urbanization&#39;s effects on the urban-rural income gap in China: a meta-regression analysis. Land Use Policy, 99, 104995</title>
+      <link>http://localhost:1315/publication/urbanization-income-gap-china-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urbanization-income-gap/</guid>
+      <guid>http://localhost:1315/publication/urbanization-income-gap-china-2020/</guid>
       <description></description>
     </item>
     

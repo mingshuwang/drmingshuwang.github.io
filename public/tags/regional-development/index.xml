@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regional Development | </title>
-    <link>http://localhost:1313/tags/regional-development/</link>
-      <atom:link href="http://localhost:1313/tags/regional-development/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/regional-development/</link>
+      <atom:link href="http://localhost:1315/tags/regional-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Regional Development</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Regional Development</title>
-      <link>http://localhost:1313/tags/regional-development/</link>
+      <link>http://localhost:1315/tags/regional-development/</link>
     </image>
     
     <item>
-      <title>Regional integration in the Horn of Africa through the lens of inter-city connectivity (2022)</title>
-      <link>http://localhost:1313/publication/horn-africa-connectivity-2022/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/horn-africa-connectivity-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/horn-africa-connectivity-2022/</guid>
+      <guid>http://localhost:1315/publication_disabled/horn-africa-connectivity-2022/</guid>
       <description></description>
     </item>
     

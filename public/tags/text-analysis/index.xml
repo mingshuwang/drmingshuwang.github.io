@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Analysis | </title>
+    <link>http://localhost:1315/tags/text-analysis/</link>
+      <atom:link href="http://localhost:1315/tags/text-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Text Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Text Analysis</title>
+      <link>http://localhost:1315/tags/text-analysis/</link>
+    </image>
+    
+    <item>
+      <title>(2019) Predicting overall customer satisfaction: big data evidence from hotel online textual reviews. International Journal of Hospitality Management, 76(Part A), pp. 111-121</title>
+      <link>http://localhost:1315/publication/customer-satisfaction-hotel-reviews-2019/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/customer-satisfaction-hotel-reviews-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

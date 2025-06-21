@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied Geography | </title>
+    <link>http://localhost:1315/tags/applied-geography/</link>
+      <atom:link href="http://localhost:1315/tags/applied-geography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Applied Geography</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Applied Geography</title>
+      <link>http://localhost:1315/tags/applied-geography/</link>
+    </image>
+    
+    <item>
+      <title>(2022) Regional integration in the Horn of Africa through the lens of inter-city connectivity. Applied Geography, 145, 102754</title>
+      <link>http://localhost:1315/publication/regional-integration-horn-africa-2022/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/regional-integration-horn-africa-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2017) From stay to play – a travel planning tool based on crowdsourcing user-generated contents. Applied Geography, 78, pp. 1-11</title>
+      <link>http://localhost:1315/publication/stay-to-play-travel-planning-2017/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/stay-to-play-travel-planning-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

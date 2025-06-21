@@ -2,85 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | </title>
-    <link>http://localhost:1313/tags/machine-learning/</link>
-      <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/machine-learning/</link>
+      <atom:link href="http://localhost:1315/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 01:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
+      <link>http://localhost:1315/tags/machine-learning/</link>
     </image>
     
     <item>
-      <title>GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data (2025)</title>
-      <link>http://localhost:1313/publication/geoaggregator/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/geoaggregator/</guid>
+      <title>(2025) GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data. In: 39th Annual AAAI Conference on Artificial Intelligence (AAAI&#39;25), Philadelphia, Pennsylvania, USA, 25 February – 4 March 2025, pp. 11572-11580. ISBN 9781577358978</title>
+      <link>http://localhost:1315/publication/geoaggregator-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/geoaggregator-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Transformer-Based Model for Effective Representation of Geospatial Data and Context (2024)</title>
-      <link>http://localhost:1313/publication/transformer-geospatial-egu-2024/</link>
-      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/transformer-geospatial-egu-2024/</guid>
+      <title>New Paper Published: GeoAggregator - An Efficient Transformer Model for Geo-Spatial Tabular Data</title>
+      <link>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</guid>
+      <description>&lt;p&gt;We are excited to announce the publication of our latest research paper titled &lt;strong&gt;&amp;ldquo;GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data&amp;rdquo;&lt;/strong&gt; in a leading journal.&lt;/p&gt;
+&lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
+&lt;p&gt;This work introduces GeoAggregator, a novel transformer-based model specifically designed for processing geo-spatial tabular data. The key innovations include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spatial-aware attention mechanism&lt;/strong&gt; that captures geographical relationships&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient aggregation strategies&lt;/strong&gt; for handling large-scale spatial datasets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Superior performance&lt;/strong&gt; compared to existing methods on multiple benchmarks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-impact&#34;&gt;Research Impact&lt;/h2&gt;
+&lt;p&gt;The GeoAggregator model addresses a critical gap in the field of geospatial machine learning by providing an efficient and effective solution for processing tabular data with spatial components. This work has significant implications for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Urban planning and development&lt;/li&gt;
+&lt;li&gt;Environmental monitoring&lt;/li&gt;
+&lt;li&gt;Transportation analysis&lt;/li&gt;
+&lt;li&gt;Location-based services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;
+&lt;p&gt;This research was conducted in collaboration with researchers from multiple institutions and represents a significant advancement in the application of transformer models to geospatial data.&lt;/p&gt;
+&lt;h2 id=&#34;access&#34;&gt;Access&lt;/h2&gt;
+&lt;p&gt;The paper is now available online and the code will be made available on our GitHub repository soon.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;For more details about this research, please refer to the full publication in our &lt;a href=&#34;http://localhost:1315/publication/&#34;&gt;Publications&lt;/a&gt; section.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024) Occupation prediction with multimodal learning from Tweet messages and Google Street View images. AGILE: GIScience Series, 5, 36</title>
+      <link>http://localhost:1315/publication/occupation-prediction-multimodal-2024/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/occupation-prediction-multimodal-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine learning-based characterisation of urban morphology with the street pattern (2024)</title>
-      <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
+      <title>(2024) A Transformer-Based Model for Effective Representation of Geospatial Data and Context. EGU General Assembly 2024, Vienna, Austria, 14-19 April 2024</title>
+      <link>http://localhost:1315/publication/transformer-geospatial-egu-2024/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/transformer-geospatial-egu-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine learning-based characterisation of urban morphology with the street pattern (2024)</title>
-      <link>http://localhost:1313/publication/street-pattern-machine-learning-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/street-pattern-machine-learning-2024/</guid>
+      <title>(2024) Machine learning-based characterisation of urban morphology with the street pattern. Computers, Environment and Urban Systems, 109, 102078</title>
+      <link>http://localhost:1315/publication/street-pattern-machine-learning-2024/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/street-pattern-machine-learning-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mapping street patterns with network science and supervised machine learning</title>
-      <link>http://localhost:1313/publication/mapping-street-patterns-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mapping-street-patterns-2024/</guid>
+      <title>(2024) Mapping street patterns with network science and supervised machine learning. ISPRS International Journal of Geo-Information, 13(4), 114</title>
+      <link>http://localhost:1315/publication/mapping-street-patterns-2024/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/mapping-street-patterns-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Occupation prediction with multimodal learning from Tweet messages and Google Street View images (2024)</title>
-      <link>http://localhost:1313/publication/occupation-prediction-multimodal-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/occupation-prediction-multimodal-2024/</guid>
+      <title>(2022) Cultivating historical heritage area vitality using urban morphology approach based on big data and machine learning. Computers, Environment and Urban Systems, 91, 101716</title>
+      <link>http://localhost:1315/publication/historical-heritage-area-vitality-2022/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/historical-heritage-area-vitality-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cultivating historical heritage area vitality using urban morphology approach based on big data and machine learning (2022)</title>
-      <link>http://localhost:1313/publication/heritage-vitality-morphology-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/heritage-vitality-morphology-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bike-sharing or taxi? Modeling the choices of travel mode in Chicago using machine learning (2019)</title>
-      <link>http://localhost:1313/publication/bike-sharing-taxi-choice-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bike-sharing-taxi-choice-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting overall customer satisfaction: big data evidence from hotel online textual reviews (2019)</title>
-      <link>http://localhost:1313/publication/hotel-reviews-satisfaction-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hotel-reviews-satisfaction-2019/</guid>
+      <title>(2019) Bike-sharing or taxi? Modeling the choices of travel mode in Chicago using machine learning. Journal of Transport Geography, 79, 102479</title>
+      <link>http://localhost:1315/publication/bike-sharing-taxi-chicago-2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/bike-sharing-taxi-chicago-2019/</guid>
       <description></description>
     </item>
     

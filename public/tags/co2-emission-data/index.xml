@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CO2 Emission Data | </title>
+    <link>http://localhost:1315/tags/co2-emission-data/</link>
+      <atom:link href="http://localhost:1315/tags/co2-emission-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>CO2 Emission Data</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>CO2 Emission Data</title>
+      <link>http://localhost:1315/tags/co2-emission-data/</link>
+    </image>
+    
+    <item>
+      <title>(2017) A two-level comparison of CO2 emission data in China: evidence from three gridded data sources. Journal of Cleaner Production, 148, pp. 194-201</title>
+      <link>http://localhost:1315/publication/co2-emission-data-china-comparison-2017/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/co2-emission-data-china-comparison-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

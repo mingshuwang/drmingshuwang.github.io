@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ecohealth | </title>
-    <link>http://localhost:1313/tags/ecohealth/</link>
-      <atom:link href="http://localhost:1313/tags/ecohealth/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ecohealth</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <title>EcoHealth | </title>
+    <link>http://localhost:1315/tags/ecohealth/</link>
+      <atom:link href="http://localhost:1315/tags/ecohealth/index.xml" rel="self" type="application/rss+xml" />
+    <description>EcoHealth</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
-      <title>Ecohealth</title>
-      <link>http://localhost:1313/tags/ecohealth/</link>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>EcoHealth</title>
+      <link>http://localhost:1315/tags/ecohealth/</link>
     </image>
     
     <item>
-      <title>Promoting Ecohealth through geography and governmental partnerships (2015)</title>
-      <link>http://localhost:1313/publication/ecohealth-geography-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ecohealth-geography-2015/</guid>
+      <title>(2015) Promoting Ecohealth through geography and governmental partnerships. EcoHealth, 12(2), pp. 206-207</title>
+      <link>http://localhost:1315/publication/promoting-ecohealth-geography-2015/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/promoting-ecohealth-geography-2015/</guid>
       <description></description>
     </item>
     

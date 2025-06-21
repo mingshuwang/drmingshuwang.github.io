@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Climate Change | </title>
-    <link>http://localhost:1313/tags/climate-change/</link>
-      <atom:link href="http://localhost:1313/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/climate-change/</link>
+      <atom:link href="http://localhost:1315/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
     <description>Climate Change</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Climate Change</title>
-      <link>http://localhost:1313/tags/climate-change/</link>
+      <link>http://localhost:1315/tags/climate-change/</link>
     </image>
     
     <item>
-      <title>Urban form, shrinking cities, and residential carbon emissions: evidence from Chinese city-regions (2020)</title>
-      <link>http://localhost:1313/publication/urban-form-carbon-emissions-2020/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/urban-form-carbon-emissions-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-form-carbon-emissions-2020/</guid>
+      <guid>http://localhost:1315/publication_disabled/urban-form-carbon-emissions-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A two-level comparison of CO2 emission data in China: evidence from three gridded data sources (2017)</title>
-      <link>http://localhost:1313/publication/co2-emission-data-comparison-2017/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/co2-emission-data-comparison-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/co2-emission-data-comparison-2017/</guid>
+      <guid>http://localhost:1315/publication_disabled/co2-emission-data-comparison-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exploring the relationship between urban forms and CO2 emissions in 104 Chinese cities (2017)</title>
-      <link>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/mangrove-biomass-modeling-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</guid>
+      <guid>http://localhost:1315/publication_disabled/mangrove-biomass-modeling-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Modeling projected changes of mangrove biomass in different climatic scenarios in the Sunda Banda Seascapes (2017)</title>
-      <link>http://localhost:1313/publication/mangrove-biomass-modeling-2017/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/urban-forms-co2-emissions-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mangrove-biomass-modeling-2017/</guid>
+      <guid>http://localhost:1315/publication_disabled/urban-forms-co2-emissions-2017/</guid>
       <description></description>
     </item>
     

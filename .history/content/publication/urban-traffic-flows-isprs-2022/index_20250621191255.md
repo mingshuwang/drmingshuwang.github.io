@@ -1,0 +1,59 @@
+---
+title: "(2022) Analysis the Influencing Factors of Urban Traffic Flows by Using New and Emerging Urban Big Data and Deep Learning. In: XXIVth ISPRS Congress, Nice, France, 6-11 June 2022, pp. 537-543"
+
+# Authors
+authors:
+  - Yue Li
+  - Qunshan Zhao
+  - admin
+
+date: '2022-12-26T00:00:00Z'
+doi: '10.5194/isprs-archives-XLIII-B4-2022-537-2022'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2022-12-26T00:00:00Z'
+
+# Publication type.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: "In *XXIVth ISPRS Congress*"
+publication_short: "In *ISPRS 2022*"
+
+abstract: ""
+
+# Summary. An optional shortened abstract.
+summary: ""
+
+tags:
+  - Urban Traffic Flows
+  - Big Data
+  - Deep Learning
+  - ISPRS Congress
+  - Conference
+
+# Display this page in the Featured widget?
+featured: false
+
+# Show author profile cards at the bottom of the page?
+show_related: false
+profile: false
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+projects: []
+slides: ""
+---

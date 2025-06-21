@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>International Journal of Hospitality Management | </title>
+    <link>http://localhost:1315/tags/international-journal-of-hospitality-management/</link>
+      <atom:link href="http://localhost:1315/tags/international-journal-of-hospitality-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>International Journal of Hospitality Management</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>International Journal of Hospitality Management</title>
+      <link>http://localhost:1315/tags/international-journal-of-hospitality-management/</link>
+    </image>
+    
+    <item>
+      <title>(2019) Predicting overall customer satisfaction: big data evidence from hotel online textual reviews. International Journal of Hospitality Management, 76(Part A), pp. 111-121</title>
+      <link>http://localhost:1315/publication/customer-satisfaction-hotel-reviews-2019/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/customer-satisfaction-hotel-reviews-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2019) Travel distance and hotel service satisfaction: an inverted U-shaped relationship. International Journal of Hospitality Management, 76(Part A), pp. 261-270</title>
+      <link>http://localhost:1315/publication/travel-distance-hotel-satisfaction-2019/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/travel-distance-hotel-satisfaction-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2018) Sleepless nights in hotels? Understanding factors that influence hotel sleep quality. International Journal of Hospitality Management, 74, pp. 189-201</title>
+      <link>http://localhost:1315/publication/sleepless-nights-hotels-2018/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/sleepless-nights-hotels-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

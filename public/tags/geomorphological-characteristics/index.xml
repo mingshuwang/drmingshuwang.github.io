@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geomorphological Characteristics | </title>
+    <link>http://localhost:1315/tags/geomorphological-characteristics/</link>
+      <atom:link href="http://localhost:1315/tags/geomorphological-characteristics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geomorphological Characteristics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Geomorphological Characteristics</title>
+      <link>http://localhost:1315/tags/geomorphological-characteristics/</link>
+    </image>
+    
+    <item>
+      <title>(2014) What geomorphological characteristics accommodate emergent herbaceous wetlands in North Georgia? - geographic knowledge discovery from the NLCD and DEM. Annals of GIS, 20(3), pp. 169-180</title>
+      <link>http://localhost:1315/publication/geomorphological-characteristics-wetlands-georgia-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/geomorphological-characteristics-wetlands-georgia-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

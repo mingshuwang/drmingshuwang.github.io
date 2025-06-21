@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tourists | </title>
+    <link>http://localhost:1315/tags/tourists/</link>
+      <atom:link href="http://localhost:1315/tags/tourists/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tourists</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Tourists</title>
+      <link>http://localhost:1315/tags/tourists/</link>
+    </image>
+    
+    <item>
+      <title>(2018) Analyzing and visualizing the spatial interactions between tourists and locals: a Flickr study in ten US cities. Cities, 74, pp. 249-258</title>
+      <link>http://localhost:1315/publication/spatial-interactions-tourists-locals-2018/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/spatial-interactions-tourists-locals-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

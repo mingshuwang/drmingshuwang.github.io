@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Data Analytics | </title>
-    <link>http://localhost:1313/tags/big-data-analytics/</link>
-      <atom:link href="http://localhost:1313/tags/big-data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/big-data-analytics/</link>
+      <atom:link href="http://localhost:1315/tags/big-data-analytics/index.xml" rel="self" type="application/rss+xml" />
     <description>Big Data Analytics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Big Data Analytics</title>
-      <link>http://localhost:1313/tags/big-data-analytics/</link>
+      <link>http://localhost:1315/tags/big-data-analytics/</link>
     </image>
     
     <item>
-      <title>Life between buildings from a street view image: what do big data analytics reveal about neighbourhood organisational vitality? (2021)</title>
-      <link>http://localhost:1313/publication/street-view-vitality/</link>
+      <title>(2021) Life between buildings from a street view image: what do big data analytics reveal about neighbourhood organisational vitality? Urban Studies, 58(15), pp. 3118-3139</title>
+      <link>http://localhost:1315/publication/life-between-buildings-street-view-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/street-view-vitality/</guid>
+      <guid>http://localhost:1315/publication/life-between-buildings-street-view-2021/</guid>
       <description></description>
     </item>
     

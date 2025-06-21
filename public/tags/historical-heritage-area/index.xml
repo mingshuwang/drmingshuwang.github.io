@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Historical Heritage Area | </title>
+    <link>http://localhost:1315/tags/historical-heritage-area/</link>
+      <atom:link href="http://localhost:1315/tags/historical-heritage-area/index.xml" rel="self" type="application/rss+xml" />
+    <description>Historical Heritage Area</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Historical Heritage Area</title>
+      <link>http://localhost:1315/tags/historical-heritage-area/</link>
+    </image>
+    
+    <item>
+      <title>(2022) Cultivating historical heritage area vitality using urban morphology approach based on big data and machine learning. Computers, Environment and Urban Systems, 91, 101716</title>
+      <link>http://localhost:1315/publication/historical-heritage-area-vitality-2022/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/historical-heritage-area-vitality-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

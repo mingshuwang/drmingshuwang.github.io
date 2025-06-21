@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Distancing | </title>
-    <link>http://localhost:1314/tags/social-distancing/</link>
-      <atom:link href="http://localhost:1314/tags/social-distancing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/social-distancing/</link>
+      <atom:link href="http://localhost:1315/tags/social-distancing/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Distancing</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1314/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Social Distancing</title>
-      <link>http://localhost:1314/tags/social-distancing/</link>
+      <link>http://localhost:1315/tags/social-distancing/</link>
     </image>
     
     <item>
-      <title>The impact of mass gatherings on the local transmission of COVID-19 and the implications for social distancing policies: Evidence from Hong Kong</title>
-      <link>http://localhost:1314/publication/covid-mass-gatherings-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publication/covid-mass-gatherings-2023/</guid>
+      <title>(2023) The impact of mass gatherings on the local transmission of COVID-19 and the implications for social distancing policies: Evidence from Hong Kong. PLoS ONE, 18(2), e0279539</title>
+      <link>http://localhost:1315/publication/covid-fighting-planning-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/covid-fighting-planning-2023/</guid>
       <description></description>
     </item>
     

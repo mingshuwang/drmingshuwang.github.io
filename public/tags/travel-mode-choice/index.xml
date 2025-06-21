@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel Mode Choice | </title>
-    <link>http://localhost:1313/tags/travel-mode-choice/</link>
-      <atom:link href="http://localhost:1313/tags/travel-mode-choice/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/travel-mode-choice/</link>
+      <atom:link href="http://localhost:1315/tags/travel-mode-choice/index.xml" rel="self" type="application/rss+xml" />
     <description>Travel Mode Choice</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Travel Mode Choice</title>
-      <link>http://localhost:1313/tags/travel-mode-choice/</link>
+      <link>http://localhost:1315/tags/travel-mode-choice/</link>
     </image>
     
     <item>
-      <title>Bike-sharing or taxi? Modeling the choices of travel mode in Chicago using machine learning (2019)</title>
-      <link>http://localhost:1313/publication/bike-sharing-taxi-choice-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bike-sharing-taxi-choice-2019/</guid>
+      <title>(2019) Bike-sharing or taxi? Modeling the choices of travel mode in Chicago using machine learning. Journal of Transport Geography, 79, 102479</title>
+      <link>http://localhost:1315/publication/bike-sharing-taxi-chicago-2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/bike-sharing-taxi-chicago-2019/</guid>
       <description></description>
     </item>
     

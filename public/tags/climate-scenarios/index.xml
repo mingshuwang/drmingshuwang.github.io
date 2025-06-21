@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climate Scenarios | </title>
+    <link>http://localhost:1315/tags/climate-scenarios/</link>
+      <atom:link href="http://localhost:1315/tags/climate-scenarios/index.xml" rel="self" type="application/rss+xml" />
+    <description>Climate Scenarios</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Climate Scenarios</title>
+      <link>http://localhost:1315/tags/climate-scenarios/</link>
+    </image>
+    
+    <item>
+      <title>(2017) Modeling projected changes of mangrove biomass in different climatic scenarios in the Sunda Banda Seascapes. International Journal of Digital Earth, 10(4), pp. 457-468</title>
+      <link>http://localhost:1315/publication/mangrove-biomass-climate-scenarios-2017/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/mangrove-biomass-climate-scenarios-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Traffic Analysis | </title>
-    <link>http://localhost:1313/tags/traffic-analysis/</link>
-      <atom:link href="http://localhost:1313/tags/traffic-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/traffic-analysis/</link>
+      <atom:link href="http://localhost:1315/tags/traffic-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Traffic Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Traffic Analysis</title>
-      <link>http://localhost:1313/tags/traffic-analysis/</link>
+      <link>http://localhost:1315/tags/traffic-analysis/</link>
     </image>
     
     <item>
-      <title>Analysis The Influencing Factors of Urban Traffic Flows by Using Emerging Urban Big Data (2023)</title>
-      <link>http://localhost:1313/publication/urban-traffic-big-data-gisruk-2023/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/urban-traffic-big-data-gisruk-2023/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-traffic-big-data-gisruk-2023/</guid>
+      <guid>http://localhost:1315/publication_disabled/urban-traffic-big-data-gisruk-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Analysis the Influencing Factors of Urban Traffic Flows by Using New and Emerging Urban Big Data and Deep Learning (2022)</title>
-      <link>http://localhost:1313/publication/traffic-flows-deep-learning-isprs-2022/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/traffic-flows-deep-learning-isprs-2022/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/traffic-flows-deep-learning-isprs-2022/</guid>
+      <guid>http://localhost:1315/publication_disabled/traffic-flows-deep-learning-isprs-2022/</guid>
       <description></description>
     </item>
     

@@ -2,61 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chinese Cities | </title>
-    <link>http://localhost:1313/tags/chinese-cities/</link>
-      <atom:link href="http://localhost:1313/tags/chinese-cities/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/chinese-cities/</link>
+      <atom:link href="http://localhost:1315/tags/chinese-cities/index.xml" rel="self" type="application/rss+xml" />
     <description>Chinese Cities</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Chinese Cities</title>
-      <link>http://localhost:1313/tags/chinese-cities/</link>
+      <link>http://localhost:1315/tags/chinese-cities/</link>
     </image>
     
     <item>
-      <title>Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities (2024)</title>
-      <link>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</guid>
+      <title>(2024) Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities. International Journal of Geographical Information Science</title>
+      <link>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Polycentric urban development and urban amenities: evidence from Chinese cities (2021)</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polycentric urban development and urban amenities: evidence from Chinese cities (2021)</title>
-      <link>http://localhost:1313/publication/polycentric-urban-amenities-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-urban-amenities-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban form, shrinking cities, and residential carbon emissions: evidence from Chinese city-regions (2020)</title>
-      <link>http://localhost:1313/publication/urban-form-carbon-emissions-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-form-carbon-emissions-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the relationship between urban forms and CO2 emissions in 104 Chinese cities (2017)</title>
-      <link>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</link>
+      <title>(2017) Exploring the relationship between urban forms and CO2 emissions in 104 Chinese cities. Journal of Urban Planning and Development, 143(4), 04017014</title>
+      <link>http://localhost:1315/publication/urban-forms-co2-emissions-china-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How polycentric is urban China and why? A case study of 318 cities (2016)</title>
-      <link>http://localhost:1313/publication/polycentric-china-318cities/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-china-318cities/</guid>
+      <guid>http://localhost:1315/publication/urban-forms-co2-emissions-china-2017/</guid>
       <description></description>
     </item>
     

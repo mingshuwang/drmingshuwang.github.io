@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multi-Scalar Analysis | </title>
-    <link>http://localhost:1313/tags/multi-scalar-analysis/</link>
-      <atom:link href="http://localhost:1313/tags/multi-scalar-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/multi-scalar-analysis/</link>
+      <atom:link href="http://localhost:1315/tags/multi-scalar-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Multi-Scalar Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Multi-Scalar Analysis</title>
-      <link>http://localhost:1313/tags/multi-scalar-analysis/</link>
+      <link>http://localhost:1315/tags/multi-scalar-analysis/</link>
     </image>
     
     <item>
-      <title>Formalising the urban pattern language: a morphological paradigm towards understanding the multi-scalar spatial structure of cities (2025)</title>
-      <link>http://localhost:1313/publication/urban-pattern-language/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/urban-pattern-language/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-pattern-language/</guid>
+      <guid>http://localhost:1315/publication_disabled/urban-pattern-language/</guid>
       <description></description>
     </item>
     

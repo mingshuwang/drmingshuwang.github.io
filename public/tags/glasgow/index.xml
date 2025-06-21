@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Glasgow | </title>
-    <link>http://localhost:1313/tags/glasgow/</link>
-      <atom:link href="http://localhost:1313/tags/glasgow/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/glasgow/</link>
+      <atom:link href="http://localhost:1315/tags/glasgow/index.xml" rel="self" type="application/rss+xml" />
     <description>Glasgow</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 05:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Glasgow</title>
-      <link>http://localhost:1313/tags/glasgow/</link>
+      <link>http://localhost:1315/tags/glasgow/</link>
     </image>
     
     <item>
-      <title>High-resolution traffic flow data from the urban traffic control system in Glasgow (2025)</title>
-      <link>http://localhost:1313/publication/glasgow-traffic-data/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/glasgow-traffic-data/</guid>
+      <title>(2025) High-resolution traffic flow data from the urban traffic control system in Glasgow. Scientific Data, 12, 253</title>
+      <link>http://localhost:1315/publication/glasgow-traffic-data-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/glasgow-traffic-data-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Understanding urban traffic flows in response to COVID-19 pandemic with emerging urban big data in Glasgow (2024)</title>
-      <link>http://localhost:1313/publication/covid-traffic-glasgow/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/covid-traffic-glasgow/</guid>
+      <title>(2024) Understanding urban traffic flows in response to COVID-19 pandemic with emerging urban big data in Glasgow. Cities, 154, 105381</title>
+      <link>http://localhost:1315/publication/covid-traffic-glasgow-2024/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/covid-traffic-glasgow-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Equalizing urban agriculture access in Glasgow: a spatial optimization approach (2023)</title>
-      <link>http://localhost:1313/publication/glasgow-urban-agriculture/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/glasgow-urban-agriculture/</guid>
+      <title>(2023) Equalizing urban agriculture access in Glasgow: a spatial optimization approach. International Journal of Applied Earth Observation and Geoinformation, 124, 103525</title>
+      <link>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2023) Analysis The Influencing Factors of Urban Traffic Flows by Using Emerging Urban Big Data. In: 31st Annual Geographical Information Science Research UK Conference (GISRUK2023), Glasgow, Scotland, 19-21 Apr 2023</title>
+      <link>http://localhost:1315/publication/urban-traffic-big-data-gisruk-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/urban-traffic-big-data-gisruk-2023/</guid>
       <description></description>
     </item>
     

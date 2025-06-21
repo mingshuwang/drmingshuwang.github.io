@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book Review | </title>
-    <link>http://localhost:1313/tags/book-review/</link>
-      <atom:link href="http://localhost:1313/tags/book-review/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/book-review/</link>
+      <atom:link href="http://localhost:1315/tags/book-review/index.xml" rel="self" type="application/rss+xml" />
     <description>Book Review</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Book Review</title>
-      <link>http://localhost:1313/tags/book-review/</link>
+      <link>http://localhost:1315/tags/book-review/</link>
     </image>
     
     <item>
-      <title>Integrating Scale in Remote Sensing and GIS (2018)</title>
-      <link>http://localhost:1313/publication/scale-integration-book-review-2018/</link>
+      <title>(2018) Integrating Scale in Remote Sensing and GIS. Photogrammetric Engineering and Remote Sensing, 84(11), p. 673 [Book Review]</title>
+      <link>http://localhost:1315/publication/integrating-scale-remote-sensing-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/scale-integration-book-review-2018/</guid>
+      <guid>http://localhost:1315/publication/integrating-scale-remote-sensing-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Location Is (Still) Everything: The Surprising Influence of the Real World on How We Search, Shop, and Sell in the Virtual One by David R. Bell (2016)</title>
-      <link>http://localhost:1313/publication/location-book-review-2016/</link>
+      <title>(2016) Location Is (Still) Everything: The Surprising Influence of the Real World on How We Search, Shop, and Sell in the Virtual One by David R. Bell. Southeastern Geographer, 56(4), pp. 476-477 [Book Review]</title>
+      <link>http://localhost:1315/publication/location-still-everything-book-review-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/location-book-review-2016/</guid>
+      <guid>http://localhost:1315/publication/location-still-everything-book-review-2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Global Urban Monitoring and Assessment through Earth Observation (2015)</title>
-      <link>http://localhost:1313/publication/urban-monitoring-book-review-2015/</link>
+      <title>(2015) Global Urban Monitoring and Assessment through Earth Observation. Photogrammetric Engineering and Remote Sensing, 81(9), -692 [Book Review]</title>
+      <link>http://localhost:1315/publication/global-urban-monitoring-book-review-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-monitoring-book-review-2015/</guid>
+      <guid>http://localhost:1315/publication/global-urban-monitoring-book-review-2015/</guid>
       <description></description>
     </item>
     

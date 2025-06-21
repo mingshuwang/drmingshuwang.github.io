@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News &amp; Updates | </title>
+    <link>http://localhost:1315/post/</link>
+      <atom:link href="http://localhost:1315/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News &amp; Updates</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>News &amp; Updates</title>
+      <link>http://localhost:1315/post/</link>
+    </image>
+    
+    <item>
+      <title>New Paper Published: GeoAggregator - An Efficient Transformer Model for Geo-Spatial Tabular Data</title>
+      <link>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</guid>
+      <description>&lt;p&gt;We are excited to announce the publication of our latest research paper titled &lt;strong&gt;&amp;ldquo;GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data&amp;rdquo;&lt;/strong&gt; in a leading journal.&lt;/p&gt;
+&lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
+&lt;p&gt;This work introduces GeoAggregator, a novel transformer-based model specifically designed for processing geo-spatial tabular data. The key innovations include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spatial-aware attention mechanism&lt;/strong&gt; that captures geographical relationships&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient aggregation strategies&lt;/strong&gt; for handling large-scale spatial datasets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Superior performance&lt;/strong&gt; compared to existing methods on multiple benchmarks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-impact&#34;&gt;Research Impact&lt;/h2&gt;
+&lt;p&gt;The GeoAggregator model addresses a critical gap in the field of geospatial machine learning by providing an efficient and effective solution for processing tabular data with spatial components. This work has significant implications for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Urban planning and development&lt;/li&gt;
+&lt;li&gt;Environmental monitoring&lt;/li&gt;
+&lt;li&gt;Transportation analysis&lt;/li&gt;
+&lt;li&gt;Location-based services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;
+&lt;p&gt;This research was conducted in collaboration with researchers from multiple institutions and represents a significant advancement in the application of transformer models to geospatial data.&lt;/p&gt;
+&lt;h2 id=&#34;access&#34;&gt;Access&lt;/h2&gt;
+&lt;p&gt;The paper is now available online and the code will be made available on our GitHub repository soon.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;For more details about this research, please refer to the full publication in our &lt;a href=&#34;http://localhost:1315/publication/&#34;&gt;Publications&lt;/a&gt; section.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Successful Presentation at International GIScience Conference 2025</title>
+      <link>http://localhost:1315/post/2025-06-conference-presentation/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/post/2025-06-conference-presentation/</guid>
+      <description>&lt;p&gt;Dr. Mingshu Wang recently presented our cutting-edge research on &lt;strong&gt;&amp;ldquo;Urban Pattern Language: A Morphological Paradigm for Understanding Multi-scalar Spatial Structure&amp;rdquo;&lt;/strong&gt; at the International GIScience Conference 2025 held in Vienna, Austria.&lt;/p&gt;
+&lt;h2 id=&#34;presentation-highlights&#34;&gt;Presentation Highlights&lt;/h2&gt;
+&lt;p&gt;The presentation covered:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Novel methodological approaches&lt;/strong&gt; for analyzing urban spatial structures&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-scalar analysis techniques&lt;/strong&gt; for understanding city morphology&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Case studies&lt;/strong&gt; from major cities worldwide&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implications for urban planning&lt;/strong&gt; and policy making&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conference-reception&#34;&gt;Conference Reception&lt;/h2&gt;
+&lt;p&gt;The presentation was very well received by the international audience, generating significant discussion and interest from fellow researchers. Several potential collaboration opportunities emerged from the networking sessions.&lt;/p&gt;
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;
+&lt;p&gt;The conference provided valuable insights into the latest trends in GIScience research, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advances in geospatial AI and machine learning&lt;/li&gt;
+&lt;li&gt;New approaches to urban data analytics&lt;/li&gt;
+&lt;li&gt;Emerging applications in smart city development&lt;/li&gt;
+&lt;li&gt;Integration of remote sensing and urban studies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;future-collaborations&#34;&gt;Future Collaborations&lt;/h2&gt;
+&lt;p&gt;We are excited about the potential collaborations that emerged from this conference and look forward to advancing our research through international partnerships.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Stay tuned for more updates on our conference presentations and research activities.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Major Research Grant Awarded for Urban AI Project</title>
+      <link>http://localhost:1315/post/2025-05-research-grant-awarded/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/post/2025-05-research-grant-awarded/</guid>
+      <description>&lt;p&gt;We are thrilled to announce that our research group has been awarded a &lt;strong&gt;£500,000 research grant&lt;/strong&gt; from the UK Research and Innovation (UKRI) to support our groundbreaking work on &lt;strong&gt;&amp;ldquo;Explainable AI for Urban Systems: Advancing People-Centric Urban Analytics&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;This three-year project will focus on developing explainable artificial intelligence methods for understanding urban systems from a people-centric perspective. The research will address critical challenges in:&lt;/p&gt;
+&lt;h3 id=&#34;research-objectives&#34;&gt;Research Objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Developing interpretable AI models&lt;/strong&gt; for urban data analysis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Creating people-centric urban analytics&lt;/strong&gt; frameworks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advancing explainable AI&lt;/strong&gt; in geospatial contexts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Building practical tools&lt;/strong&gt; for urban planners and policymakers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;expected-outcomes&#34;&gt;Expected Outcomes&lt;/h3&gt;
+&lt;p&gt;The project is expected to deliver:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Novel AI methodologies&lt;/strong&gt; for urban analysis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Open-source software tools&lt;/strong&gt; for the research community&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policy recommendations&lt;/strong&gt; for urban development&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Training opportunities&lt;/strong&gt; for early-career researchers&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research Team&lt;/h2&gt;
+&lt;p&gt;The project will support:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2 PhD students&lt;/strong&gt; working on different aspects of urban AI&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1 Postdoctoral researcher&lt;/strong&gt; focusing on explainable AI methods&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaborative partnerships&lt;/strong&gt; with international institutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;impact-and-applications&#34;&gt;Impact and Applications&lt;/h2&gt;
+&lt;p&gt;This research will have significant implications for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Urban planning&lt;/strong&gt; and smart city development&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policy making&lt;/strong&gt; for sustainable urban growth&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Environmental monitoring&lt;/strong&gt; and management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transportation&lt;/strong&gt; and mobility planning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaboration-opportunities&#34;&gt;Collaboration Opportunities&lt;/h2&gt;
+&lt;p&gt;We welcome collaborations with researchers, practitioners, and organizations interested in urban AI and explainable machine learning. Please get in touch if you would like to explore potential partnerships.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This grant represents a significant milestone for our research group and will enable us to make substantial contributions to the field of urban informatics and AI.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome New PhD Student: Sarah Johnson</title>
+      <link>http://localhost:1315/post/2025-04-new-team-member/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/post/2025-04-new-team-member/</guid>
+      <description>&lt;p&gt;We are delighted to welcome &lt;strong&gt;Sarah Johnson&lt;/strong&gt; as the newest member of our research team! Sarah has joined us as a PhD student and will be working on exciting research related to urban mobility and transportation analytics.&lt;/p&gt;
+&lt;h2 id=&#34;about-sarah&#34;&gt;About Sarah&lt;/h2&gt;
+&lt;p&gt;Sarah brings a strong background in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Computer Science&lt;/strong&gt; (MSc from University of Edinburgh)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Analytics&lt;/strong&gt; and machine learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transportation systems&lt;/strong&gt; and urban planning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming&lt;/strong&gt; in Python, R, and GIS applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
+&lt;p&gt;Sarah&amp;rsquo;s PhD research will focus on:&lt;/p&gt;
+&lt;h3 id=&#34;primary-research-areas&#34;&gt;Primary Research Areas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Urban mobility patterns&lt;/strong&gt; analysis using big data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transportation equity&lt;/strong&gt; and accessibility studies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine learning applications&lt;/strong&gt; in transportation planning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sustainable transportation&lt;/strong&gt; systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-questions&#34;&gt;Research Questions&lt;/h3&gt;
+&lt;p&gt;Her work will address important questions such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How can we use AI to improve transportation equity in cities?&lt;/li&gt;
+&lt;li&gt;What are the patterns of urban mobility in post-pandemic cities?&lt;/li&gt;
+&lt;li&gt;How can we design more sustainable transportation systems?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;academic-background&#34;&gt;Academic Background&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MSc in Data Science&lt;/strong&gt; - University of Edinburgh (2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BSc in Computer Science&lt;/strong&gt; - University of Glasgow (2022)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research experience&lt;/strong&gt; in transportation analytics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry experience&lt;/strong&gt; with urban planning consultancy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;welcome-message&#34;&gt;Welcome Message&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;m excited to join Dr. Wang&amp;rsquo;s research group and contribute to advancing our understanding of urban systems through data science and AI. I look forward to working on research that can make a real difference in how we plan and manage our cities.&amp;rdquo; - Sarah Johnson&lt;/p&gt;
+&lt;h2 id=&#34;research-environment&#34;&gt;Research Environment&lt;/h2&gt;
+&lt;p&gt;Sarah will be working in our collaborative research environment alongside other PhD students and postdocs, with access to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;State-of-the-art computing facilities&lt;/li&gt;
+&lt;li&gt;Rich urban datasets&lt;/li&gt;
+&lt;li&gt;International collaboration opportunities&lt;/li&gt;
+&lt;li&gt;Professional development programs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;We look forward to Sarah&amp;rsquo;s contributions to our research group and wish her all the best in her PhD journey!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

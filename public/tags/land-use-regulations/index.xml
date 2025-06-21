@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Land Use Regulations | </title>
-    <link>http://localhost:1313/tags/land-use-regulations/</link>
-      <atom:link href="http://localhost:1313/tags/land-use-regulations/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/land-use-regulations/</link>
+      <atom:link href="http://localhost:1315/tags/land-use-regulations/index.xml" rel="self" type="application/rss+xml" />
     <description>Land Use Regulations</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Land Use Regulations</title>
-      <link>http://localhost:1313/tags/land-use-regulations/</link>
+      <link>http://localhost:1315/tags/land-use-regulations/</link>
     </image>
     
     <item>
-      <title>Land use regulations, transit investment, and commuting preferences (2022)</title>
-      <link>http://localhost:1313/publication/land-use-regulations-transit-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/land-use-regulations-transit-2022/</guid>
+      <title>(2022) Land use regulations, transit investment, and commuting preferences. Land Use Policy, 122, 106343</title>
+      <link>http://localhost:1315/publication/land-use-regulations-transit-2022/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/land-use-regulations-transit-2022/</guid>
       <description></description>
     </item>
     

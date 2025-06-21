@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network Analysis | </title>
-    <link>http://localhost:1313/tags/network-analysis/</link>
-      <atom:link href="http://localhost:1313/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/network-analysis/</link>
+      <atom:link href="http://localhost:1315/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Network Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Network Analysis</title>
-      <link>http://localhost:1313/tags/network-analysis/</link>
+      <link>http://localhost:1315/tags/network-analysis/</link>
     </image>
     
     <item>
-      <title>Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities (2024)</title>
-      <link>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</link>
+      <title></title>
+      <link>http://localhost:1315/publication_disabled/graph-convolutional-polycentricity-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</guid>
+      <guid>http://localhost:1315/publication_disabled/graph-convolutional-polycentricity-2024/</guid>
       <description></description>
     </item>
     

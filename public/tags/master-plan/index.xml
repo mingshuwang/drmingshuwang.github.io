@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Master Plan | </title>
+    <link>http://localhost:1315/tags/master-plan/</link>
+      <atom:link href="http://localhost:1315/tags/master-plan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Master Plan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Master Plan</title>
+      <link>http://localhost:1315/tags/master-plan/</link>
+    </image>
+    
+    <item>
+      <title>(2024) &#34;Local hubs and global gateways&#34;: understanding the impact of Singapore&#39;s master plan on urban polycentricity. Environment and Planning B: Urban Analytics and City Science</title>
+      <link>http://localhost:1315/publication/singapore-polycentricity-2024/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/singapore-polycentricity-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

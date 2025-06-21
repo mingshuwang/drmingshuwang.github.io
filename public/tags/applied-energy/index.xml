@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied Energy | </title>
+    <link>http://localhost:1315/tags/applied-energy/</link>
+      <atom:link href="http://localhost:1315/tags/applied-energy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Applied Energy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Applied Energy</title>
+      <link>http://localhost:1315/tags/applied-energy/</link>
+    </image>
+    
+    <item>
+      <title>(2020) Urban form, shrinking cities, and residential carbon emissions: evidence from Chinese city-regions. Applied Energy, 261, 114409</title>
+      <link>http://localhost:1315/publication/urban-form-shrinking-cities-carbon-2020/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/urban-form-shrinking-cities-carbon-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

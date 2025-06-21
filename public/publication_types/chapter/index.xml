@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chapter | </title>
-    <link>http://localhost:1313/publication_types/chapter/</link>
-      <atom:link href="http://localhost:1313/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/publication_types/chapter/</link>
+      <atom:link href="http://localhost:1315/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
     <description>Chapter</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Chapter</title>
-      <link>http://localhost:1313/publication_types/chapter/</link>
+      <link>http://localhost:1315/publication_types/chapter/</link>
     </image>
     
     <item>
-      <title>Image processing and analysis methods (2019)</title>
-      <link>http://localhost:1313/publication/remote-sensing-manual-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/remote-sensing-manual-2019/</guid>
+      <title>(2019) Image processing and analysis methods. In: Manual of Remote Sensing, 4th Edition. American Society for Photogrammetry and Remote Sensing: Bethesda, pp. 631-868</title>
+      <link>http://localhost:1315/publication/image-processing-remote-sensing-2019/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/image-processing-remote-sensing-2019/</guid>
       <description></description>
     </item>
     

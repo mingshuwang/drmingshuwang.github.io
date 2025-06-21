@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transformer | </title>
+    <link>http://localhost:1315/tags/transformer/</link>
+      <atom:link href="http://localhost:1315/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transformer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
+      <title>Transformer</title>
+      <link>http://localhost:1315/tags/transformer/</link>
+    </image>
+    
+    <item>
+      <title>New Paper Published: GeoAggregator - An Efficient Transformer Model for Geo-Spatial Tabular Data</title>
+      <link>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</guid>
+      <description>&lt;p&gt;We are excited to announce the publication of our latest research paper titled &lt;strong&gt;&amp;ldquo;GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data&amp;rdquo;&lt;/strong&gt; in a leading journal.&lt;/p&gt;
+&lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
+&lt;p&gt;This work introduces GeoAggregator, a novel transformer-based model specifically designed for processing geo-spatial tabular data. The key innovations include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spatial-aware attention mechanism&lt;/strong&gt; that captures geographical relationships&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient aggregation strategies&lt;/strong&gt; for handling large-scale spatial datasets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Superior performance&lt;/strong&gt; compared to existing methods on multiple benchmarks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-impact&#34;&gt;Research Impact&lt;/h2&gt;
+&lt;p&gt;The GeoAggregator model addresses a critical gap in the field of geospatial machine learning by providing an efficient and effective solution for processing tabular data with spatial components. This work has significant implications for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Urban planning and development&lt;/li&gt;
+&lt;li&gt;Environmental monitoring&lt;/li&gt;
+&lt;li&gt;Transportation analysis&lt;/li&gt;
+&lt;li&gt;Location-based services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;
+&lt;p&gt;This research was conducted in collaboration with researchers from multiple institutions and represents a significant advancement in the application of transformer models to geospatial data.&lt;/p&gt;
+&lt;h2 id=&#34;access&#34;&gt;Access&lt;/h2&gt;
+&lt;p&gt;The paper is now available online and the code will be made available on our GitHub repository soon.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;For more details about this research, please refer to the full publication in our &lt;a href=&#34;http://localhost:1315/publication/&#34;&gt;Publications&lt;/a&gt; section.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024) A Transformer-Based Model for Effective Representation of Geospatial Data and Context. EGU General Assembly 2024, Vienna, Austria, 14-19 April 2024</title>
+      <link>http://localhost:1315/publication/transformer-geospatial-egu-2024/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/transformer-geospatial-egu-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

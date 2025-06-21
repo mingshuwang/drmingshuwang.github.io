@@ -2,53 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transportation | </title>
-    <link>http://localhost:1313/tags/transportation/</link>
-      <atom:link href="http://localhost:1313/tags/transportation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/transportation/</link>
+      <atom:link href="http://localhost:1315/tags/transportation/index.xml" rel="self" type="application/rss+xml" />
     <description>Transportation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 05:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Transportation</title>
-      <link>http://localhost:1313/tags/transportation/</link>
+      <link>http://localhost:1315/tags/transportation/</link>
     </image>
     
     <item>
-      <title>Understanding taxi ridership with spatial spillover effects and temporal dynamics (2022)</title>
-      <link>http://localhost:1313/publication/taxi-ridership-spillover-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/taxi-ridership-spillover-2022/</guid>
+      <title>(2025) High-resolution traffic flow data from the urban traffic control system in Glasgow. Scientific Data, 12, 253</title>
+      <link>http://localhost:1315/publication/glasgow-traffic-data-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/glasgow-traffic-data-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Urban morphology and traffic congestion: longitudinal evidence from US cities (2021)</title>
-      <link>http://localhost:1313/publication/urban-morphology-traffic/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-morphology-traffic/</guid>
+      <title>(2024) Understanding the protection of privacy when counting subway travelers through anonymization. Computers, Environment and Urban Systems, 110, 102091</title>
+      <link>http://localhost:1315/publication/privacy-subway-travelers-2024/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/privacy-subway-travelers-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Road network structure and ride-sharing accessibility: a network science perspective (2020)</title>
-      <link>http://localhost:1313/publication/road-network-ridesharing/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/road-network-ridesharing/</guid>
+      <title>(2022) Land use regulations, transit investment, and commuting preferences. Land Use Policy, 122, 106343</title>
+      <link>http://localhost:1315/publication/land-use-regulations-transit-2022/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/land-use-regulations-transit-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Big data for intrametropolitan human movement studies (2017)</title>
-      <link>http://localhost:1313/publication/big-data-human-movement-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/big-data-human-movement-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outside the ivory tower: visualizing university students&#39; top transit-trip destinations and popular corridors (2016)</title>
-      <link>http://localhost:1313/publication/university-transit-trips-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/university-transit-trips-2016/</guid>
+      <title>(2022) Understanding taxi ridership with spatial spillover effects and temporal dynamics. Cities, 125, 103637</title>
+      <link>http://localhost:1315/publication/taxi-ridership-spatial-spillover-2022/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/taxi-ridership-spatial-spillover-2022/</guid>
       <description></description>
     </item>
     

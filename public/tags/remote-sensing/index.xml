@@ -2,45 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remote Sensing | </title>
-    <link>http://localhost:1313/tags/remote-sensing/</link>
-      <atom:link href="http://localhost:1313/tags/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/remote-sensing/</link>
+      <atom:link href="http://localhost:1315/tags/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
     <description>Remote Sensing</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Remote Sensing</title>
-      <link>http://localhost:1313/tags/remote-sensing/</link>
+      <link>http://localhost:1315/tags/remote-sensing/</link>
     </image>
     
     <item>
-      <title>Measuring polycentric urban development with multi-temporal Sentinel-1 SAR imagery: a case study in Shanghai, China (2023)</title>
-      <link>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</guid>
+      <title>(2023) Measuring polycentric urban development with multi-temporal Sentinel-1 SAR imagery: a case study in Shanghai, China. International Journal of Applied Earth Observation and Geoinformation, 121, 103340</title>
+      <link>http://localhost:1315/publication/shanghai-polycentric-sentinel-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/shanghai-polycentric-sentinel-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Image processing and analysis methods (2019)</title>
-      <link>http://localhost:1313/publication/remote-sensing-manual-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/remote-sensing-manual-2019/</guid>
+      <title>(2019) Image processing and analysis methods. In: Manual of Remote Sensing, 4th Edition. American Society for Photogrammetry and Remote Sensing: Bethesda, pp. 631-868</title>
+      <link>http://localhost:1315/publication/image-processing-remote-sensing-2019/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/image-processing-remote-sensing-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Integrating Scale in Remote Sensing and GIS (2018)</title>
-      <link>http://localhost:1313/publication/scale-integration-book-review-2018/</link>
+      <title>(2018) Integrating Scale in Remote Sensing and GIS. Photogrammetric Engineering and Remote Sensing, 84(11), p. 673 [Book Review]</title>
+      <link>http://localhost:1315/publication/integrating-scale-remote-sensing-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/scale-integration-book-review-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global Urban Monitoring and Assessment through Earth Observation (2015)</title>
-      <link>http://localhost:1313/publication/urban-monitoring-book-review-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-monitoring-book-review-2015/</guid>
+      <guid>http://localhost:1315/publication/integrating-scale-remote-sensing-2018/</guid>
       <description></description>
     </item>
     

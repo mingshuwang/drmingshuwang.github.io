@@ -2,565 +2,541 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | </title>
-    <link>http://localhost:1313/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1315/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 08:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:1313/publication_types/article-journal/</link>
+      <link>http://localhost:1315/publication_types/article-journal/</link>
     </image>
     
     <item>
-      <title>A multi-level spatial assessment framework for identifying land use conflict zones (2025)</title>
-      <link>http://localhost:1313/publication/land-use-conflict/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/land-use-conflict/</guid>
+      <title>(2025) Where England&#39;s cities are growing: Evidence from big building footprint data and explainable AI. Habitat International, 163, 103457</title>
+      <link>http://localhost:1315/publication/england-cities-growing-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/england-cities-growing-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Construction enthusiasts versus demolition giants: insights from building footprint data in England (2025)</title>
-      <link>http://localhost:1313/publication/construction-demolition-england/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/construction-demolition-england/</guid>
+      <title>(2025) Shrinking cities in China&#39;s urban network: a data-driven exploration of migration and investment flows. Applied Geography, 180, 103664</title>
+      <link>http://localhost:1315/publication/shrinking-cities-china-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 07:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/shrinking-cities-china-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Formalising the urban pattern language: a morphological paradigm towards understanding the multi-scalar spatial structure of cities (2025)</title>
-      <link>http://localhost:1313/publication/urban-pattern-language/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-pattern-language/</guid>
+      <title>(2025) Formalising the urban pattern language: a morphological paradigm towards understanding the multi-scalar spatial structure of cities. Cities, 161, 105854</title>
+      <link>http://localhost:1315/publication/urban-pattern-language-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 06:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/urban-pattern-language-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>High-resolution traffic flow data from the urban traffic control system in Glasgow (2025)</title>
-      <link>http://localhost:1313/publication/glasgow-traffic-data/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/glasgow-traffic-data/</guid>
+      <title>(2025) High-resolution traffic flow data from the urban traffic control system in Glasgow. Scientific Data, 12, 253</title>
+      <link>http://localhost:1315/publication/glasgow-traffic-data-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/glasgow-traffic-data-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shrinking cities in China&#39;s urban network: a data-driven exploration of migration and investment flows (2025)</title>
-      <link>http://localhost:1313/publication/shrinking-cities-china/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shrinking-cities-china/</guid>
+      <title>(2025) Solar radiation drives the plant species distribution in urban built-up areas. Plants, 14(4), 539</title>
+      <link>http://localhost:1315/publication/solar-radiation-plants-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/solar-radiation-plants-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Solar radiation drives the plant species distribution in urban built-up areas (2025)</title>
-      <link>http://localhost:1313/publication/solar-radiation-plants/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/solar-radiation-plants/</guid>
+      <title>(2025) Construction enthusiasts versus demolition giants: insights from building footprint data in England. Environment and Planning B: Urban Analytics and City Science</title>
+      <link>http://localhost:1315/publication/construction-demolition-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 03:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/construction-demolition-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Where England&#39;s cities are growing: Evidence from big building footprint data and explainable AI (2025)</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <title>(2025) A multi-level spatial assessment framework for identifying land use conflict zones. Land Use Policy, 148, 107382</title>
+      <link>http://localhost:1315/publication/land-use-conflict-2025/</link>
+      <pubDate>Sat, 21 Jun 2025 02:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/land-use-conflict-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A spacematrix and clustering approach to understanding the morphology of Singapore&#39;s Housing Development Board (HDB) estates (2024)</title>
-      <link>http://localhost:1313/publication/spacematrix-singapore-hdb-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/spacematrix-singapore-hdb-2024/</guid>
+      <title>(2024) Understanding urban traffic flows in response to COVID-19 pandemic with emerging urban big data in Glasgow. Cities, 154, 105381</title>
+      <link>http://localhost:1315/publication/covid-traffic-glasgow-2024/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/covid-traffic-glasgow-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities (2024)</title>
-      <link>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</guid>
+      <title>(2024) &#34;Local hubs and global gateways&#34;: understanding the impact of Singapore&#39;s master plan on urban polycentricity. Environment and Planning B: Urban Analytics and City Science</title>
+      <link>http://localhost:1315/publication/singapore-polycentricity-2024/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/singapore-polycentricity-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Local hubs and global gateways: understanding the impact of Singapore&#39;s master plan on urban polycentricity (2024)</title>
-      <link>http://localhost:1313/publication/singapore-polycentricity/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/singapore-polycentricity/</guid>
+      <title>(2024) Understanding the protection of privacy when counting subway travelers through anonymization. Computers, Environment and Urban Systems, 110, 102091</title>
+      <link>http://localhost:1315/publication/privacy-subway-travelers-2024/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/privacy-subway-travelers-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine learning-based characterisation of urban morphology with the street pattern (2024)</title>
-      <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
+      <title>(2024) Preface. AGILE: GIScience Series, 5, 1</title>
+      <link>http://localhost:1315/publication/agile-preface-2024/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/agile-preface-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine learning-based characterisation of urban morphology with the street pattern (2024)</title>
-      <link>http://localhost:1313/publication/street-pattern-machine-learning-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/street-pattern-machine-learning-2024/</guid>
+      <title>(2024) Occupation prediction with multimodal learning from Tweet messages and Google Street View images. AGILE: GIScience Series, 5, 36</title>
+      <link>http://localhost:1315/publication/occupation-prediction-multimodal-2024/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/occupation-prediction-multimodal-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mapping street patterns with network science and supervised machine learning</title>
-      <link>http://localhost:1313/publication/mapping-street-patterns-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mapping-street-patterns-2024/</guid>
+      <title>(2024) A spacematrix and clustering approach to understanding the morphology of Singapore&#39;s Housing Development Board (HDB) estates. AGILE: GIScience Series, 5, 54</title>
+      <link>http://localhost:1315/publication/spacematrix-singapore-hdb-2024/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/spacematrix-singapore-hdb-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Occupation prediction with multimodal learning from Tweet messages and Google Street View images (2024)</title>
-      <link>http://localhost:1313/publication/occupation-prediction-multimodal-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/occupation-prediction-multimodal-2024/</guid>
+      <title>(2024) Machine learning-based characterisation of urban morphology with the street pattern. Computers, Environment and Urban Systems, 109, 102078</title>
+      <link>http://localhost:1315/publication/street-pattern-machine-learning-2024/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/street-pattern-machine-learning-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Preface (2024)</title>
-      <link>http://localhost:1313/publication/agile-preface-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/agile-preface-2024/</guid>
+      <title>(2024) Mapping street patterns with network science and supervised machine learning. ISPRS International Journal of Geo-Information, 13(4), 114</title>
+      <link>http://localhost:1315/publication/mapping-street-patterns-2024/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/mapping-street-patterns-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Three-dimensional land-use configuration and property prices: a spatially filtered multi-level modelling perspective (2024)</title>
-      <link>http://localhost:1313/publication/three-dimensional-land-use-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/three-dimensional-land-use-2024/</guid>
+      <title>(2024) Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities. International Journal of Geographical Information Science</title>
+      <link>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/graph-convolutional-polycentricity-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Understanding the protection of privacy when counting subway travelers through anonymization (2024)</title>
-      <link>http://localhost:1313/publication/privacy-subway-travelers-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/privacy-subway-travelers-2024/</guid>
+      <title>(2024) Three-dimensional land-use configuration and property prices: a spatially filtered multi-level modelling perspective. Environment and Planning B: Urban Analytics and City Science, 51(2), pp. 438-455</title>
+      <link>http://localhost:1315/publication/three-dimensional-land-use-2024/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/three-dimensional-land-use-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Understanding urban traffic flows in response to COVID-19 pandemic with emerging urban big data in Glasgow (2024)</title>
-      <link>http://localhost:1313/publication/covid-traffic-glasgow/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/covid-traffic-glasgow/</guid>
+      <title>(2023) Equalizing urban agriculture access in Glasgow: a spatial optimization approach. International Journal of Applied Earth Observation and Geoinformation, 124, 103525</title>
+      <link>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/glasgow-urban-agriculture-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Elucidation of spatial disparities of factors that affect air pollutant concentrations in industrial regions at a continental level (2023)</title>
-      <link>http://localhost:1313/publication/air-pollutant-industrial-regions-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/air-pollutant-industrial-regions-2023/</guid>
+      <title>(2023) Embedding artificial intelligence in society: looking beyond the EU AI master plan using the culture cycle. AI and Society, 38(4), pp. 1465-1484</title>
+      <link>http://localhost:1315/publication/ai-society-culture-cycle-2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/ai-society-culture-cycle-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Embedding artificial intelligence in society: looking beyond the EU AI master plan using the culture cycle (2023)</title>
-      <link>http://localhost:1313/publication/ai-society-culture-cycle-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ai-society-culture-cycle-2023/</guid>
+      <title>(2023) Measuring polycentric urban development with multi-temporal Sentinel-1 SAR imagery: a case study in Shanghai, China. International Journal of Applied Earth Observation and Geoinformation, 121, 103340</title>
+      <link>http://localhost:1315/publication/shanghai-polycentric-sentinel-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/shanghai-polycentric-sentinel-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Equalizing urban agriculture access in Glasgow: a spatial optimization approach (2023)</title>
-      <link>http://localhost:1313/publication/glasgow-urban-agriculture/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/glasgow-urban-agriculture/</guid>
+      <title>(2023) Elucidation of spatial disparities of factors that affect air pollutant concentrations in industrial regions at a continental level. International Journal of Applied Earth Observation and Geoinformation, 117, 103221</title>
+      <link>http://localhost:1315/publication/air-pollutant-industrial-regions-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/air-pollutant-industrial-regions-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Measuring polycentric urban development with multi-temporal Sentinel-1 SAR imagery: a case study in Shanghai, China (2023)</title>
-      <link>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</guid>
+      <title>(2023) The impact of mass gatherings on the local transmission of COVID-19 and the implications for social distancing policies: Evidence from Hong Kong. PLoS ONE, 18(2), e0279539</title>
+      <link>http://localhost:1315/publication/covid-fighting-planning-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/covid-fighting-planning-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A hierarchical spatial unit partitioning approach for fine-grained urban functional region identification (2022)</title>
-      <link>http://localhost:1313/publication/hierarchical-spatial-partitioning-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hierarchical-spatial-partitioning-2022/</guid>
+      <title>(2022) Land use regulations, transit investment, and commuting preferences. Land Use Policy, 122, 106343</title>
+      <link>http://localhost:1315/publication/land-use-regulations-transit-2022/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/land-use-regulations-transit-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cultivating historical heritage area vitality using urban morphology approach based on big data and machine learning (2022)</title>
-      <link>http://localhost:1313/publication/heritage-vitality-morphology-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/heritage-vitality-morphology-2022/</guid>
+      <title>(2022) Ridesharing accessibility from the human eye: Spatial modeling of built environment with street-level images. Computers, Environment and Urban Systems, 97, 101858</title>
+      <link>http://localhost:1315/publication/ridesharing-accessibility-human-eye-2022/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/ridesharing-accessibility-human-eye-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Land use regulations, transit investment, and commuting preferences (2022)</title>
-      <link>http://localhost:1313/publication/land-use-regulations-transit-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/land-use-regulations-transit-2022/</guid>
+      <title>(2022) Urban expansion and the urban–rural income gap: empirical evidence from China. Cities, 129, 103831</title>
+      <link>http://localhost:1315/publication/urban-expansion-income-gap-2022/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/urban-expansion-income-gap-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regional integration in the Horn of Africa through the lens of inter-city connectivity (2022)</title>
-      <link>http://localhost:1313/publication/horn-africa-connectivity-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/horn-africa-connectivity-2022/</guid>
+      <title>(2022) A hierarchical spatial unit partitioning approach for fine-grained urban functional region identification. Transactions in GIS, 26(6), pp. 2691-2715</title>
+      <link>http://localhost:1315/publication/hierarchical-spatial-unit-partitioning-2022/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/hierarchical-spatial-unit-partitioning-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ridesharing accessibility from the human eye: Spatial modeling of built environment with street-level images (2022)</title>
-      <link>http://localhost:1313/publication/ridesharing-accessibility/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ridesharing-accessibility/</guid>
+      <title>(2022) Regional integration in the Horn of Africa through the lens of inter-city connectivity. Applied Geography, 145, 102754</title>
+      <link>http://localhost:1315/publication/regional-integration-horn-africa-2022/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/regional-integration-horn-africa-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Understanding taxi ridership with spatial spillover effects and temporal dynamics (2022)</title>
-      <link>http://localhost:1313/publication/taxi-ridership-spillover-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/taxi-ridership-spillover-2022/</guid>
+      <title>(2022) Understanding taxi ridership with spatial spillover effects and temporal dynamics. Cities, 125, 103637</title>
+      <link>http://localhost:1315/publication/taxi-ridership-spatial-spillover-2022/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/taxi-ridership-spatial-spillover-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Urban expansion and the urban–rural income gap: empirical evidence from China (2022)</title>
-      <link>http://localhost:1313/publication/urban-expansion-income-gap-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-expansion-income-gap-2022/</guid>
+      <title>(2022) Cultivating historical heritage area vitality using urban morphology approach based on big data and machine learning. Computers, Environment and Urban Systems, 91, 101716</title>
+      <link>http://localhost:1315/publication/historical-heritage-area-vitality-2022/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/historical-heritage-area-vitality-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Access to urban parks: Comparing spatial accessibility measures using three GIS-based approaches (2021)</title>
-      <link>http://localhost:1313/publication/urban-parks-access-gis-2021/</link>
+      <title>(2021) Measuring polycentric urban development: the importance of accurately determining the &#39;balance&#39; between &#39;centers&#39;. Cities, 111, 103009</title>
+      <link>http://localhost:1315/publication/measuring-polycentric-urban-development-2021/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/measuring-polycentric-urban-development-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2021) Simulating the urban spatial structure with spatial interaction: A case study of urban polycentricity under different scenarios. Computers, Environment and Urban Systems, 89, 101677</title>
+      <link>http://localhost:1315/publication/simulating-urban-spatial-structure-2021/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/simulating-urban-spatial-structure-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2021) Urban morphology and traffic congestion: longitudinal evidence from US cities. Computers, Environment and Urban Systems, 89, 101676</title>
+      <link>http://localhost:1315/publication/urban-morphology-traffic-congestion-2021/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/urban-morphology-traffic-congestion-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2021) Access to urban parks: Comparing spatial accessibility measures using three GIS-based approaches. Computers, Environment and Urban Systems, 90, 101713</title>
+      <link>http://localhost:1315/publication/access-urban-parks-gis-2021/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/access-urban-parks-gis-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2021) Life between buildings from a street view image: what do big data analytics reveal about neighbourhood organisational vitality? Urban Studies, 58(15), pp. 3118-3139</title>
+      <link>http://localhost:1315/publication/life-between-buildings-street-view-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-parks-access-gis-2021/</guid>
+      <guid>http://localhost:1315/publication/life-between-buildings-street-view-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Built environment and early infection of COVID-19 in urban districts: a case study of Huangzhou (2021)</title>
-      <link>http://localhost:1313/publication/covid-built-environment/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/covid-built-environment/</guid>
+      <title>(2020) Road network structure and ride-sharing accessibility: a network science perspective. Computers, Environment and Urban Systems, 80, 101430</title>
+      <link>http://localhost:1315/publication/road-network-ridesharing-accessibility-2020/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/road-network-ridesharing-accessibility-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Life between buildings from a street view image: what do big data analytics reveal about neighbourhood organisational vitality? (2021)</title>
-      <link>http://localhost:1313/publication/street-view-vitality/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/street-view-vitality/</guid>
+      <title>(2020) Urban form, shrinking cities, and residential carbon emissions: evidence from Chinese city-regions. Applied Energy, 261, 114409</title>
+      <link>http://localhost:1315/publication/urban-form-shrinking-cities-carbon-2020/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/urban-form-shrinking-cities-carbon-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Measuring polycentric urban development: the importance of accurately determining the &#39;balance&#39; between &#39;centers&#39; (2021)</title>
-      <link>http://localhost:1313/publication/polycentric-balance-centers/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-balance-centers/</guid>
+      <title>(2020) Where we are in fighting against COVID-19. Environment and Planning A, 52(8), pp. 1483-1486</title>
+      <link>http://localhost:1315/publication/fighting-covid19-2020/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/fighting-covid19-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Polycentric urban development and urban amenities: evidence from Chinese cities (2021)</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polycentric urban development and urban amenities: evidence from Chinese cities (2021)</title>
-      <link>http://localhost:1313/publication/polycentric-urban-amenities-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-urban-amenities-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulating the urban spatial structure with spatial interaction: A case study of urban polycentricity under different scenarios (2021)</title>
-      <link>http://localhost:1313/publication/urban-spatial-structure-simulation/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-spatial-structure-simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban morphology and traffic congestion: longitudinal evidence from US cities (2021)</title>
-      <link>http://localhost:1313/publication/urban-morphology-traffic/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-morphology-traffic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Road network structure and ride-sharing accessibility: a network science perspective (2020)</title>
-      <link>http://localhost:1313/publication/road-network-ridesharing/</link>
+      <title>(2020) Urbanization&#39;s effects on the urban-rural income gap in China: a meta-regression analysis. Land Use Policy, 99, 104995</title>
+      <link>http://localhost:1315/publication/urbanization-income-gap-china-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/road-network-ridesharing/</guid>
+      <guid>http://localhost:1315/publication/urbanization-income-gap-china-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Urban form, shrinking cities, and residential carbon emissions: evidence from Chinese city-regions (2020)</title>
-      <link>http://localhost:1313/publication/urban-form-carbon-emissions-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-form-carbon-emissions-2020/</guid>
+      <title>(2019) Predicting overall customer satisfaction: big data evidence from hotel online textual reviews. International Journal of Hospitality Management, 76(Part A), pp. 111-121</title>
+      <link>http://localhost:1315/publication/customer-satisfaction-hotel-reviews-2019/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/customer-satisfaction-hotel-reviews-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Urbanization&#39;s effects on the urban-rural income gap in China: a meta-regression analysis (2020)</title>
-      <link>http://localhost:1313/publication/urbanization-income-gap/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urbanization-income-gap/</guid>
+      <title>(2019) Travel distance and hotel service satisfaction: an inverted U-shaped relationship. International Journal of Hospitality Management, 76(Part A), pp. 261-270</title>
+      <link>http://localhost:1315/publication/travel-distance-hotel-satisfaction-2019/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/travel-distance-hotel-satisfaction-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Where we are in fighting against COVID-19 (2020)</title>
-      <link>http://localhost:1313/publication/covid-fighting-planning-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/covid-fighting-planning-2020/</guid>
+      <title>(2019) A robust noise mitigation method for the mobile RFID location in built environment. Sensors, 19(9), 2143</title>
+      <link>http://localhost:1315/publication/robust-noise-mitigation-rfid-2019/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/robust-noise-mitigation-rfid-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A robust noise mitigation method for the mobile RFID location in built environment (2019)</title>
-      <link>http://localhost:1313/publication/rfid-noise-mitigation-2019/</link>
+      <title>(2019) Bike-sharing or taxi? Modeling the choices of travel mode in Chicago using machine learning. Journal of Transport Geography, 79, 102479</title>
+      <link>http://localhost:1315/publication/bike-sharing-taxi-chicago-2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/bike-sharing-taxi-chicago-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2019) Polycentric urban development and economic productivity in China: a multiscalar analysis. Environment and Planning A: Economy and Space, 51(8), pp. 1622-1643</title>
+      <link>http://localhost:1315/publication/polycentric-urban-development-china-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rfid-noise-mitigation-2019/</guid>
+      <guid>http://localhost:1315/publication/polycentric-urban-development-china-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bike-sharing or taxi? Modeling the choices of travel mode in Chicago using machine learning (2019)</title>
-      <link>http://localhost:1313/publication/bike-sharing-taxi-choice-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bike-sharing-taxi-choice-2019/</guid>
+      <title>(2018) Geospatial Applications of the Internet of Things (IoT) [Guest Editors]. ISPRS International Journal of Geo-Information, 7</title>
+      <link>http://localhost:1315/publication/geospatial-applications-iot-2018/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/geospatial-applications-iot-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Polycentric urban development and economic productivity in China: a multiscalar analysis (2019)</title>
-      <link>http://localhost:1313/publication/polycentric-economic-productivity-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-economic-productivity-2019/</guid>
+      <title>(2018) Spatial disparities of Uber accessibility: an exploratory analysis in Atlanta, USA. Computers, Environment and Urban Systems, 67, pp. 169-175</title>
+      <link>http://localhost:1315/publication/spatial-disparities-uber-accessibility-2018/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/spatial-disparities-uber-accessibility-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Predicting overall customer satisfaction: big data evidence from hotel online textual reviews (2019)</title>
-      <link>http://localhost:1313/publication/hotel-reviews-satisfaction-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hotel-reviews-satisfaction-2019/</guid>
+      <title>(2018) Analyzing and visualizing the spatial interactions between tourists and locals: a Flickr study in ten US cities. Cities, 74, pp. 249-258</title>
+      <link>http://localhost:1315/publication/spatial-interactions-tourists-locals-2018/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/spatial-interactions-tourists-locals-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Travel distance and hotel service satisfaction: an inverted U-shaped relationship (2019)</title>
-      <link>http://localhost:1313/publication/hotel-travel-distance-satisfaction-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hotel-travel-distance-satisfaction-2019/</guid>
+      <title>(2018) A low-cost collaborative location scheme with GNSS and RFID for the Internet of Things. ISPRS International Journal of Geo-Information, 7(5), 180</title>
+      <link>http://localhost:1315/publication/collaborative-location-gnss-rfid-2018/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/collaborative-location-gnss-rfid-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A low-cost collaborative location scheme with GNSS and RFID for the Internet of Things (2018)</title>
-      <link>http://localhost:1313/publication/gnss-rfid-collaboration-2018/</link>
+      <title>(2018) Sleepless nights in hotels? Understanding factors that influence hotel sleep quality. International Journal of Hospitality Management, 74, pp. 189-201</title>
+      <link>http://localhost:1315/publication/sleepless-nights-hotels-2018/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/sleepless-nights-hotels-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2018) Polycentric urban development in China: a multi-scale analysis. Environment and Planning B: Urban Analytics and City Science, 45(5), pp. 953-972</title>
+      <link>http://localhost:1315/publication/polycentric-urban-development-multiscale-2018/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/polycentric-urban-development-multiscale-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(2018) Integrating Scale in Remote Sensing and GIS. Photogrammetric Engineering and Remote Sensing, 84(11), p. 673 [Book Review]</title>
+      <link>http://localhost:1315/publication/integrating-scale-remote-sensing-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gnss-rfid-collaboration-2018/</guid>
+      <guid>http://localhost:1315/publication/integrating-scale-remote-sensing-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Analyzing and visualizing the spatial interactions between tourists and locals: a Flickr study in ten US cities (2018)</title>
-      <link>http://localhost:1313/publication/tourist-local-interactions-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tourist-local-interactions-2018/</guid>
+      <title>(2017) Big data for intrametropolitan human movement studies. International Review for Spatial Planning and Sustainable Development, 5(3), pp. 100-115</title>
+      <link>http://localhost:1315/publication/big-data-intrametropolitan-movement-2017/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/big-data-intrametropolitan-movement-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Geospatial Applications of the Internet of Things (IoT) [Guest Editors] (2018)</title>
-      <link>http://localhost:1313/publication/iot-geospatial-guest-editor-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/iot-geospatial-guest-editor-2018/</guid>
+      <title>(2017) Modeling projected changes of mangrove biomass in different climatic scenarios in the Sunda Banda Seascapes. International Journal of Digital Earth, 10(4), pp. 457-468</title>
+      <link>http://localhost:1315/publication/mangrove-biomass-climate-scenarios-2017/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/mangrove-biomass-climate-scenarios-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Integrating Scale in Remote Sensing and GIS (2018)</title>
-      <link>http://localhost:1313/publication/scale-integration-book-review-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/scale-integration-book-review-2018/</guid>
+      <title>(2017) From stay to play – a travel planning tool based on crowdsourcing user-generated contents. Applied Geography, 78, pp. 1-11</title>
+      <link>http://localhost:1315/publication/stay-to-play-travel-planning-2017/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/stay-to-play-travel-planning-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Polycentric urban development in China: a multi-scale analysis (2018)</title>
-      <link>http://localhost:1313/publication/polycentric-china-multiscale-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-china-multiscale-2018/</guid>
+      <title>(2017) A two-level comparison of CO2 emission data in China: evidence from three gridded data sources. Journal of Cleaner Production, 148, pp. 194-201</title>
+      <link>http://localhost:1315/publication/co2-emission-data-china-comparison-2017/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/co2-emission-data-china-comparison-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sleepless nights in hotels? Understanding factors that influence hotel sleep quality (2018)</title>
-      <link>http://localhost:1313/publication/hotel-sleep-quality-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hotel-sleep-quality-2018/</guid>
+      <title>(2017) Bike-sharing systems and congestion: evidence from US cities. Journal of Transport Geography, 65, pp. 147-154</title>
+      <link>http://localhost:1315/publication/bike-sharing-congestion-us-cities-2017/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/bike-sharing-congestion-us-cities-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spatial disparities of Uber accessibility: an exploratory analysis in Atlanta, USA (2018)</title>
-      <link>http://localhost:1313/publication/uber-accessibility-atlanta-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/uber-accessibility-atlanta-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A two-level comparison of CO2 emission data in China: evidence from three gridded data sources (2017)</title>
-      <link>http://localhost:1313/publication/co2-emission-data-comparison-2017/</link>
+      <title>(2017) Exploring the relationship between urban forms and CO2 emissions in 104 Chinese cities. Journal of Urban Planning and Development, 143(4), 04017014</title>
+      <link>http://localhost:1315/publication/urban-forms-co2-emissions-china-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/co2-emission-data-comparison-2017/</guid>
+      <guid>http://localhost:1315/publication/urban-forms-co2-emissions-china-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Big data for intrametropolitan human movement studies (2017)</title>
-      <link>http://localhost:1313/publication/big-data-human-movement-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/big-data-human-movement-2017/</guid>
+      <title>(2016) Outside the ivory tower: visualizing university students&#39; top transit-trip destinations and popular corridors. Regional Studies, Regional Science, 3(1), pp. 202-206</title>
+      <link>http://localhost:1315/publication/university-students-transit-destinations-2016/</link>
+      <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/university-students-transit-destinations-2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bike-sharing systems and congestion: evidence from US cities (2017)</title>
-      <link>http://localhost:1313/publication/bikesharing-congestion/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bikesharing-congestion/</guid>
+      <title>(2016) Visualizing pesticide usage in the United States from 1992 to 2009. Environment and Planning A, 48(3), pp. 455-457</title>
+      <link>http://localhost:1315/publication/visualizing-pesticide-usage-us-2016/</link>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/visualizing-pesticide-usage-us-2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exploring the relationship between urban forms and CO2 emissions in 104 Chinese cities (2017)</title>
-      <link>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</guid>
+      <title>(2016) How polycentric is urban China and why? A case study of 318 cities. Landscape and Urban Planning, 151, pp. 10-20</title>
+      <link>http://localhost:1315/publication/polycentric-urban-china-318-cities-2016/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/polycentric-urban-china-318-cities-2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>From stay to play – a travel planning tool based on crowdsourcing user-generated contents (2017)</title>
-      <link>http://localhost:1313/publication/travel-planning-crowdsourcing-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/travel-planning-crowdsourcing-2017/</guid>
+      <title>(2016) Crowdsourcing the landscape of cannabis (marijuana) of the contiguous United States. Environment and Planning A, 48(8), pp. 1449-1451</title>
+      <link>http://localhost:1315/publication/crowdsourcing-cannabis-landscape-2016/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/crowdsourcing-cannabis-landscape-2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Modeling projected changes of mangrove biomass in different climatic scenarios in the Sunda Banda Seascapes (2017)</title>
-      <link>http://localhost:1313/publication/mangrove-biomass-modeling-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mangrove-biomass-modeling-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crowdsourcing the landscape of cannabis (marijuana) of the contiguous United States (2016)</title>
-      <link>http://localhost:1313/publication/cannabis-crowdsourcing-2016/</link>
+      <title>(2016) Location Is (Still) Everything: The Surprising Influence of the Real World on How We Search, Shop, and Sell in the Virtual One by David R. Bell. Southeastern Geographer, 56(4), pp. 476-477 [Book Review]</title>
+      <link>http://localhost:1315/publication/location-still-everything-book-review-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cannabis-crowdsourcing-2016/</guid>
+      <guid>http://localhost:1315/publication/location-still-everything-book-review-2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How polycentric is urban China and why? A case study of 318 cities (2016)</title>
-      <link>http://localhost:1313/publication/polycentric-china-318cities/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/polycentric-china-318cities/</guid>
+      <title>(2015) Delineating biophysical environments of the Sunda Banda Seascape, Indonesia. International Journal of Environmental Research and Public Health, 12(2), pp. 1069-1082</title>
+      <link>http://localhost:1315/publication/delineating-biophysical-environments-sunda-banda-2015/</link>
+      <pubDate>Sat, 03 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/delineating-biophysical-environments-sunda-banda-2015/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Location Is (Still) Everything: The Surprising Influence of the Real World on How We Search, Shop, and Sell in the Virtual One by David R. Bell (2016)</title>
-      <link>http://localhost:1313/publication/location-book-review-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/location-book-review-2016/</guid>
+      <title>(2015) Promoting Ecohealth through geography and governmental partnerships. EcoHealth, 12(2), pp. 206-207</title>
+      <link>http://localhost:1315/publication/promoting-ecohealth-geography-2015/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/promoting-ecohealth-geography-2015/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Outside the ivory tower: visualizing university students&#39; top transit-trip destinations and popular corridors (2016)</title>
-      <link>http://localhost:1313/publication/university-transit-trips-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/university-transit-trips-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualizing pesticide usage in the United States from 1992 to 2009 (2016)</title>
-      <link>http://localhost:1313/publication/pesticide-visualization-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pesticide-visualization-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Delineating biophysical environments of the Sunda Banda Seascape, Indonesia (2015)</title>
-      <link>http://localhost:1313/publication/sunda-banda-seascape-2015/</link>
+      <title>(2015) Global Urban Monitoring and Assessment through Earth Observation. Photogrammetric Engineering and Remote Sensing, 81(9), -692 [Book Review]</title>
+      <link>http://localhost:1315/publication/global-urban-monitoring-book-review-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sunda-banda-seascape-2015/</guid>
+      <guid>http://localhost:1315/publication/global-urban-monitoring-book-review-2015/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Global Urban Monitoring and Assessment through Earth Observation (2015)</title>
-      <link>http://localhost:1313/publication/urban-monitoring-book-review-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/urban-monitoring-book-review-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Promoting Ecohealth through geography and governmental partnerships (2015)</title>
-      <link>http://localhost:1313/publication/ecohealth-geography-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ecohealth-geography-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What geomorphological characteristics accommodate emergent herbaceous wetlands in North Georgia? - geographic knowledge discovery from the NLCD and DEM (2014)</title>
-      <link>http://localhost:1313/publication/wetlands-geomorphology-2014/</link>
+      <title>(2014) What geomorphological characteristics accommodate emergent herbaceous wetlands in North Georgia? - geographic knowledge discovery from the NLCD and DEM. Annals of GIS, 20(3), pp. 169-180</title>
+      <link>http://localhost:1315/publication/geomorphological-characteristics-wetlands-georgia-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wetlands-geomorphology-2014/</guid>
+      <guid>http://localhost:1315/publication/geomorphological-characteristics-wetlands-georgia-2014/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evaluating intensive land use situation of development zone based on cloud models (2012)</title>
-      <link>http://localhost:1313/publication/development-zone-cloud-models-2012/</link>
+      <title>(2012) Evaluating intensive land use situation of development zone based on cloud models. Nongye Gongcheng Xuebao = Transactions of the Chinese Society of Agricultural Engineering, 28(10), pp. 247-252</title>
+      <link>http://localhost:1315/publication/evaluating-intensive-land-use-cloud-models-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/development-zone-cloud-models-2012/</guid>
+      <guid>http://localhost:1315/publication/evaluating-intensive-land-use-cloud-models-2012/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Street Patterns | </title>
-    <link>http://localhost:1313/tags/street-patterns/</link>
-      <atom:link href="http://localhost:1313/tags/street-patterns/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/street-patterns/</link>
+      <atom:link href="http://localhost:1315/tags/street-patterns/index.xml" rel="self" type="application/rss+xml" />
     <description>Street Patterns</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Street Patterns</title>
-      <link>http://localhost:1313/tags/street-patterns/</link>
+      <link>http://localhost:1315/tags/street-patterns/</link>
     </image>
     
     <item>
-      <title>Machine learning-based characterisation of urban morphology with the street pattern (2024)</title>
-      <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine learning-based characterisation of urban morphology with the street pattern (2024)</title>
-      <link>http://localhost:1313/publication/street-pattern-machine-learning-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/street-pattern-machine-learning-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping street patterns with network science and supervised machine learning</title>
-      <link>http://localhost:1313/publication/mapping-street-patterns-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mapping-street-patterns-2024/</guid>
+      <title>(2024) Mapping street patterns with network science and supervised machine learning. ISPRS International Journal of Geo-Information, 13(4), 114</title>
+      <link>http://localhost:1315/publication/mapping-street-patterns-2024/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/publication/mapping-street-patterns-2024/</guid>
       <description></description>
     </item>
     
