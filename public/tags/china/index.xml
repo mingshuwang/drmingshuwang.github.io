@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>China | </title>
+    <link>http://localhost:1313/tags/china/</link>
+      <atom:link href="http://localhost:1313/tags/china/index.xml" rel="self" type="application/rss+xml" />
+    <description>China</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>China</title>
+      <link>http://localhost:1313/tags/china/</link>
+    </image>
+    
+    <item>
+      <title>Shrinking cities in China&#39;s urban network: a data-driven exploration of migration and investment flows (2025)</title>
+      <link>http://localhost:1313/publication/shrinking-cities-china/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shrinking-cities-china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban expansion and the urban–rural income gap: empirical evidence from China (2022)</title>
+      <link>http://localhost:1313/publication/urban-expansion-income-gap-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urban-expansion-income-gap-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urbanization&#39;s effects on the urban-rural income gap in China: a meta-regression analysis (2020)</title>
+      <link>http://localhost:1313/publication/urbanization-income-gap/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urbanization-income-gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polycentric urban development and economic productivity in China: a multiscalar analysis (2019)</title>
+      <link>http://localhost:1313/publication/polycentric-economic-productivity-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/polycentric-economic-productivity-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polycentric urban development in China: a multi-scale analysis (2018)</title>
+      <link>http://localhost:1313/publication/polycentric-china-multiscale-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/polycentric-china-multiscale-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two-level comparison of CO2 emission data in China: evidence from three gridded data sources (2017)</title>
+      <link>http://localhost:1313/publication/co2-emission-data-comparison-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/co2-emission-data-comparison-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating intensive land use situation of development zone based on cloud models (2012)</title>
+      <link>http://localhost:1313/publication/development-zone-cloud-models-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/development-zone-cloud-models-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,204 @@
+{{/* Custom about.biography template with organization display */}}
+{{ $section := .Params.content }}
+{{ $user := site.GetPage (printf "/authors/%s" $section.username) }}
+
+{{ if $user }}
+<section id="about" class="home-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="biography-section">
+          <div class="row align-items-center">
+            {{/* Profile Image */}}
+            <div class="col-md-4 text-center">
+              {{ $avatar := ($user.Resources.ByType "image").GetMatch "*avatar*" }}
+              {{ if not $avatar }}{{ $avatar = ($user.Resources.ByType "image").GetMatch "{avatar,profile}*" }}{{ end }}
+              {{ if $avatar }}
+                {{ $avatar_image := $avatar.Fill "300x300 Center" }}
+                <img src="{{ $avatar_image.RelPermalink }}" alt="{{ $user.Title }}" class="avatar avatar-circle">
+              {{ end }}
+            </div>
+            
+            {{/* Profile Info */}}
+            <div class="col-md-8">
+              <div class="biography-content">
+                <h1 class="biography-title">{{ $user.Title }}</h1>
+                
+                {{/* Role */}}
+                {{ with $user.Params.role }}
+                  <h2 class="biography-role">{{ . }}</h2>
+                {{ end }}
+                
+                {{/* Organizations */}}
+                {{ with $user.Params.organizations }}
+                  {{ range . }}
+                    <h3 class="biography-organization">
+                      {{ if .url }}
+                        <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
+                      {{ else }}
+                        {{ .name }}
+                      {{ end }}
+                    </h3>
+                  {{ end }}
+                {{ end }}
+                
+                {{/* Social Links */}}
+                {{ with $user.Params.profiles }}
+                  <div class="biography-social">
+                    {{ range . }}
+                      <a href="{{ .url }}" target="_blank" rel="noopener" class="social-link">
+                        <i class="{{ .icon }}"></i>
+                      </a>
+                    {{ end }}
+                  </div>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+          
+          {{/* About Me Content */}}
+          {{ if $user.Content }}
+            <div class="row mt-4">
+              <div class="col-12">
+                <div class="biography-text">
+                  {{ $user.Content }}
+                </div>
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+.biography-section {
+  background: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  padding: 3rem;
+  margin: 2rem auto;
+  border: 1px solid #e9ecef;
+}
+
+.biography-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.biography-role {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #007bff;
+  margin-bottom: 0.5rem;
+}
+
+.biography-organization {
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: #6c757d;
+  margin-bottom: 1.5rem;
+}
+
+.biography-organization a {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.biography-organization a:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
+
+.biography-social {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.social-link {
+  background: #f8f9fa;
+  color: #6c757d;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 12px;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  height: 45px;
+  text-decoration: none;
+}
+
+.social-link:hover {
+  background: #007bff;
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3);
+  text-decoration: none;
+}
+
+.avatar {
+  border: 4px solid #007bff;
+  border-radius: 50%;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.biography-text {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e9ecef;
+}
+
+.biography-text h2 {
+  color: #333;
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 0.5rem;
+}
+
+.biography-text p {
+  color: #6c757d;
+  line-height: 1.7;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  text-align: justify;
+}
+
+@media (max-width: 768px) {
+  .biography-title {
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  .biography-role {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  
+  .biography-organization {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+  
+  .biography-social {
+    justify-content: center;
+  }
+  
+  .avatar {
+    width: 200px;
+    height: 200px;
+  }
+}
+</style>
+{{ end }}

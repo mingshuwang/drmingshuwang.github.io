@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Structure | </title>
+    <link>http://localhost:1313/tags/urban-structure/</link>
+      <atom:link href="http://localhost:1313/tags/urban-structure/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Structure</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Urban Structure</title>
+      <link>http://localhost:1313/tags/urban-structure/</link>
+    </image>
+    
+    <item>
+      <title>Measuring polycentric urban development with multi-temporal Sentinel-1 SAR imagery: a case study in Shanghai, China (2023)</title>
+      <link>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hierarchical spatial unit partitioning approach for fine-grained urban functional region identification (2022)</title>
+      <link>http://localhost:1313/publication/hierarchical-spatial-partitioning-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hierarchical-spatial-partitioning-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring polycentric urban development: the importance of accurately determining the &#39;balance&#39; between &#39;centers&#39; (2021)</title>
+      <link>http://localhost:1313/publication/polycentric-balance-centers/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/polycentric-balance-centers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polycentric urban development and urban amenities: evidence from Chinese cities (2021)</title>
+      <link>http://localhost:1313/publication/polycentric-urban-amenities-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/polycentric-urban-amenities-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polycentric urban development in China: a multi-scale analysis (2018)</title>
+      <link>http://localhost:1313/publication/polycentric-china-multiscale-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/polycentric-china-multiscale-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

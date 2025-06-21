@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | </title>
+    <link>http://localhost:1313/publication_types/paper-conference/</link>
+      <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Paper-Conference</title>
+      <link>http://localhost:1313/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data (2025)</title>
+      <link>http://localhost:1313/publication/geoaggregator/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/geoaggregator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis The Influencing Factors of Urban Traffic Flows by Using Emerging Urban Big Data (2023)</title>
+      <link>http://localhost:1313/publication/urban-traffic-big-data-gisruk-2023/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urban-traffic-big-data-gisruk-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis the Influencing Factors of Urban Traffic Flows by Using New and Emerging Urban Big Data and Deep Learning (2022)</title>
+      <link>http://localhost:1313/publication/traffic-flows-deep-learning-isprs-2022/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/traffic-flows-deep-learning-isprs-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging the Gap Between Geography and Marketing: Opportunities for CyberGIS (2016)</title>
+      <link>http://localhost:1313/publication/cybergis-marketing-2016/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cybergis-marketing-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geography matters in online hotel reviews (2016)</title>
+      <link>http://localhost:1313/publication/hotel-reviews-geography-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hotel-reviews-geography-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+---
+title: ""
+date: 2022-10-24
+type: landing
+
+design:
+  spacing: "0"
+
+sections:
+  - block: markdown
+    content:
+      title: ""
+      text: |
+        <div class="profile-page">
+          <div class="container-fluid">
+            <div class="row min-vh-100">
+              <div class="col-md-4 profile-sidebar">
+                <div class="profile-card">
+                  <div class="profile-image-container">
+                    <img src="/authors/sarah-johnson/avatar.jpg" alt="Dr. Sarah Johnson" class="profile-image">
+                    <div class="profile-badge">
+                      <i class="fas fa-check"></i>
+                    </div>
+                  </div>
+                  <div class="profile-info">
+                    <h1 class="profile-name">Dr. Sarah Johnson</h1>
+                    <h2 class="profile-title">Postdoctoral Research Fellow</h2>
+                    <h3 class="profile-institution">The Hong Kong Polytechnic University</h3>
+                  </div>
+                  <div class="social-links">
+                    <a href="mailto:sarah.johnson@polyu.edu.hk" class="social-link" title="Email">
+                      <i class="fas fa-envelope"></i>
+                    </a>
+                    <a href="https://twitter.com/SarahUrbanGeo" class="social-link" title="Twitter">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                    <a href="https://linkedin.com/in/sarah-johnson-urban" class="social-link" title="LinkedIn">
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+                    <a href="https://scholar.google.com/citations?user=sarahjohnson" class="social-link" title="Google Scholar">
+                      <i class="fas fa-graduation-cap"></i>
+                    </a>
+                    <a href="https://orcid.org/0000-0003-2345-6789" class="social-link" title="ORCID">
+                      <i class="fab fa-orcid"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-8 content-area">
+                <div class="about-content">
+                  <h2 class="about-title">About Me</h2>
+                  <div class="about-text">
+                    <p>Dr. Sarah Johnson is a Postdoctoral Research Fellow in the Mobility Science Lab, specializing in the intersection of urban mobility, environmental health, and social equity. She joined the lab in 2023 after completing her PhD in Geography at UC Berkeley.</p>
+                    <p>Sarah's research examines how transportation systems and urban mobility patterns affect environmental justice and public health outcomes in different communities. She is particularly interested in using geospatial AI and machine learning techniques to identify and address mobility-related health disparities in urban areas.</p>
+                    <p>Her current projects include analyzing the relationship between transportation accessibility and health outcomes in Hong Kong, and developing community-based participatory mapping tools to understand mobility barriers faced by vulnerable populations. Sarah has published extensively in top-tier journals and has received several awards for her innovative research methods and community engagement work.</p>
+                  </div>
+                  
+                  <h3 class="section-title">Research Interests</h3>
+                  <div class="interests-list">
+                    <span class="interest-tag">Environmental Justice</span>
+                    <span class="interest-tag">Urban Health</span>
+                    <span class="interest-tag">Spatial Epidemiology</span>
+                    <span class="interest-tag">GeoAI Applications</span>
+                    <span class="interest-tag">Community-Based Research</span>
+                  </div>
+                  
+                  <h3 class="section-title">Education</h3>
+                  <div class="education-list">
+                    <div class="education-item">
+                      <strong>PhD in Geography</strong><br>
+                      University of California, Berkeley, USA
+                    </div>
+                    <div class="education-item">
+                      <strong>MSc in Environmental Science</strong><br>
+                      University of Edinburgh, UK
+                    </div>
+                    <div class="education-item">
+                      <strong>BSc in Environmental Studies</strong><br>
+                      University of Toronto, Canada
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    design:
+      background:
+        color: '#f8f9fa'
+      spacing:
+        padding: ['0', '0', '0', '0']
+---

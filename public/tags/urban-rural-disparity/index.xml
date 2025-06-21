@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban-Rural Disparity | </title>
+    <link>http://localhost:1313/tags/urban-rural-disparity/</link>
+      <atom:link href="http://localhost:1313/tags/urban-rural-disparity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban-Rural Disparity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Urban-Rural Disparity</title>
+      <link>http://localhost:1313/tags/urban-rural-disparity/</link>
+    </image>
+    
+    <item>
+      <title>Urban expansion and the urban–rural income gap: empirical evidence from China (2022)</title>
+      <link>http://localhost:1313/publication/urban-expansion-income-gap-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urban-expansion-income-gap-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urbanization&#39;s effects on the urban-rural income gap in China: a meta-regression analysis (2020)</title>
+      <link>http://localhost:1313/publication/urbanization-income-gap/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urbanization-income-gap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

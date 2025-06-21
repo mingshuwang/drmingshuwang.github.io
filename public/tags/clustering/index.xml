@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clustering | </title>
+    <link>http://localhost:1313/tags/clustering/</link>
+      <atom:link href="http://localhost:1313/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clustering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Clustering</title>
+      <link>http://localhost:1313/tags/clustering/</link>
+    </image>
+    
+    <item>
+      <title>A spacematrix and clustering approach to understanding the morphology of Singapore&#39;s Housing Development Board (HDB) estates (2024)</title>
+      <link>http://localhost:1313/publication/spacematrix-singapore-hdb-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/spacematrix-singapore-hdb-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

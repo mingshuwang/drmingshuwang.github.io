@@ -1,0 +1,131 @@
+<!-- layouts/partials/widgets/people.html -->
+{{/*
+  HugoBlox People widget.
+  Docs: https://docs.hugoblox.com/widgets/people/
+*/}}
+
+{{ $section := .Params.content }}
+{{ $users := where site.Pages ".Params.user_groups" "intersect" $section.user_groups }}
+
+{{ if not (eq (len $users) 0) }}
+<section id="people">
+  <div class="container">
+    {{ with $section.title }}<h1>{{ . }}</h1>{{ end }}
+
+    {{ range $group := $section.user_groups }}
+      {{ $group_users := where $users ".Params.user_groups" "intersect" (slice $group) }}
+      {{ if gt (len $group_users) 0 }}
+        <h2>{{ $group }}</h2>
+        <div class="row">
+          {{ range sort $group_users (.Params.sort_by | default "Params.name") (.Params.sort_order | default "asc") }}
+            <div class="col-12 col-md-6 col-lg-4">
+              {{ $p := . }}
+              {{/* Determine the link URL */}}
+              {{ $link_url := "" }}
+              {{ if $p.Params.url }}
+                {{ $link_url = $p.Params.url }}
+              {{ else if eq $p.Title "Dr. Mingshu Wang" }}
+                {{ $link_url = "/people/dr-mingshu-wang/" }}
+              {{ else }}
+                {{ $link_url = $p.RelPermalink }}
+              {{ end }}
+
+              <div class="col-12 col-sm-auto people-person">
+                {{/* Make the entire card clickable */}}
+                <a href="{{ $link_url }}" style="text-decoration: none !important; color: inherit !important; display: block !important; position: relative !important; z-index: 10 !important;">
+                  <div class="people-card" style="cursor: pointer !important; transition: transform 0.2s ease !important; position: relative !important;">
+                    {{/* Avatar */}}
+                    {{ $avatar := ($p.Resources.ByType "image").GetMatch "*avatar*" }}
+                    {{ if not $avatar }}{{ $avatar = ($p.Resources.ByType "image").GetMatch "{avatar,profile}*" }}{{ end }}
+                    {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+                    {{ if $avatar }}
+                      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+                      <img width="270" height="270" loading="lazy" class="avatar avatar-{{ $avatar_shape }}" src="{{ $avatar_image.RelPermalink }}" alt="Avatar" style="pointer-events: none !important;">
+                    {{ end }}
+
+                    <div class="portrait-title" style="pointer-events: none !important;">
+                      <h2 style="pointer-events: none !important;">{{ $p.Title }}</h2>
+                      {{ if $section.design.show_role }}
+                        {{ with $p.Params.role }}<h3 style="pointer-events: none !important;">{{ . }}</h3>{{ end }}
+                      {{ end }}
+
+                      {{ if $section.design.show_social }}
+                        <div style="pointer-events: auto !important; position: relative !important; z-index: 20 !important;">
+                          {{ partial "functions/social_links.html" $p }}
+                        </div>
+                      {{ end }}
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+
+<style>
+.people-person {
+  position: relative !important;
+}
+
+.people-person a {
+  display: block !important;
+  text-decoration: none !important;
+  color: inherit !important;
+  position: relative !important;
+  z-index: 10 !important;
+  cursor: pointer !important;
+}
+
+.people-person a:hover {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.people-person a:focus {
+  outline: 2px solid #3498db !important;
+  outline-offset: 2px !important;
+}
+
+.people-card {
+  cursor: pointer !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+  position: relative !important;
+}
+
+.people-card:hover {
+  transform: translateY(-5px) !important;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15) !important;
+}
+
+.people-person .portrait-title h2,
+.people-person .portrait-title h3 {
+  transition: color 0.2s ease !important;
+  pointer-events: none !important;
+}
+
+.people-person a:hover .portrait-title h2 {
+  color: #3498db !important;
+}
+
+/* Ensure avatar images don't interfere with clicks */
+.people-person img.avatar {
+  pointer-events: none !important;
+}
+
+/* Social links should still be clickable */
+.people-person .social-links {
+  pointer-events: auto !important;
+  position: relative !important;
+  z-index: 20 !important;
+}
+
+.people-person .social-links a {
+  pointer-events: auto !important;
+  z-index: 21 !important;
+}
+</style>
+{{ end }}

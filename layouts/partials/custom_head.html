@@ -1,0 +1,298 @@
+<!-- Font Awesome Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!-- Custom CSS for dark profile layout -->
+<link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+
+<!-- Custom JavaScript for team member click functionality -->
+<script src="{{ "js/custom.js" | relURL }}" defer></script>
+
+<!-- Publications search and filter functionality -->
+<script src="{{ "js/publications.js" | relURL }}" defer></script>
+
+<!-- Add publication years dynamically -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Wait for content to load
+    setTimeout(function() {
+        addPublicationYears();
+    }, 1000);
+});
+
+function addPublicationYears() {
+    // Find all publication items
+    const publicationItems = document.querySelectorAll('.stream-item, .media');
+
+    console.log('Found', publicationItems.length, 'publication items');
+
+    publicationItems.forEach(function(item, index) {
+        // Skip if year badge already exists
+        if (item.querySelector('.publication-year-badge')) {
+            return;
+        }
+
+        // Try to extract year from various sources
+        let year = null;
+
+        // Method 1: Look for year in the publication link URL (most reliable)
+        const titleLink = item.querySelector('.article-title a, .section-subheading a, h3 a, h4 a, h5 a');
+        if (titleLink) {
+            const href = titleLink.getAttribute('href');
+            console.log('Publication', index, 'href:', href);
+
+            // Extract year from publication URL pattern like /publication/geoaggregator/
+            if (href && href.includes('/publication/')) {
+                const slugMatch = href.match(/\/publication\/([^\/]+)\//);
+                if (slugMatch) {
+                    const slug = slugMatch[1];
+                    console.log('Publication slug:', slug);
+
+                    // Map known publications to their years (based on actual date fields)
+                    const publicationYears = {
+                        'geoaggregator': '2025',                    // 2025-02-25
+                        'land-use-conflict': '2025',               // 2025-01-01
+                        'covid-traffic-glasgow': '2024',           // 2024-01-01
+                        'glasgow-traffic-data': '2025',            // 2025-01-01
+                        'ridesharing-accessibility': '2022',       // 2022-01-01
+                        'urban-morphology-traffic': '2021',        // 2021-01-01
+                        'singapore-polycentricity': '2024',        // 2024-01-01
+                        'shrinking-cities-china': '2025',          // 2025-01-01
+                        'glasgow-urban-agriculture': '2023',       // 2023-01-01
+                        'construction-demolition-england': '2025', // 2025-01-01
+                        'street-view-vitality': '2021',            // 2021-01-01
+                        'solar-radiation-plants': '2025',          // 2025-01-01
+                        'urban-pattern-language': '2025',          // 2025-01-01
+                        'conference-paper': '2025',                // 2025-01-01
+                        'journal-article': '2021',                 // 2021-01-01
+                        'preprint': '2024',                        // 2024-01-01
+                        // New publications added
+                        'urban-spatial-structure-simulation': '2021', // 2021-01-01
+                        'polycentric-balance-centers': '2021',     // 2021-01-01
+                        'covid-built-environment': '2021',         // 2021-01-01
+                        'urbanization-income-gap': '2020',         // 2020-01-01
+                        'road-network-ridesharing': '2020',        // 2020-01-01
+                        'bikesharing-congestion': '2017',          // 2017-01-01
+                        'polycentric-china-318cities': '2016'      // 2016-01-01
+                    };
+
+                    if (publicationYears[slug]) {
+                        year = publicationYears[slug];
+                    }
+                }
+            }
+        }
+
+        // Method 2: Look for year in the text content as fallback
+        if (!year) {
+            const text = item.textContent || '';
+            const yearMatches = text.match(/\b(20[0-2][0-9])\b/g);
+            if (yearMatches) {
+                const years = yearMatches.map(y => parseInt(y)).sort((a, b) => b - a);
+                year = years[0].toString();
+                console.log('Found years in text:', yearMatches, 'using:', year);
+            }
+        }
+
+        console.log('Final year for publication', index, ':', year);
+
+        // If we found a year, add the badge
+        if (year) {
+            const yearBadge = document.createElement('span');
+            yearBadge.className = 'publication-year-badge';
+            yearBadge.textContent = year;
+
+            // Set inline styles to ensure white background with black text
+            yearBadge.style.cssText = `
+                display: inline-block !important;
+                background: #ffffff !important;
+                background-color: #ffffff !important;
+                background-image: none !important;
+                color: #333333 !important;
+                border: 2px solid #dee2e6 !important;
+                padding: 0.25rem 0.75rem !important;
+                border-radius: 20px !important;
+                font-size: 0.85rem !important;
+                font-weight: 600 !important;
+                margin-right: 0.75rem !important;
+                margin-bottom: 0.5rem !important;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+            `;
+
+            // Find the title element to insert before
+            const titleElement = item.querySelector('.article-title, .section-subheading, h3, h4, h5');
+            if (titleElement) {
+                titleElement.parentNode.insertBefore(yearBadge, titleElement);
+            } else {
+                // Fallback: insert at the beginning of media-body
+                const mediaBody = item.querySelector('.media-body');
+                if (mediaBody) {
+                    mediaBody.insertBefore(yearBadge, mediaBody.firstChild);
+                }
+            }
+        }
+    });
+}
+</script>
+
+
+<style>
+/* Clean white profile page styling - immediate effect */
+body, html {
+    background-color: #f8f9fa !important;
+    color: #333333 !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Profile page specific styling fixes */
+.profile-section-title {
+    color: #1a1a1a !important;
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+    margin: 2rem 0 1rem 0 !important;
+    border-left: 4px solid #2563eb !important;
+    padding-left: 1rem !important;
+    display: block !important;
+}
+
+.profile-interests-list {
+    list-style: disc !important;
+    padding-left: 20px !important;
+    color: #555555 !important;
+    font-size: 1rem !important;
+    line-height: 1.5 !important;
+    margin: 1rem 0 !important;
+}
+
+.profile-interests-list li {
+    color: #555555 !important;
+    font-size: 1rem !important;
+    line-height: 1.5 !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.profile-education-container {
+    margin-bottom: 1rem !important;
+}
+
+.profile-education-item {
+    background: #f8f9fa !important;
+    padding: 1rem !important;
+    border-radius: 8px !important;
+    border-left: 4px solid #2563eb !important;
+    margin-bottom: 1rem !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+    display: block !important;
+}
+
+.profile-education-degree {
+    color: #1a1a1a !important;
+    font-weight: 600 !important;
+    font-size: 1rem !important;
+}
+
+.profile-education-institution {
+    color: #666666 !important;
+    margin-left: 20px !important;
+    font-size: 0.95rem !important;
+}
+
+.profile-education-icon {
+    margin-right: 8px !important;
+    color: #2563eb !important;
+}
+
+.dark {
+    background-color: #f8f9fa !important;
+    color: #333333 !important;
+}
+
+/* Remove default spacing */
+.home-section {
+    background: #f8f9fa !important;
+    padding: 2rem 0 !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+    max-width: none !important;
+}
+
+/* Typography for white theme */
+h1, h2, h3, h4, h5, h6 {
+    color: #1a1a1a !important;
+    font-weight: 600 !important;
+}
+
+p, span, div, li {
+    color: #555555 !important;
+    line-height: 1.7 !important;
+}
+
+/* Links for white theme */
+a {
+    color: #2563eb !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: #1d4ed8 !important;
+}
+
+/* Remove body padding */
+body {
+    padding-top: 0 !important;
+}
+
+/* Custom CSS for publication year display */
+.publication-year {
+    display: inline-block;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white !important;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.9rem !important;
+    font-weight: 600 !important;
+    margin-right: 1rem !important;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+}
+
+.article-metadata {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.article-metadata .middot-divider {
+    margin: 0 0.5rem;
+}
+
+.stream-item .article-title {
+    margin-bottom: 0.75rem !important;
+}
+
+.stream-item .article-title a {
+    color: #2c3e50 !important;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.stream-item .article-title a:hover {
+    color: #667eea !important;
+}
+
+.article-publication {
+    font-style: italic;
+    color: #6c757d !important;
+}
+
+.badge {
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+}
+
+
+</style>

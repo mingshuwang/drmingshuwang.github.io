@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainable Future | </title>
+    <link>http://localhost:1313/tags/sustainable-future/</link>
+      <atom:link href="http://localhost:1313/tags/sustainable-future/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sustainable Future</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Sustainable Future</title>
+      <link>http://localhost:1313/tags/sustainable-future/</link>
+    </image>
+    
+    <item>
+      <title>27th AGILE Conference on Geographic Information Science &#34;Geographic Information Science for a Sustainable Future&#34; (2024)</title>
+      <link>http://localhost:1313/publication/agile-conference-edited-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/agile-conference-edited-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

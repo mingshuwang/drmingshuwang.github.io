@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Simulation | </title>
+    <link>http://localhost:1313/tags/urban-simulation/</link>
+      <atom:link href="http://localhost:1313/tags/urban-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Simulation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Urban Simulation</title>
+      <link>http://localhost:1313/tags/urban-simulation/</link>
+    </image>
+    
+    <item>
+      <title>Simulating the urban spatial structure with spatial interaction: A case study of urban polycentricity under different scenarios (2021)</title>
+      <link>http://localhost:1313/publication/urban-spatial-structure-simulation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urban-spatial-structure-simulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

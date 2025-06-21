@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID-19 | </title>
+    <link>http://localhost:1313/tags/covid-19/</link>
+      <atom:link href="http://localhost:1313/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID-19</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>COVID-19</title>
+      <link>http://localhost:1313/tags/covid-19/</link>
+    </image>
+    
+    <item>
+      <title>Understanding urban traffic flows in response to COVID-19 pandemic with emerging urban big data in Glasgow (2024)</title>
+      <link>http://localhost:1313/publication/covid-traffic-glasgow/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covid-traffic-glasgow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Built environment and early infection of COVID-19 in urban districts: a case study of Huangzhou (2021)</title>
+      <link>http://localhost:1313/publication/covid-built-environment/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covid-built-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where we are in fighting against COVID-19 (2020)</title>
+      <link>http://localhost:1313/publication/covid-fighting-planning-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covid-fighting-planning-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

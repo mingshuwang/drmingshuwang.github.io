@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Morphology | </title>
+    <link>http://localhost:1313/tags/urban-morphology/</link>
+      <atom:link href="http://localhost:1313/tags/urban-morphology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Morphology</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Urban Morphology</title>
+      <link>http://localhost:1313/tags/urban-morphology/</link>
+    </image>
+    
+    <item>
+      <title>Formalising the urban pattern language: a morphological paradigm towards understanding the multi-scalar spatial structure of cities (2025)</title>
+      <link>http://localhost:1313/publication/urban-pattern-language/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urban-pattern-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spacematrix and clustering approach to understanding the morphology of Singapore&#39;s Housing Development Board (HDB) estates (2024)</title>
+      <link>http://localhost:1313/publication/spacematrix-singapore-hdb-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/spacematrix-singapore-hdb-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning-based characterisation of urban morphology with the street pattern (2024)</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning-based characterisation of urban morphology with the street pattern (2024)</title>
+      <link>http://localhost:1313/publication/street-pattern-machine-learning-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/street-pattern-machine-learning-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping street patterns with network science and supervised machine learning</title>
+      <link>http://localhost:1313/publication/mapping-street-patterns-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mapping-street-patterns-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultivating historical heritage area vitality using urban morphology approach based on big data and machine learning (2022)</title>
+      <link>http://localhost:1313/publication/heritage-vitality-morphology-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/heritage-vitality-morphology-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban morphology and traffic congestion: longitudinal evidence from US cities (2021)</title>
+      <link>http://localhost:1313/publication/urban-morphology-traffic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urban-morphology-traffic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

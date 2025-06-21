@@ -1,0 +1,16 @@
+# Development environment configuration
+# This file is used when running Hugo in development mode
+
+# Use localhost for development
+baseURL: 'http://localhost:1313/'
+
+# Enable development features
+enableGitInfo: false
+buildDrafts: true
+buildFuture: true
+
+# Disable minification for faster builds
+minify: false
+
+# Enable live reload
+disableLiveReload: false

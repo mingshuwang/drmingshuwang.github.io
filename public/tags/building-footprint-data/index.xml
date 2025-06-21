@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Building Footprint Data | </title>
+    <link>http://localhost:1314/tags/building-footprint-data/</link>
+      <atom:link href="http://localhost:1314/tags/building-footprint-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Building Footprint Data</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu11734318148517933569.png</url>
+      <title>Building Footprint Data</title>
+      <link>http://localhost:1314/tags/building-footprint-data/</link>
+    </image>
+    
+    <item>
+      <title>Where England&#39;s cities are growing: Evidence from big building footprint data and explainable AI</title>
+      <link>http://localhost:1314/publication/england-cities-growing-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/publication/england-cities-growing-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

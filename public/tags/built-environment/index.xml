@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Built Environment | </title>
+    <link>http://localhost:1313/tags/built-environment/</link>
+      <atom:link href="http://localhost:1313/tags/built-environment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Built Environment</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Built Environment</title>
+      <link>http://localhost:1313/tags/built-environment/</link>
+    </image>
+    
+    <item>
+      <title>Solar radiation drives the plant species distribution in urban built-up areas (2025)</title>
+      <link>http://localhost:1313/publication/solar-radiation-plants/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/solar-radiation-plants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ridesharing accessibility from the human eye: Spatial modeling of built environment with street-level images (2022)</title>
+      <link>http://localhost:1313/publication/ridesharing-accessibility/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ridesharing-accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Built environment and early infection of COVID-19 in urban districts: a case study of Huangzhou (2021)</title>
+      <link>http://localhost:1313/publication/covid-built-environment/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covid-built-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A robust noise mitigation method for the mobile RFID location in built environment (2019)</title>
+      <link>http://localhost:1313/publication/rfid-noise-mitigation-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rfid-noise-mitigation-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

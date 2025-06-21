@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | </title>
+    <link>http://localhost:1313/tags/machine-learning/</link>
+      <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data (2025)</title>
+      <link>http://localhost:1313/publication/geoaggregator/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/geoaggregator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Transformer-Based Model for Effective Representation of Geospatial Data and Context (2024)</title>
+      <link>http://localhost:1313/publication/transformer-geospatial-egu-2024/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/transformer-geospatial-egu-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning-based characterisation of urban morphology with the street pattern (2024)</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning-based characterisation of urban morphology with the street pattern (2024)</title>
+      <link>http://localhost:1313/publication/street-pattern-machine-learning-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/street-pattern-machine-learning-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping street patterns with network science and supervised machine learning</title>
+      <link>http://localhost:1313/publication/mapping-street-patterns-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mapping-street-patterns-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occupation prediction with multimodal learning from Tweet messages and Google Street View images (2024)</title>
+      <link>http://localhost:1313/publication/occupation-prediction-multimodal-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/occupation-prediction-multimodal-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultivating historical heritage area vitality using urban morphology approach based on big data and machine learning (2022)</title>
+      <link>http://localhost:1313/publication/heritage-vitality-morphology-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/heritage-vitality-morphology-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bike-sharing or taxi? Modeling the choices of travel mode in Chicago using machine learning (2019)</title>
+      <link>http://localhost:1313/publication/bike-sharing-taxi-choice-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bike-sharing-taxi-choice-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting overall customer satisfaction: big data evidence from hotel online textual reviews (2019)</title>
+      <link>http://localhost:1313/publication/hotel-reviews-satisfaction-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hotel-reviews-satisfaction-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

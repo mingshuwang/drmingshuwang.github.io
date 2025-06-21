@@ -1,0 +1,87 @@
+{{/* Hugo Blox: Collection */}}
+{{/* Documentation: https://docs.hugoblox.com/reference/content-types/ */}}
+{{/* License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $st := .page_bundle.Params }}
+{{ $columns := $st.design.columns | default "2" }}
+{{ $view := $st.design.view | default "compact" }}
+
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+
+  {{ with $st.content.text }}
+  <div class="mb-3">
+    {{ . | emojify | $.RenderString }}
+  </div>
+  {{ end }}
+
+  {{ $query := where site.RegularPages "Type" "in" $st.content.filters.folders }}
+
+  {{/* Apply any filters. */}}
+  {{ if $st.content.filters.tag }}
+    {{ $archive_tagged := where $query ".Params.tags" "intersect" $st.content.filters.tag }}
+    {{ $query = $archive_tagged }}
+  {{ end }}
+  {{ if $st.content.filters.category }}
+    {{ $archive_categorized := where $query ".Params.categories" "intersect" $st.content.filters.category }}
+    {{ $query = $archive_categorized }}
+  {{ end }}
+  {{ if $st.content.filters.publication_type }}
+    {{ $archive_pubtype := where $query ".Params.publication_types" "intersect" $st.content.filters.publication_type }}
+    {{ $query = $archive_pubtype }}
+  {{ end }}
+  {{ if $st.content.filters.author }}
+    {{ $archive_author := where $query ".Params.authors" "intersect" $st.content.filters.author }}
+    {{ $query = $archive_author }}
+  {{ end }}
+  {{ if $st.content.filters.exclude_featured }}
+    {{ $query = where $query ".Params.featured" "!=" true }}
+  {{ end }}
+  {{ if $st.content.filters.exclude_future }}
+    {{ $query = where $query ".Date" "<=" now }}
+  {{ end }}
+  {{ if $st.content.filters.exclude_past }}
+    {{ $query = where $query ".Date" ">=" now }}
+  {{ end }}
+
+  {{ $count := $st.content.count }}
+  {{ if eq $count 0 }}
+    {{ $count = 65535 }}
+  {{ end }}
+
+  {{ $sort_by := $st.content.sort_by | default "Date" }}
+  {{ $sort_ascending := $st.content.sort_ascending | default (eq $st.content.archive.sort_ascending true) | default false }}
+  {{ $sort_order := cond $sort_ascending "asc" "desc" }}
+
+  {{ $query = sort $query $sort_by $sort_order }}
+
+  {{ if gt $count 0 }}
+    {{ $query = first $count $query }}
+  {{ end }}
+
+  {{ $columns_mobile := $st.design.columns_mobile | default "1" }}
+  {{ $columns_tablet := $st.design.columns_tablet | default "2" }}
+  {{ $columns_desktop := $st.design.columns | default "2" }}
+
+  {{/* Query */}}
+  {{ $items_offset := $st.content.offset | default 0 }}
+  {{ $items_count := len $query }}
+
+  <div class="row {{if eq $view "masonry"}}isotope projects-container{{end}} js-layout-masonry {{if or (eq $view "3") (eq $view "showcase") }}project-showcase{{end}}" data-default-filter="*" data-filter-show-count="false">
+    {{ range $index, $item := $query }}
+
+      {{/* Convert to 0-based indexing and set to .Scratch for use in `partial` */}}
+      {{ $.Scratch.Set "index" $index }}
+
+      {{ if eq $view "compact" }}
+        {{ partial "views/publication_compact" (dict "page" . "item" $item "index" $index) }}
+      {{ else if eq $view "citation" }}
+        {{ partial "views/publication_citation" (dict "page" . "item" $item "index" $index) }}
+      {{ else }}
+        {{ partial "views/publication_compact" (dict "page" . "item" $item "index" $index) }}
+      {{ end }}
+
+    {{ end }}
+  </div>
+
+</div>

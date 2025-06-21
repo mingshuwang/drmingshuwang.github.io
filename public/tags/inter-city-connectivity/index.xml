@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inter-City Connectivity | </title>
+    <link>http://localhost:1313/tags/inter-city-connectivity/</link>
+      <atom:link href="http://localhost:1313/tags/inter-city-connectivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inter-City Connectivity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Inter-City Connectivity</title>
+      <link>http://localhost:1313/tags/inter-city-connectivity/</link>
+    </image>
+    
+    <item>
+      <title>Regional integration in the Horn of Africa through the lens of inter-city connectivity (2022)</title>
+      <link>http://localhost:1313/publication/horn-africa-connectivity-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/horn-africa-connectivity-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

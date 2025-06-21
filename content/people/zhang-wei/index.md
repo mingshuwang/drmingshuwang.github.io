@@ -1,0 +1,89 @@
+---
+title: ""
+date: 2022-10-24
+type: landing
+
+design:
+  spacing: "0"
+
+sections:
+  - block: markdown
+    content:
+      title: ""
+      text: |
+        <div class="profile-page">
+          <div class="container-fluid">
+            <div class="row min-vh-100">
+              <div class="col-md-4 profile-sidebar">
+                <div class="profile-card">
+                  <div class="profile-image-container">
+                    <img src="/authors/zhang-wei/avatar.jpg" alt="Zhang Wei" class="profile-image">
+                    <div class="profile-badge">
+                      <i class="fas fa-graduation-cap"></i>
+                    </div>
+                  </div>
+                  <div class="profile-info">
+                    <h1 class="profile-name">Zhang Wei</h1>
+                    <h2 class="profile-title">PhD Student in Urban Analytics</h2>
+                    <h3 class="profile-institution">The Hong Kong Polytechnic University</h3>
+                  </div>
+                  <div class="social-links">
+                    <a href="mailto:zhang.wei@connect.polyu.hk" class="social-link" title="Email">
+                      <i class="fas fa-envelope"></i>
+                    </a>
+                    <a href="https://linkedin.com/in/zhangwei-urban" class="social-link" title="LinkedIn">
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+                    <a href="https://scholar.google.com/citations?user=zhangwei" class="social-link" title="Google Scholar">
+                      <i class="fas fa-graduation-cap"></i>
+                    </a>
+                    <a href="https://orcid.org/0000-0002-1234-5678" class="social-link" title="ORCID">
+                      <i class="fab fa-orcid"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-8 content-area">
+                <div class="about-content">
+                  <h2 class="about-title">About Me</h2>
+                  <div class="about-text">
+                    <p>Zhang Wei is a PhD student in the Mobility Science Lab at The Hong Kong Polytechnic University, working under the supervision of Dr. Mingshu Wang. His research focuses on understanding urban mobility patterns using big data analytics and machine learning techniques.</p>
+                    <p>Wei's current research investigates how different urban forms and transportation infrastructure influence human mobility behaviors in megacities. He is particularly interested in developing predictive models for transportation demand and optimizing urban planning strategies using AI-driven approaches.</p>
+                    <p>Before joining the PhD program, Wei worked as a GIS analyst at a urban planning consultancy in Beijing, where he gained practical experience in applying spatial analysis techniques to real-world urban development projects.</p>
+                  </div>
+                  
+                  <h3 class="section-title">Research Interests</h3>
+                  <div class="interests-list">
+                    <span class="interest-tag">Urban Mobility Patterns</span>
+                    <span class="interest-tag">Machine Learning</span>
+                    <span class="interest-tag">Spatial Data Analysis</span>
+                    <span class="interest-tag">Smart Cities</span>
+                    <span class="interest-tag">Transportation Planning</span>
+                  </div>
+                  
+                  <h3 class="section-title">Education</h3>
+                  <div class="education-list">
+                    <div class="education-item">
+                      <strong>PhD in Urban Analytics</strong> (ongoing)<br>
+                      The Hong Kong Polytechnic University
+                    </div>
+                    <div class="education-item">
+                      <strong>MSc in Geographic Information Science</strong><br>
+                      Beijing Normal University, China
+                    </div>
+                    <div class="education-item">
+                      <strong>BSc in Urban Planning</strong><br>
+                      Tongji University, China
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    design:
+      background:
+        color: '#f8f9fa'
+      spacing:
+        padding: ['0', '0', '0', '0']
+---

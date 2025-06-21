@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Centers | </title>
+    <link>http://localhost:1313/tags/urban-centers/</link>
+      <atom:link href="http://localhost:1313/tags/urban-centers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Centers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Urban Centers</title>
+      <link>http://localhost:1313/tags/urban-centers/</link>
+    </image>
+    
+    <item>
+      <title>Local hubs and global gateways: understanding the impact of Singapore&#39;s master plan on urban polycentricity (2024)</title>
+      <link>http://localhost:1313/publication/singapore-polycentricity/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/singapore-polycentricity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring polycentric urban development: the importance of accurately determining the &#39;balance&#39; between &#39;centers&#39; (2021)</title>
+      <link>http://localhost:1313/publication/polycentric-balance-centers/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/polycentric-balance-centers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

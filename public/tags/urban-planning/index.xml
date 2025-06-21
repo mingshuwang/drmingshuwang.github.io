@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Planning | </title>
+    <link>http://localhost:1313/tags/urban-planning/</link>
+      <atom:link href="http://localhost:1313/tags/urban-planning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Planning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Urban Planning</title>
+      <link>http://localhost:1313/tags/urban-planning/</link>
+    </image>
+    
+    <item>
+      <title>Where England&#39;s cities are growing: Evidence from big building footprint data and explainable AI (2025)</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional land-use configuration and property prices: a spatially filtered multi-level modelling perspective (2024)</title>
+      <link>http://localhost:1313/publication/three-dimensional-land-use-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/three-dimensional-land-use-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land use regulations, transit investment, and commuting preferences (2022)</title>
+      <link>http://localhost:1313/publication/land-use-regulations-transit-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/land-use-regulations-transit-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access to urban parks: Comparing spatial accessibility measures using three GIS-based approaches (2021)</title>
+      <link>http://localhost:1313/publication/urban-parks-access-gis-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urban-parks-access-gis-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Built environment and early infection of COVID-19 in urban districts: a case study of Huangzhou (2021)</title>
+      <link>http://localhost:1313/publication/covid-built-environment/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covid-built-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polycentric urban development and urban amenities: evidence from Chinese cities (2021)</title>
+      <link>http://localhost:1313/publication/journal-article/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polycentric urban development and urban amenities: evidence from Chinese cities (2021)</title>
+      <link>http://localhost:1313/publication/polycentric-urban-amenities-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/polycentric-urban-amenities-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating the urban spatial structure with spatial interaction: A case study of urban polycentricity under different scenarios (2021)</title>
+      <link>http://localhost:1313/publication/urban-spatial-structure-simulation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urban-spatial-structure-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polycentric urban development in China: a multi-scale analysis (2018)</title>
+      <link>http://localhost:1313/publication/polycentric-china-multiscale-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/polycentric-china-multiscale-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the relationship between urban forms and CO2 emissions in 104 Chinese cities (2017)</title>
+      <link>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/urban-forms-co2-emissions-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outside the ivory tower: visualizing university students&#39; top transit-trip destinations and popular corridors (2016)</title>
+      <link>http://localhost:1313/publication/university-transit-trips-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/university-transit-trips-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

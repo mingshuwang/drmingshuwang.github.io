@@ -1,0 +1,19 @@
+# Production environment configuration
+# This file is used when building for production
+
+# Production URL
+baseURL: 'https://drmingshuwang.org/'
+
+# Enable production optimizations
+enableGitInfo: true
+buildDrafts: false
+buildFuture: false
+
+# Enable minification
+minify: true
+
+# Disable live reload
+disableLiveReload: true
+
+# Enable robots.txt
+enableRobotsTXT: true

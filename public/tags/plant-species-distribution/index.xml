@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plant Species Distribution | </title>
+    <link>http://localhost:1313/tags/plant-species-distribution/</link>
+      <atom:link href="http://localhost:1313/tags/plant-species-distribution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Plant Species Distribution</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Plant Species Distribution</title>
+      <link>http://localhost:1313/tags/plant-species-distribution/</link>
+    </image>
+    
+    <item>
+      <title>Solar radiation drives the plant species distribution in urban built-up areas (2025)</title>
+      <link>http://localhost:1313/publication/solar-radiation-plants/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/solar-radiation-plants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

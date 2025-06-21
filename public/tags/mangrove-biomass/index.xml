@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mangrove Biomass | </title>
+    <link>http://localhost:1313/tags/mangrove-biomass/</link>
+      <atom:link href="http://localhost:1313/tags/mangrove-biomass/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mangrove Biomass</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Mangrove Biomass</title>
+      <link>http://localhost:1313/tags/mangrove-biomass/</link>
+    </image>
+    
+    <item>
+      <title>Modeling projected changes of mangrove biomass in different climatic scenarios in the Sunda Banda Seascapes (2017)</title>
+      <link>http://localhost:1313/publication/mangrove-biomass-modeling-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mangrove-biomass-modeling-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,279 @@
+/* Profile Page Styles */
+.profile-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.profile-sidebar {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  min-height: 100vh;
+}
+
+.profile-card {
+  text-align: center;
+  color: white;
+  max-width: 300px;
+  width: 100%;
+}
+
+.profile-image-container {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 6px solid rgba(255, 255, 255, 0.3);
+  object-fit: cover;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.profile-badge {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background: #4CAF50;
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.profile-name {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.profile-title {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 8px;
+  opacity: 0.9;
+}
+
+.profile-institution {
+  font-size: 1rem;
+  font-weight: 300;
+  margin-bottom: 30px;
+  opacity: 0.8;
+}
+
+.profile-institution a:hover {
+  opacity: 1;
+  text-decoration: underline !important;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  height: 45px;
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border-radius: 50%;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.social-link:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+.content-area {
+  background: white;
+  padding: 60px 40px;
+  min-height: 100vh;
+  overflow-y: auto;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.about-title::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 2px;
+}
+
+.about-text {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 50px;
+}
+
+.about-text p {
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+.section-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #2c3e50;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 40px;
+  height: 3px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 2px;
+}
+
+.interests-list ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.interests-list li {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.education-item {
+  margin-bottom: 20px;
+}
+
+.education-item strong {
+  color: #2c3e50;
+  font-size: 1rem;
+}
+
+.education-item span {
+  color: #666;
+  font-size: 0.95rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .profile-sidebar {
+    min-height: auto;
+    padding: 30px 20px;
+  }
+  
+  .profile-image {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .profile-name {
+    font-size: 1.8rem;
+  }
+  
+  .content-area {
+    padding: 40px 20px;
+  }
+  
+  .about-title {
+    font-size: 2rem;
+  }
+  
+  .about-text {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .profile-image {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .profile-name {
+    font-size: 1.5rem;
+  }
+  
+  .social-links {
+    gap: 10px;
+  }
+  
+  .social-link {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .content-area {
+    padding: 30px 15px;
+  }
+}
+
+/* Animation for smooth loading */
+.profile-card {
+  animation: fadeInUp 0.8s ease-out;
+}
+
+.about-content {
+  animation: fadeInRight 0.8s ease-out 0.2s both;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}

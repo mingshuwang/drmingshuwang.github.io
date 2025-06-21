@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Network | </title>
+    <link>http://localhost:1314/tags/urban-network/</link>
+      <atom:link href="http://localhost:1314/tags/urban-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Network</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1314/media/icon_hu11734318148517933569.png</url>
+      <title>Urban Network</title>
+      <link>http://localhost:1314/tags/urban-network/</link>
+    </image>
+    
+    <item>
+      <title>Shrinking cities in China&#39;s urban network: a data-driven exploration of migration and investment flows</title>
+      <link>http://localhost:1314/publication/shrinking-cities-china-migration-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/publication/shrinking-cities-china-migration-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

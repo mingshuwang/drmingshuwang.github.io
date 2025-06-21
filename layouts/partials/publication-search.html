@@ -1,0 +1,120 @@
+<div class="publications-search-controls">
+  <div class="search-filters-row">
+    <div class="search-input-container">
+      <input type="text" id="publication-search" class="search-input" placeholder="Search...">
+    </div>
+    <div class="filter-select-container">
+      <select id="type-filter" class="filter-select">
+        <option value="*">Type</option>
+        <option value="article-journal">Journal Articles</option>
+        <option value="paper-conference">Conference Papers</option>
+        <option value="preprint">Preprints</option>
+      </select>
+    </div>
+    <div class="filter-select-container">
+      <select id="date-filter" class="filter-select">
+        <option value="*">Date</option>
+        <option value="2025">2025</option>
+        <option value="2024">2024</option>
+        <option value="2023">2023</option>
+        <option value="2022">2022</option>
+        <option value="2021">2021</option>
+        <option value="2020">2020</option>
+        <option value="2019">2019</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<script>
+// Inline JavaScript to ensure it loads
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Publications search script loaded');
+    
+    setTimeout(function() {
+        initPublicationSearch();
+    }, 1000);
+});
+
+function initPublicationSearch() {
+    const searchInput = document.getElementById('publication-search');
+    const typeFilter = document.getElementById('type-filter');
+    const dateFilter = document.getElementById('date-filter');
+    
+    console.log('Search elements:', {
+        searchInput: !!searchInput,
+        typeFilter: !!typeFilter,
+        dateFilter: !!dateFilter
+    });
+    
+    // Find publication items
+    let items = document.querySelectorAll('.stream-item, .media, .publication-item');
+    if (items.length === 0) {
+        items = document.querySelectorAll('[class*="stream"], [class*="media"]');
+    }
+    if (items.length === 0) {
+        // Find any div that looks like a publication
+        const allDivs = document.querySelectorAll('div');
+        items = Array.from(allDivs).filter(div => {
+            const text = div.textContent || '';
+            return text.includes('DOI') || text.includes('202') || text.includes('Journal');
+        });
+    }
+    
+    console.log('Found', items.length, 'publication items');
+    
+    let currentSearch = '';
+    let currentType = '*';
+    let currentDate = '*';
+    
+    function filterItems() {
+        console.log('Filtering with:', { currentSearch, currentType, currentDate });
+        
+        let visibleCount = 0;
+        items.forEach(item => {
+            const text = (item.textContent || '').toLowerCase();
+            
+            const matchesSearch = !currentSearch || text.includes(currentSearch);
+            const matchesType = currentType === '*' || 
+                (currentType === 'article-journal' && (text.includes('journal') || text.includes('environment'))) ||
+                (currentType === 'paper-conference' && (text.includes('conference') || text.includes('proceedings'))) ||
+                (currentType === 'preprint' && text.includes('preprint'));
+            const matchesDate = currentDate === '*' || text.includes(currentDate);
+            
+            const shouldShow = matchesSearch && matchesType && matchesDate;
+            
+            if (shouldShow) {
+                item.style.display = '';
+                item.style.opacity = '1';
+                visibleCount++;
+            } else {
+                item.style.display = 'none';
+                item.style.opacity = '0';
+            }
+        });
+        
+        console.log(`Showing ${visibleCount} of ${items.length} items`);
+    }
+    
+    if (searchInput) {
+        searchInput.addEventListener('input', function(e) {
+            currentSearch = e.target.value.toLowerCase();
+            filterItems();
+        });
+    }
+    
+    if (typeFilter) {
+        typeFilter.addEventListener('change', function(e) {
+            currentType = e.target.value;
+            filterItems();
+        });
+    }
+    
+    if (dateFilter) {
+        dateFilter.addEventListener('change', function(e) {
+            currentDate = e.target.value;
+            filterItems();
+        });
+    }
+}
+</script>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | </title>
+    <link>http://localhost:1313/tags/computer-vision/</link>
+      <atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Ridesharing accessibility from the human eye: Spatial modeling of built environment with street-level images (2022)</title>
+      <link>http://localhost:1313/publication/ridesharing-accessibility/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ridesharing-accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life between buildings from a street view image: what do big data analytics reveal about neighbourhood organisational vitality? (2021)</title>
+      <link>http://localhost:1313/publication/street-view-vitality/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/street-view-vitality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

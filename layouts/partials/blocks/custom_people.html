@@ -1,0 +1,97 @@
+<!-- Custom People Widget with Clickable Avatars -->
+{{/*
+  Custom People widget with clickable avatars.
+*/}}
+
+{{ $section := .content }}
+{{ $users := where site.Pages ".Params.user_groups" "intersect" $section.user_groups }}
+
+<!-- Testing custom people widget -->
+<h1>Custom People Widget Test</h1>
+<p>Section: {{ $section }}</p>
+<p>Users count: {{ len $users }}</p>
+
+{{ if not (eq (len $users) 0) }}
+<section id="people">
+  <div class="container">
+    {{ with $section.title }}<h1>{{ . }}</h1>{{ end }}
+
+    {{ range $group := $section.user_groups }}
+      {{ $group_users := where $users ".Params.user_groups" "intersect" (slice $group) }}
+      {{ if gt (len $group_users) 0 }}
+        <h2>{{ $group }}</h2>
+        <div class="row">
+          {{ range sort $group_users (.Params.sort_by | default "Params.name") (.Params.sort_order | default "asc") }}
+            {{ $p := . }}
+            {{/* Determine the link URL */}}
+            {{ $link_url := "" }}
+            {{ if $p.Params.url }}
+              {{ $link_url = $p.Params.url }}
+            {{ else if eq $p.Title "Dr. Mingshu Wang" }}
+              {{ $link_url = "/people/dr-mingshu-wang/" }}
+            {{ else }}
+              {{ $link_url = $p.RelPermalink }}
+            {{ end }}
+
+            <div class="col-12 col-md-6 col-lg-4">
+              <div class="col-12 col-sm-auto people-person">
+                {{/* Make the entire card clickable */}}
+                <a href="{{ $link_url }}" style="text-decoration: none; color: inherit;">
+                  <div class="people-card" style="cursor: pointer; transition: transform 0.2s ease;">
+                    {{/* Avatar */}}
+                    {{ $avatar := ($p.Resources.ByType "image").GetMatch "*avatar*" }}
+                    {{ if not $avatar }}{{ $avatar = ($p.Resources.ByType "image").GetMatch "{avatar,profile}*" }}{{ end }}
+                    {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+                    {{ if $avatar }}
+                      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+                      <img width="270" height="270" loading="lazy" class="avatar avatar-{{ $avatar_shape }}" src="{{ $avatar_image.RelPermalink }}" alt="Avatar">
+                    {{ end }}
+
+                    <div class="portrait-title">
+                      <h2>{{ $p.Title }}</h2>
+                      {{ if $section.design.show_role }}
+                        {{ with $p.Params.role }}<h3>{{ . }}</h3>{{ end }}
+                      {{ end }}
+
+                      {{ if $section.design.show_social }}
+                        {{ partial "functions/social_links.html" $p }}
+                      {{ end }}
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+
+<style>
+.people-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+.people-person a {
+  display: block;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.people-person a:hover {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.people-person .portrait-title h2,
+.people-person .portrait-title h3 {
+  transition: color 0.2s ease;
+}
+
+.people-person a:hover .portrait-title h2 {
+  color: #3498db;
+}
+</style>
+{{ end }}

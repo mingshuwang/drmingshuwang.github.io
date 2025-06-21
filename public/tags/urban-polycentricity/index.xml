@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Polycentricity | </title>
+    <link>http://localhost:1313/tags/urban-polycentricity/</link>
+      <atom:link href="http://localhost:1313/tags/urban-polycentricity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Polycentricity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Urban Polycentricity</title>
+      <link>http://localhost:1313/tags/urban-polycentricity/</link>
+    </image>
+    
+    <item>
+      <title>Graph convolutional networks for street network analysis with a case study of urban polycentricity in Chinese cities (2024)</title>
+      <link>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/graph-convolutional-polycentricity-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local hubs and global gateways: understanding the impact of Singapore&#39;s master plan on urban polycentricity (2024)</title>
+      <link>http://localhost:1313/publication/singapore-polycentricity/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/singapore-polycentricity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

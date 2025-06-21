@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EGU Conference | </title>
+    <link>http://localhost:1313/tags/egu-conference/</link>
+      <atom:link href="http://localhost:1313/tags/egu-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>EGU Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>EGU Conference</title>
+      <link>http://localhost:1313/tags/egu-conference/</link>
+    </image>
+    
+    <item>
+      <title>A Transformer-Based Model for Effective Representation of Geospatial Data and Context (2024)</title>
+      <link>http://localhost:1313/publication/transformer-geospatial-egu-2024/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/transformer-geospatial-egu-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

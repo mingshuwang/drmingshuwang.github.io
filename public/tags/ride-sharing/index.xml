@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ride-Sharing | </title>
+    <link>http://localhost:1313/tags/ride-sharing/</link>
+      <atom:link href="http://localhost:1313/tags/ride-sharing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ride-Sharing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Ride-Sharing</title>
+      <link>http://localhost:1313/tags/ride-sharing/</link>
+    </image>
+    
+    <item>
+      <title>Road network structure and ride-sharing accessibility: a network science perspective (2020)</title>
+      <link>http://localhost:1313/publication/road-network-ridesharing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/road-network-ridesharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial disparities of Uber accessibility: an exploratory analysis in Atlanta, USA (2018)</title>
+      <link>http://localhost:1313/publication/uber-accessibility-atlanta-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/uber-accessibility-atlanta-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hospitality Management | </title>
+    <link>http://localhost:1313/tags/hospitality-management/</link>
+      <atom:link href="http://localhost:1313/tags/hospitality-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hospitality Management</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Hospitality Management</title>
+      <link>http://localhost:1313/tags/hospitality-management/</link>
+    </image>
+    
+    <item>
+      <title>Predicting overall customer satisfaction: big data evidence from hotel online textual reviews (2019)</title>
+      <link>http://localhost:1313/publication/hotel-reviews-satisfaction-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hotel-reviews-satisfaction-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel distance and hotel service satisfaction: an inverted U-shaped relationship (2019)</title>
+      <link>http://localhost:1313/publication/hotel-travel-distance-satisfaction-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hotel-travel-distance-satisfaction-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleepless nights in hotels? Understanding factors that influence hotel sleep quality (2018)</title>
+      <link>http://localhost:1313/publication/hotel-sleep-quality-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hotel-sleep-quality-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

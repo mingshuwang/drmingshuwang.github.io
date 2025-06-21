@@ -1,0 +1,66 @@
+{{/* layouts/partials/widgets/card_user.html */}}
+{{ $p := .page }}
+
+{{/* Determine the link URL */}}
+{{ $link_url := "" }}
+{{ if eq $p.Title "Dr. Mingshu Wang" }}
+  {{ $link_url = "/people/dr-mingshu-wang/" }}
+{{ else if $p.Params.url }}
+  {{ $link_url = $p.Params.url }}
+{{ else }}
+  {{ $link_url = $p.RelPermalink }}
+{{ end }}
+
+<div class="col-12 col-sm-auto people-person">
+  {{/* Make the entire card clickable */}}
+  <a href="{{ $link_url }}" style="text-decoration: none; color: inherit;">
+    <div class="people-card" style="cursor: pointer; transition: transform 0.2s ease;">
+      {{/* Avatar */}}
+      {{ $avatar := ($p.Resources.ByType "image").GetMatch "*avatar*" }}
+      {{ if not $avatar }}{{ $avatar = ($p.Resources.ByType "image").GetMatch "{avatar,profile}*" }}{{ end }}
+      {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+      {{ if $avatar }}
+        {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+        <img width="270" height="270" loading="lazy" class="avatar avatar-{{ $avatar_shape }}" src="{{ $avatar_image.RelPermalink }}" alt="Avatar">
+      {{ end }}
+
+      <div class="portrait-title">
+        <h2>{{ $p.Title }}</h2>
+        {{ if .show_role }}
+          {{ with $p.Params.role }}<h3>{{ . }}</h3>{{ end }}
+        {{ end }}
+
+        {{ if .show_social }}
+          {{ partial "functions/social_links.html" $p }}
+        {{ end }}
+      </div>
+    </div>
+  </a>
+</div>
+
+<style>
+.people-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+.people-person a {
+  display: block;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.people-person a:hover {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.people-person .portrait-title h2,
+.people-person .portrait-title h3 {
+  transition: color 0.2s ease;
+}
+
+.people-person a:hover .portrait-title h2 {
+  color: #3498db;
+}
+</style>

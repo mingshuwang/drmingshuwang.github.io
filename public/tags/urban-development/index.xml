@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Development | </title>
+    <link>http://localhost:1313/tags/urban-development/</link>
+      <atom:link href="http://localhost:1313/tags/urban-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Development</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <title>Urban Development</title>
+      <link>http://localhost:1313/tags/urban-development/</link>
+    </image>
+    
+    <item>
+      <title>Construction enthusiasts versus demolition giants: insights from building footprint data in England (2025)</title>
+      <link>http://localhost:1313/publication/construction-demolition-england/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/construction-demolition-england/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring polycentric urban development with multi-temporal Sentinel-1 SAR imagery: a case study in Shanghai, China (2023)</title>
+      <link>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shanghai-polycentric-sentinel-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How polycentric is urban China and why? A case study of 318 cities (2016)</title>
+      <link>http://localhost:1313/publication/polycentric-china-318cities/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/polycentric-china-318cities/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
