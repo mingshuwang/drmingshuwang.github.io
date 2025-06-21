@@ -23,12 +23,11 @@ highlight_name: false
 url: "/people/nana-lin/"
 
 # Role/position/tagline
-role: PhD Graduate
-
+role:  Visiting Scholar
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Glasgow
-    url: https://www.gla.ac.uk/
+  - name: 
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD graduate specializing in transportation geography and mobility analytics.

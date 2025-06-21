@@ -23,7 +23,7 @@ highlight_name: false
 url: "/people/yue/"
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

@@ -23,7 +23,7 @@ highlight_name: false
 url: "/people/heyi-wei/"
 
 # Role/position/tagline
-role: PhD Graduate
+role:  Visiting Scholar
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
