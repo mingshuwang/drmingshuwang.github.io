@@ -44,7 +44,3 @@ user_groups:
   - Alumni
 ---
 
-## About Me
-
-Dr. Cai Wu is currently an Assistant Professor in Urban Governance and Design Thrust at the Society Hub of the Hong Kong University of Science and Technology (Guangzhou). He holds a Bachelor degree in Architecture from the National University of Singapore, a Master degree in Smart Cities and Urban Analytics from University College London, and a PhD degree in Urban Analysis (Design) from the University of Twente in the Netherlands. 
-Dr. Wu’s research spans the interdisciplinary fields of architecture, geographic information science, and urban informatics, specifically focusing on integrating data with emerging quantitative methods to understand urban forms and their relationship with urban activities. This approach provides decision support for urban design and renewal.
