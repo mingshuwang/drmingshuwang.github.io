@@ -22,7 +22,8 @@ function setupTeamMemberClicks() {
         'Xinyan Xian': '/people/xinyan-xian/',
         'Cai Wu': '/people/cai-wu/',
         'Heyi Wei': '/people/heyi-wei/',
-        'Nana Lin': '/people/nana-lin/'
+        'Nana Lin': '/people/nana-lin/',
+        'Yue': '/people/yue/'
     };
 
     // Find all people-person elements
