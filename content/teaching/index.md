@@ -48,23 +48,23 @@ sections:
 
 
 
-  - block: markdown
-    content:
-      title: Teaching Awards & Recognition
-      text: |-
-        ## Awards
-        - **Excellence in Teaching Award**, University of Glasgow (2023)
-        - **Student Choice Teaching Award**, School of Geographical & Earth Sciences (2022)
-        - **Innovation in Digital Learning Award**, University of Glasgow (2021)
+  # - block: markdown
+  #   content:
+  #     title: Teaching Awards & Recognition
+  #     text: |-
+  #       ## Awards
+  #       - **Excellence in Teaching Award**, University of Glasgow (2023)
+  #       - **Student Choice Teaching Award**, School of Geographical & Earth Sciences (2022)
+  #       - **Innovation in Digital Learning Award**, University of Glasgow (2021)
 
-        ## Professional Development
-        - **Fellow of the Higher Education Academy** (FHEA)
-        - **Certified GIS Professional** (GISP)
-        - **Google Earth Engine Certified Trainer**
+  #       ## Professional Development
+  #       - **Fellow of the Higher Education Academy** (FHEA)
+  #       - **Certified GIS Professional** (GISP)
+  #       - **Google Earth Engine Certified Trainer**
 
-        ## Teaching Philosophy Publications
-        - Wang, M. (2023). "Integrating Real-World Data in Geography Education." *Journal of Geography in Higher Education*, 47(2), 234-251.
-        - Wang, M. (2022). "Digital Pedagogy in Geospatial Education: Lessons from the Pandemic." *Transactions in GIS*, 26(4), 1567-1582.
-    design:
-      columns: '1'
+  #       ## Teaching Philosophy Publications
+  #       - Wang, M. (2023). "Integrating Real-World Data in Geography Education." *Journal of Geography in Higher Education*, 47(2), 234-251.
+  #       - Wang, M. (2022). "Digital Pedagogy in Geospatial Education: Lessons from the Pandemic." *Transactions in GIS*, 26(4), 1567-1582.
+  #   design:
+  #     columns: '1'
 ---
