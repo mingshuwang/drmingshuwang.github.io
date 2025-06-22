@@ -18,71 +18,29 @@ sections:
       title: Current Courses
       subtitle: Academic Year 2024-2025
       text: |-
-        ## Undergraduate Courses
+        ## At the University of Glasgow (2021- )
 
-        ### **GEOG3087 - Urban Geography and Planning**
-        **Semester:** Autumn 2024  
-        **Level:** Year 3 Undergraduate  
-        **Credits:** 20 credits  
-        
-        This course explores contemporary urban challenges through the lens of geographical analysis and planning theory. Students examine urbanization processes, spatial patterns, and policy interventions in cities worldwide.
-
-        **Key Topics:**
-        - Urban morphology and spatial structure
-        - Smart cities and digital governance
-        - Sustainable urban development
-        - Transportation and mobility planning
-        - Urban data analytics and GIS applications
-
+        ### **Graduate-level Courses**
+        **GEOG 5015:** Web and Mobile Mapping
+        **GEOG 5026:** Visualisation & Map Use
+        **GEOG 5013:** Geospatial Data Infrastructure and Land Administration
+        **GEOG 5019:** Principles of GIS
         ---
 
-        ### **GEOG2045 - Introduction to GIS and Spatial Analysis**
-        **Semester:** Spring 2025  
-        **Level:** Year 2 Undergraduate  
-        **Credits:** 20 credits  
+        ### **Undergraduate-level Courses**
+        **GEOG 4111:** Applied Spatial Analysis (GIS A)
+
+        ## At the University of Twente (2018-2021)
+
+        ### **Graduate-level Courses**
+        Academic Skills
+        Integrated Geospatial Workflow
+        Big Geo-data Processing
+        Methods and Techniques for Geo-information Management and Application
         
-        An introduction to Geographic Information Systems (GIS) and spatial analysis techniques. Students learn to collect, analyze, and visualize spatial data using industry-standard software and programming tools.
+        ### **Undergraduate-level Courses**
+        HTHT Minor in GIS
 
-        **Key Topics:**
-        - Fundamentals of GIS and cartography
-        - Spatial data collection and management
-        - Geostatistical analysis
-        - Remote sensing applications
-        - Python for geospatial analysis
-
-        ---
-
-        ## Postgraduate Courses
-
-        ### **GEOG5067 - Advanced Geospatial Data Science**
-        **Semester:** Autumn 2024  
-        **Level:** MSc/PhD  
-        **Credits:** 20 credits  
-        
-        Advanced methods in geospatial data science, focusing on machine learning, big data analytics, and artificial intelligence applications in geographical research.
-
-        **Key Topics:**
-        - Machine learning for spatial data
-        - Deep learning in remote sensing
-        - Urban analytics and smart city technologies
-        - Geospatial artificial intelligence (GeoAI)
-        - Research methodology and reproducible science
-
-        ---
-
-        ### **GEOG5089 - Urban Informatics and Mobility Analytics**
-        **Semester:** Spring 2025  
-        **Level:** MSc/PhD  
-        **Credits:** 20 credits  
-        
-        Cutting-edge approaches to understanding urban systems through big data analytics, focusing on human mobility, transportation networks, and urban dynamics.
-
-        **Key Topics:**
-        - Urban big data and analytics
-        - Mobility pattern analysis
-        - Transportation network modeling
-        - Location-based services and privacy
-        - Urban simulation and forecasting
     design:
       columns: '1'
       background:
