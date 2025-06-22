@@ -1114,25 +1114,24 @@ body {
 <div class="profile-education-container">
   <div class="profile-education-item">
     <i class="fas fa-graduation-cap profile-education-icon"></i>
-    <strong class="profile-education-degree">Ph.D. in Geospatial Data Science</strong><br>
-    <span class="profile-education-institution">University of Glasgow</span>
+    <strong class="profile-education-degree">Ph.D. Urban Studies</strong><br>
+    <span class="profile-education-institution">University of Glasgow, School of Social and Political Sciences</span>
   </div>
   <div class="profile-education-item">
     <i class="fas fa-graduation-cap profile-education-icon"></i>
-    <strong class="profile-education-degree">M.Sc in GIS</strong><br>
-    <span class="profile-education-institution">National University of Singapore</span>
+    <strong class="profile-education-degree">M.Sc. Spatio-Temporal Analytics and Big Data Mining</strong><br>
+    <span class="profile-education-institution">University College London, Department of Civil, Environmental and Geomatic Engineering</span>
   </div>
   <div class="profile-education-item">
     <i class="fas fa-graduation-cap profile-education-icon"></i>
-    <strong class="profile-education-degree">B.Sc in GIS</strong><br>
-    <span class="profile-education-institution">Beijing Forestry University</span>
+    <strong class="profile-education-degree">B.Sc. Environmental Science</strong><br>
+    <span class="profile-education-institution">Beijing Normal University, School of Environment</span>
   </div>
 </div>
-
-<pre><code>    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</code></pre>
+</div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 <style>
@@ -1264,7 +1263,7 @@ body {
   margin-bottom: 1.5rem;
 }
 
-.profile-section-title {
+.section-title {
   font-size: 1.8rem;
   font-weight: 600;
   color: #2c3e50;
@@ -1273,71 +1272,39 @@ body {
   padding-left: 1rem;
 }
 
-.profile-interests-list {
-  margin-bottom: 3rem;
-  padding-left: 1.5rem;
-}
-
-.profile-interests-list li {
-  margin-bottom: 0.5rem;
-  font-size: 1rem;
-  color: #333;
-}
-
-.profile-education-container {
+.interests-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
   margin-bottom: 3rem;
 }
 
-.profile-education-item {
+.interest-tag {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.education-list {
+  space-y: 1.5rem;
+}
+
+.education-item {
   background: #f8f9fa;
   padding: 1.5rem;
   border-radius: 10px;
   border-left: 4px solid #667eea;
   margin-bottom: 1rem;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  display: flex;
-  align-items: flex-start;
-  gap: 1rem;
 }
 
-.profile-education-icon {
-  color: #667eea;
-  font-size: 1.2rem;
-  margin-top: 0.2rem;
-}
-
-.profile-education-degree {
+.education-item strong {
   color: #2c3e50;
   font-size: 1.1rem;
-  display: block;
-  margin-bottom: 0.5rem;
-}
-
-.profile-education-institution {
-  color: #6c757d;
-  font-size: 1rem;
-}
-
-.research-section {
-  background: #f8f9fa;
-  padding: 2rem;
-  border-radius: 10px;
-  border-left: 4px solid #667eea;
-  margin-bottom: 2rem;
-}
-
-.research-section p {
-  color: #555;
-  margin-bottom: 1rem;
-}
-
-.research-section ul {
-  color: #555;
-  padding-left: 1.5rem;
-}
-
-.research-section li {
-  margin-bottom: 0.8rem;
 }
 
 @media (max-width: 768px) {
@@ -1357,7 +1324,7 @@ body {
     font-size: 2rem;
   }
   
-  .profile-interests-list {
+  .interests-list {
     justify-content: center;
   }
 }
