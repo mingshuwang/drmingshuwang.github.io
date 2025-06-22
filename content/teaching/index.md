@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Teaching Philosophy
+      title: Teaching
       text: |-
         
     design:
