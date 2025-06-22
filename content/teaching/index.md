@@ -28,7 +28,8 @@ sections:
 
         ### **Undergraduate-level Courses**
         **GEOG 4111:** Applied Spatial Analysis (GIS A)
-
+        
+        ---
         ## At the University of Twente (2018-2021)
 
         ### **Graduate-level Courses**
