@@ -37,11 +37,11 @@ sections:
         country: United Kingdom
         country_code: UK
       coordinates:
-        latitude: '55.87175'
-        longitude: '-4.28836'r
+        latitude: '55.8718'
+        longitude: '-4.2884'r
       office_hours:
         - 'Monday-Friday 09:00 to 17:00'
-      # appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com'
 
       # Automatically link email and phone or display as text?
       autolink: true
