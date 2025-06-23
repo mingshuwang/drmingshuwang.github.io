@@ -28,7 +28,7 @@ sections:
 
       # Contact details - edit or remove options as needed
       email: mingshu.wang@glasgow.ac.uk
-      phone: +44 (0)141 330 xxxx
+      # phone: +44 (0)141 330 xxxx
       address:
         street: School of Geographical & Earth Sciences
         city: Glasgow
@@ -39,8 +39,8 @@ sections:
       coordinates:
         latitude: '55.87175'
         longitude: '-4.28836'
-      office_hours:
-        - 'Monday-Friday 09:00 to 17:00'
+      # office_hours:
+      #   - 'Monday-Friday 09:00 to 17:00'
       # appointment_url: 'https://calendly.com'
 
       # Automatically link email and phone or display as text?
@@ -48,28 +48,28 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title: Location
-      subtitle: Find us on campus
-      text: |-
-        Our research group is located in the School of Geographical & Earth Sciences at the University of Glasgow. 
+  # - block: markdown
+  #   content:
+  #     title: Location
+  #     subtitle: Find us on campus
+  #     text: |-
+  #       Our research group is located in the School of Geographical & Earth Sciences at the University of Glasgow. 
         
-        **Address:**  
-        School of Geographical & Earth Sciences  
-        University of Glasgow  
-        Glasgow G12 8QQ  
-        United Kingdom
+  #       **Address:**  
+  #       School of Geographical & Earth Sciences  
+  #       University of Glasgow  
+  #       Glasgow G12 8QQ  
+  #       United Kingdom
         
-        **Public Transport:**  
-        - Subway: Hillhead Station (5-minute walk)
-        - Bus: Multiple routes serve University Avenue
-        - Train: Partick Station (15-minute walk)
+  #       **Public Transport:**  
+  #       - Subway: Hillhead Station (5-minute walk)
+  #       - Bus: Multiple routes serve University Avenue
+  #       - Train: Partick Station (15-minute walk)
         
-        **Parking:**  
-        Visitor parking is available on campus. Please check the University of Glasgow website for current parking regulations and fees.
-    design:
-      columns: '1'
-      background:
-        color: '#f8f9fa'
+  #       **Parking:**  
+  #       Visitor parking is available on campus. Please check the University of Glasgow website for current parking regulations and fees.
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       color: '#f8f9fa'
 ---
