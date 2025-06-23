@@ -67,12 +67,11 @@ features:
     zoom: 15
 
 # Custom CSS and head
-custom_css: ["custom.scss"]
-plugins_css: ["css/custom.css", "css/profile-page.css"]
 custom_css:
+  - "custom.scss"
   - "css/custom-marker.css"
-custom_css:
   - "scss/custom.scss"
+plugins_css: ["css/custom.css", "css/profile-page.css"]
 
 
 # Custom head partial
