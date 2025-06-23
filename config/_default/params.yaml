@@ -69,6 +69,9 @@ features:
 # Custom CSS and head
 custom_css: ["custom.scss"]
 plugins_css: ["css/custom.css", "css/profile-page.css"]
+custom_css:
+  - "css/custom-marker.css"
+
 
 # Custom head partial
 head: "custom_head.html"

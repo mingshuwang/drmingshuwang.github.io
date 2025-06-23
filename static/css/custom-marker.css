@@ -1,0 +1,4 @@
+/* 仅针对这枚图标去白底 */
+.leaflet-marker-icon.no-bg-marker{
+  background: transparent !important;
+}
