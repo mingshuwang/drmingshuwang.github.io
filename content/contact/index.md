@@ -41,7 +41,7 @@ sections:
         longitude: '-4.28836'
       office_hours:
         - 'Monday-Friday 09:00 to 17:00'
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
 
       # Automatically link email and phone or display as text?
       autolink: true
