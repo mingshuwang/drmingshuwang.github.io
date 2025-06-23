@@ -37,8 +37,8 @@ sections:
         country: United Kingdom
         country_code: UK
       coordinates:
-        latitude: '55.87174'
-        longitude: '-4.29287'
+        latitude: '55.871566'
+        longitude: '-4.287377'
       # office_hours:
       #   - 'Monday-Friday 09:00 to 17:00'
       # appointment_url: 'https://calendly.com'
