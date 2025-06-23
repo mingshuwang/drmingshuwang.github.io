@@ -38,7 +38,7 @@ sections:
                     <a href="https://uk.linkedin.com/in/mingshuwang" class="social-link" title="LinkedIn">
                       <i class="fab fa-linkedin"></i>
                     </a>
-                    <a href="https://scholar.google.com/citations?user=oVsGl44AAAAJ&hl=zh-CN" class="social-link" title="Google Scholar">
+                    <a href="https://scholar.google.com/citations?user=oVsGl44AAAAJ" class="social-link" title="Google Scholar">
                       <i class="fas fa-graduation-cap"></i>
                     </a>
                     <a href="https://orcid.org/0000-0001-5260-3143" class="social-link" title="ORCID">
@@ -254,44 +254,44 @@ sections:
       spacing:
         padding: ['0', '0', '0', '0']
 
-  - block: markdown
-    id: about-section
-    content:
-      title: "About Our Research"
-      text: |
-        Location-aware technologies and big data are transforming the ways we study and understand human behavior. At **GeoAI Lab**, our mission is to pioneer geospatial solutions to propel human mobility science, a burgeoning field that seeks to model and predict patterns of movement, as well as influence the ways people navigate through urban environments and the broader earth system.
-    design:
-      background:
-        gradient_start: '#f8f9fa'
-        gradient_end: '#ffffff'
-        gradient_angle: 135
-      spacing:
-        padding: ['100px', '0', '100px', '0']
+  # - block: markdown
+  #   id: about-section
+  #   content:
+  #     title: "About Our Research"
+  #     text: |
+  #       Location-aware technologies and big data are transforming the ways we study and understand human behavior. At **GeoAI Lab**, our mission is to pioneer geospatial solutions to propel human mobility science, a burgeoning field that seeks to model and predict patterns of movement, as well as influence the ways people navigate through urban environments and the broader earth system.
+  #   design:
+  #     background:
+  #       gradient_start: '#f8f9fa'
+  #       gradient_end: '#ffffff'
+  #       gradient_angle: 135
+  #     spacing:
+  #       padding: ['100px', '0', '100px', '0']
 
-  - block: features
-    content:
-      title: "Research Areas"
-      items:
-        - name: "Urban Informatics & GeoAI"
-          description: "To improve the understanding of human and vehicle mobility using location-aware technologies and big data analytics, with a focus on developing innovative geospatial artificial intelligence methods."
-          icon: "city"
-        - name: "Mobility Prediction & Demand Forecast"
-          description: "To make timely and reliable forecast of individual and collective mobility using geospatial artificial intelligence (GeoAI) and machine learning techniques."
-          icon: "chart-line"
-        - name: "Urban Systems & Spatial Analysis"
-          description: "To understand short- and long-term changes of mobility behavior in the context of global change and new urban crises (e.g., pandemic, natural disasters), using advanced spatial analysis methods."
-          icon: "map"
-        - name: "Sustainable Transportation"
-          description: "To study the impact of shared mobility and autonomous vehicles on future urban systems, contributing to sustainable urban development and smart city initiatives."
-          icon: "leaf"
-        - name: "Regional Development & Connectivity"
-          description: "To understand the broad implications of mobility for urban development and human interactions, examining how transportation networks shape regional economic and social outcomes."
-          icon: "network-wired"
-        - name: "Smart Tourism & Destination Analytics"
-          description: "To understand tourist spatial behavior and destination choices & develop solutions for smart and sustainable tourism development using big data and location intelligence."
-          icon: "plane"
-    design:
-      spacing:
-        padding: ['0', '0', '0', '0']
+  # - block: features
+  #   content:
+  #     title: "Research Areas"
+  #     items:
+  #       - name: "Urban Informatics & GeoAI"
+  #         description: "To improve the understanding of human and vehicle mobility using location-aware technologies and big data analytics, with a focus on developing innovative geospatial artificial intelligence methods."
+  #         icon: "city"
+  #       - name: "Mobility Prediction & Demand Forecast"
+  #         description: "To make timely and reliable forecast of individual and collective mobility using geospatial artificial intelligence (GeoAI) and machine learning techniques."
+  #         icon: "chart-line"
+  #       - name: "Urban Systems & Spatial Analysis"
+  #         description: "To understand short- and long-term changes of mobility behavior in the context of global change and new urban crises (e.g., pandemic, natural disasters), using advanced spatial analysis methods."
+  #         icon: "map"
+  #       - name: "Sustainable Transportation"
+  #         description: "To study the impact of shared mobility and autonomous vehicles on future urban systems, contributing to sustainable urban development and smart city initiatives."
+  #         icon: "leaf"
+  #       - name: "Regional Development & Connectivity"
+  #         description: "To understand the broad implications of mobility for urban development and human interactions, examining how transportation networks shape regional economic and social outcomes."
+  #         icon: "network-wired"
+  #       - name: "Smart Tourism & Destination Analytics"
+  #         description: "To understand tourist spatial behavior and destination choices & develop solutions for smart and sustainable tourism development using big data and location intelligence."
+  #         icon: "plane"
+  #   design:
+  #     spacing:
+  #       padding: ['0', '0', '0', '0']
 
 ---
