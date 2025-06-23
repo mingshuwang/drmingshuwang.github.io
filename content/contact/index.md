@@ -75,3 +75,8 @@ sections:
   #     background:
   #       color: '#f8f9fa'
 ---
+<style>
+img.leaflet-marker-icon[src$="marker-icon-2x.png"]{
+  background:#0000!important;
+}
+</style>
