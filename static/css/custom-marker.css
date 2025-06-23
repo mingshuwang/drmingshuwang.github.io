@@ -1,4 +1,4 @@
-/* 仅针对这枚图标去白底 */
-.leaflet-marker-icon.no-bg-marker{
+/* 仅匹配 contact 页这一枚蓝色 PNG */
+img.leaflet-marker-icon[src*="marker-icon-2x.png"]{
   background: transparent !important;
 }
