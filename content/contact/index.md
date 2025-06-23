@@ -1,3 +1,9 @@
+<style>
+img.leaflet-marker-icon[src$="marker-icon-2x.png"]{
+  background:transparent!important;
+}
+</style>
+
 ---
 title: Contact
 date: 2022-10-24
