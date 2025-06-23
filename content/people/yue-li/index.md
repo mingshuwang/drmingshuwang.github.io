@@ -18,9 +18,6 @@ sections:
                 <div class="profile-card">
                   <div class="profile-image-container">
                     <img src="avatar-team.jpg" alt="Yue Li" class="profile-image">
-                    <div class="profile-badge">
-                      <i class="fas fa-graduation-cap"></i>
-                    </div>
                   </div>
                   <div class="profile-info">
                     <h1 class="profile-name">Yue Li</h1>
