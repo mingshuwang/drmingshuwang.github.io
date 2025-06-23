@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Wait for page to fully load then setup click handlers
     setTimeout(function() {
         setupTeamMemberClicks();
+        removeCopyButtons();
     }, 1000);
 });
 
@@ -21,7 +22,8 @@ function setupTeamMemberClicks() {
         'Xinyan Xian': '/people/xinyan-xian/',
         'Cai Wu': '/people/cai-wu/',
         'Heyi Wei': '/people/heyi-wei/',
-        'Nana Lin': '/people/nana-lin/'
+        'Nana Lin': '/people/nana-lin/',
+        'Yue': '/people/yue/'
     };
 
     // Find all people-person elements
@@ -106,4 +108,57 @@ function setupTeamMemberClicks() {
             }
         }
     });
+}
+
+// Function to remove copy buttons
+function removeCopyButtons() {
+    console.log('Removing copy buttons...');
+
+    // Remove all copy buttons with various selectors
+    const copyButtonSelectors = [
+        '.btn-copy-code',
+        '.js-copy-cite',
+        'button.btn.btn-primary.btn-copy-code',
+        '.btn.btn-primary.btn-copy-code'
+    ];
+
+    copyButtonSelectors.forEach(function(selector) {
+        const buttons = document.querySelectorAll(selector);
+        buttons.forEach(function(button) {
+            button.remove();
+        });
+        console.log('Removed', buttons.length, 'buttons with selector:', selector);
+    });
+
+    // Also observe for dynamically added copy buttons
+    const observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+            mutation.addedNodes.forEach(function(node) {
+                if (node.nodeType === 1) { // Element node
+                    // Check if the added node is a copy button
+                    if (node.classList && (node.classList.contains('btn-copy-code') || node.classList.contains('js-copy-cite'))) {
+                        node.remove();
+                        console.log('Removed dynamically added copy button');
+                    }
+
+                    // Check for copy buttons within the added node
+                    const copyButtons = node.querySelectorAll && node.querySelectorAll('.btn-copy-code, .js-copy-cite');
+                    if (copyButtons) {
+                        copyButtons.forEach(function(button) {
+                            button.remove();
+                            console.log('Removed copy button from dynamically added content');
+                        });
+                    }
+                }
+            });
+        });
+    });
+
+    // Start observing
+    observer.observe(document.body, {
+        childList: true,
+        subtree: true
+    });
+
+    console.log('Copy button removal setup complete');
 }
