@@ -9,7 +9,6 @@ sections:
   - block: markdown
     content:
       title: Current Courses
-      subtitle: Academic Year 2024-2025
       text: |-
         ## At the University of Glasgow (2021- )
 
