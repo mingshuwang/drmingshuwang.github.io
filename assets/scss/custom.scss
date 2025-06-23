@@ -756,4 +756,8 @@ span:contains("2021") {
   }
 }
 
+/* assets/scss/custom.scss  — 仅覆盖联系人页那一枚图标 */
+img.leaflet-marker-icon[src$="marker-icon-2x.png"] {
+  background: transparent !important;
+}
 

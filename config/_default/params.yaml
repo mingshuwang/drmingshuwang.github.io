@@ -71,6 +71,8 @@ custom_css: ["custom.scss"]
 plugins_css: ["css/custom.css", "css/profile-page.css"]
 custom_css:
   - "css/custom-marker.css"
+custom_css:
+  - "scss/custom.scss"
 
 
 # Custom head partial

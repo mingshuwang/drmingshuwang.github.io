@@ -1,0 +1,4 @@
+/* assets/scss/_marker.scss  — 只去掉这一枚图标的白底 */
+img.leaflet-marker-icon[src$="marker-icon-2x.png"] {
+  background: transparent !important;
+}
